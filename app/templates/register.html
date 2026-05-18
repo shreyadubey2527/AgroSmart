@@ -188,7 +188,7 @@
             btn.type = "submit";
 
           } else {
-            alert("Failed to send OTP");
+            alert("Failed to send OTP: " + (data.message || ""));
             btn.disabled = false;
             btn.innerText = "Send OTP";
           }

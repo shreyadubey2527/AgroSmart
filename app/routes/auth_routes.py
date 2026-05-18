@@ -49,7 +49,7 @@ def send_otp():
     phone = (data.get("phone") or "").strip()
 
     if not email and not phone:
-        return jsonify({"success": False, "message": _("Email or phone required")}), 400
+        return jsonify({"success": False, "message": str(_("Email or phone required"))}), 400
 
     # Generate OTP
     otp = str(random.randint(100000, 999999))
@@ -98,7 +98,7 @@ Email: agrosmart.support@gmail.com""", otp=otp)
             msg["To"] = email
 
             # SMTP Setup
-            server = smtplib.SMTP("smtp.gmail.com", 587)
+            server = smtplib.SMTP("smtp.gmail.com", 587, timeout=10)
             server.starttls()
             server.login(sender_email, sender_password)
             server.sendmail(sender_email, email, msg.as_string())
@@ -107,13 +107,13 @@ Email: agrosmart.support@gmail.com""", otp=otp)
             print("Email sent successfully")
 
         except Exception as e:
-            print("EMAIL ERROR:", e)
-            return jsonify({"success": False, "message": _("Failed to send OTP")}), 500
+            print("EMAIL ERROR:", repr(e))
+            return jsonify({"success": False, "message": str(e)}), 500
 
     elif not email and phone:
-        return jsonify({"success": False, "message": _("Only Email OTP is currently supported.")}), 400
+        return jsonify({"success": False, "message": str(_("Only Email OTP is currently supported."))}), 400
 
-    return jsonify({"success": True, "message": _("OTP sent successfully")})
+    return jsonify({"success": True, "message": str(_("OTP sent successfully"))})
 
 @auth.route("/login", methods=["GET", "POST"])
 def login():
