@@ -92,7 +92,7 @@ Best regards,
 AgroSmart Support Team  
 Email: agrosmart.support@gmail.com""", otp=otp)
 
-            msg = MIMEText(body)
+            msg = MIMEText(body, "plain", "utf-8")
             msg["Subject"] = subject
             msg["From"] = sender_email
             msg["To"] = email
