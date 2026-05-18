@@ -39,3 +39,5 @@ tzdata==2025.3
 urllib3==2.6.3
 Werkzeug==3.1.6
 gunicorn
+
+psycopg2-binary
