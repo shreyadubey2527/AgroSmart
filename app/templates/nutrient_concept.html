@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="explain-guide">
+    <a href="{{ url_for('main.support') }}#guides-section" class="back">← {{ _("Back to Support") }}</a>
+
+<h1>🌿 {{ _("Nutrient Management Concepts") }}</h1>
+
+<p class="guide-intro">{{ _("Nutrient management focuses on providing essential macro and micronutrients to crops for healthy growth, better yield, and soil sustainability.") }}</p>
+
+<div class="guide-grid">
+
+    <div class="step">
+        <strong>🌱 {{ _("Macronutrients (NPK)") }}</strong>
+        <p>{{ _("Nitrogen, Phosphorus, and Potassium are primary nutrients required in large amounts for plant growth.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🍃 {{ _("Nitrogen (N)") }}</strong>
+        <p>{{ _("Supports leaf growth and green color development in plants.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌼 {{ _("Phosphorus (P)") }}</strong>
+        <p>{{ _("Helps in root development, flowering, and energy transfer in plants.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌾 {{ _("Potassium (K)") }}</strong>
+        <p>{{ _("Improves overall plant health, disease resistance, and water regulation.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🔬 {{ _("Micronutrients") }}</strong>
+        <p>{{ _("Elements like iron, zinc, and magnesium are needed in small amounts but are essential for plant functions.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>⚖️ {{ _("Balanced Nutrition") }}</strong>
+        <p>{{ _("Providing the right combination of nutrients ensures healthy crop growth and higher yield.") }}</p>
+    </div>
+
+</div>
+
+</div>
+
+{% endblock %}

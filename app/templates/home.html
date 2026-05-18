@@ -1,0 +1,373 @@
+{% extends 'base.html' %}
+{% block content %}
+<section>
+    <div class="container-box">
+        <header>
+            <h1>🌾 {{ _("AgroSmart") }}</h1>
+            <p>{{ _("Smart Agriculture Platform - Crop Recommendation, Yield & Price Prediction") }}</p>
+            <a href="{{ url_for('main.about') }}">{{ _("Learn More") }}</a>
+        </header>
+
+        <div class="tabs">
+            <button class="tab-btn active" onclick="showTab('recommend', this)">🌱 {{ _("Crop Recommendation")
+                }}</button>
+            <button class="tab-btn" onclick="showTab('yield', this)">📊 {{ _("Yield Prediction") }}</button>
+            <button class="tab-btn" onclick="showTab('price', this)">💰 {{ _("Price Prediction") }}</button>
+        </div>
+
+        <!-- Crop Recommendation Tab -->
+        <div id="recommend" class="content-card active">
+            <div class="info-banner">
+                <h3>{{ _("Crop Recommendation System") }}</h3>
+                <p>{{ _("Get personalized crop recommendations based on your soil and environmental conditions. Our AI
+                    analyzes temperature, humidity, pH levels, rainfall, and nutrient content to suggest the suitable
+                    crops.") }}</p>
+            </div>
+
+            <form id="recommendForm">
+                <div class="form-grid">
+
+                    <!-- 🌍 CITY -->
+                    <div class="form-group">
+                        <label>🏙️ {{ _("City") }}</label>
+                        <div class="input-container">
+                            <input type="text" id="city-input" placeholder="{{ _('Enter your city, e.g., Mumbai') }}">
+                            <button type="button" id="city-submit" class="arrow-icon">➤</button>
+                        </div>
+                    </div>
+
+                    <!-- 🌡️ TEMPERATURE -->
+                    <div class="form-group">
+                        <label>🌡️ {{ _("Temperature (°C)") }}</label>
+                        <input type="number" step="any" min="0" max="50" name="temperature" id="temperature-input"
+                            placeholder="{{ _('Auto or manual') }}">
+                    </div>
+
+                    <!-- 💧 HUMIDITY -->
+                    <div class="form-group">
+                        <label>💧 {{ _("Humidity (%%)") }}</label>
+                        <input type="number" step="0.1" min="0" max="100" name="humidity" id="humidity-input"
+                            placeholder="{{ _('Auto or manual') }}">
+                    </div>
+
+                    <!-- 🌧️ RAINFALL -->
+                    <div class="form-group">
+                        <label>🌧️ {{ _("Rainfall (mm)") }}</label>
+                        <input type="number" step="0.1" min="0" max="500" name="rainfall" id="rainfall-input"
+                            placeholder="{{ _('Auto or manual') }}">
+                    </div>
+
+                    <!-- ⚗️ PH -->
+                    <div class="form-group">
+                        <label>⚗️ {{ _("pH Level") }}</label>
+                        <input type="number" step="0.1" min="3" max="10" name="ph" required
+                            placeholder="{{ _('e.g., 6.5') }}">
+                    </div>
+
+                    <!-- 🌱 NPK -->
+                    <div class="form-group">
+                        <label>🧪 {{ _("Nitrogen (N)") }}</label>
+                        <input type="number" step="0.1" min="0" max="150" name="nitrogen" required
+                            placeholder="{{ _('e.g., 80') }}">
+                    </div>
+                    <div class="form-group">
+                        <label>🧪 {{ _("Phosphorus (P)") }}</label>
+                        <input type="number" step="0.1" min="0" max="150" name="phosphorus" required
+                            placeholder="{{ _('e.g., 60') }}">
+                    </div>
+                    <div class="form-group">
+                        <label>🧪 {{ _("Potassium (K)") }}</label>
+                        <input type="number" step="0.1" min="0" max="200" name="potassium" required
+                            placeholder="{{ _('e.g., 40') }}">
+                    </div>
+
+                </div>
+
+                <center>
+                    <button type="submit" class="btns">{{ _("Get Recommendations") }}</button>
+                </center>
+            </form>
+            <div id="recommendLoading" class="loading">
+                <div class="spinner"></div>
+                <p>{{ _("Analyzing soil conditions...") }}</p>
+            </div>
+
+            <div id="recommendResults" class="results"></div>
+        </div>
+
+        <!-- Yield Prediction Tab -->
+        <div id="yield" class="content-card">
+            <div class="info-banner">
+                <h3>{{ _("Yield Prediction System") }}</h3>
+                <p>{{ _("Predict your crop yield based on cultivation area, weather conditions, and fertilizer usage.
+                    Make informed decisions for better harvest planning.") }}</p>
+            </div>
+
+            <form id="yieldForm">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label>🏙️ {{ _("City") }}</label>
+                        <div class="input-container">
+                            <input type="text" id="yield-city" placeholder="{{ _('Enter your city, e.g., Mumbai') }}">
+                            <button type="button" id="yield-city-btn" class="arrow-icon">➤</button>
+                        </div>
+                    </div>
+                    <div class="form-group"> <label>🌾 {{ _("Select Crop") }}</label> <select name="crop" required>
+                            <option value="">{{ _("Choose a crop") }}</option>
+                            <optgroup label="{{ _('Cereals') }}">
+                                <option value="rice">{{ _("Rice") }}</option>
+                                <option value="wheat">{{ _("Wheat") }}</option>
+                                <option value="maize">{{ _("Maize") }}</option>
+                                <option value="jowar">{{ _("Jowar") }}</option>
+                                <option value="bajra">{{ _("Bajra") }}</option>
+                                <option value="ragi">{{ _("Ragi") }}</option>
+                                <option value="barley">{{ _("Barley") }}</option>
+                            </optgroup>
+                            <optgroup label="{{ _('Pulses') }}">
+                                <option value="gram">{{ _("Gram") }}</option>
+                                <option value="arhar/tur">{{ _("Arhar/Tur") }}</option>
+                                <option value="moong green gram">{{ _("Moong") }}</option>
+                                <option value="urad">{{ _("Urad") }}</option>
+                                <option value="masoor">{{ _("Masoor") }}</option>
+                            </optgroup>
+                            <optgroup label="{{ _('Commercial Crops') }}">
+                                <option value="cotton lint">{{ _("Cotton") }}</option>
+                                <option value="sugarcane">{{ _("Sugarcane") }}</option>
+                                <option value="tobacco">{{ _("Tobacco") }}</option>
+                                <option value="jute">{{ _("Jute") }}</option>
+                            </optgroup>
+                            <optgroup label="{{ _('Spices') }}">
+                                <option value="ginger">{{ _("Ginger") }}</option>
+                                <option value="garlic">{{ _("Garlic") }}</option>
+                                <option value="turmeric">{{ _("Turmeric") }}</option>
+                                <option value="coriander">{{ _("Coriander") }}</option>
+                                <option value="black pepper">{{ _("Black Pepper") }}</option>
+                            </optgroup>
+                            <optgroup label="{{ _('Others') }}">
+                                <option value="onion">{{ _("Onion") }}</option>
+                                <option value="potato">{{ _("Potato") }}</option>
+                                <option value="banana">{{ _("Banana") }}</option>
+                                <option value="groundnut">{{ _("Groundnut") }}</option>
+                                <option value="arecanut">{{ _("Arecanut") }}</option>
+                                <option value="linseed">{{ _("Linseed") }}</option>
+                                <option value="rapeseed andmustard">{{ _("Rapeseed & Mustard") }}</option>
+                                <option value="sesamum">{{ _("Sesamum") }}</option>
+                                <option value="small millets">{{ _("Small Millets") }}</option>
+                                <option value="soyabean">{{ _("Soyabean") }}</option>
+                                <option value="turmeric">{{ _("Turmeric") }}</option>
+                                <option value="cardamom">{{ _("Cardamom") }}</option>
+                                <option value="horse-gram">{{ _("Horse Gram") }}</option>
+                                <option value="niger seed">{{ _("Niger Seed") }}</option>
+                                <option value="sannhamp">{{ _("Sannhamp") }}</option>
+                                <option value="sunflower">{{ _("Sunflower") }}</option>
+                                <option value="peas and beans pulses">{{ _("Peas & Beans") }}</option>
+                                <option value="safflower">{{ _("Safflower") }}</option>
+                                <option value="cashewnut">{{ _("Cashew Nut") }}</option>
+                                <option value="khesari">{{ _("Khesari") }}</option>
+                                <option value="cowpea lobia">{{ _("Cowpea") }}</option>
+                                <option value="guar seed">{{ _("Guar Seed") }}</option>
+                                <option value="moth">{{ _("Moth") }}</option>
+                            </optgroup>
+                        </select> </div>
+                    <div class="form-group">
+                        <label>🌱 {{ _("Season") }}</label>
+                        <select name="season" required>
+                            <option value="">{{ _("Select Season") }}</option>
+                            <option value="kharif">{{ _("Kharif") }}</option>
+                            <option value="rabi">{{ _("Rabi") }}</option>
+                            <option value="summer">{{ _("Summer") }}</option>
+                            <option value="whole year">{{ _("Whole Year") }}</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>📏 {{ _("Area (Hectares)") }}</label>
+                        <input type="number" min="0" max="1000" step="0.1" name="area" required
+                            placeholder="{{ _('e.g., 5.5') }}">
+                    </div>
+                    <div class="form-group">
+                        <label>🌧️ {{ _("Rainfall (mm)") }}</label>
+                        <input type="number" step="0.1" min="0" max="1000" name="rainfall" id="yield_rainfall" required
+                            placeholder="{{ _('Auto or manual') }}">
+                    </div>
+                    <div class="form-group">
+                        <label>🌡️ {{ _("Temperature (°C)") }}</label>
+                        <input type="number" step="any" min="0" max="60" name="temperature" id="yield-temperature"
+                            required placeholder="{{ _('Auto or manual') }}">
+                    </div>
+                    <div class="form-group">
+                        <label>🧪 {{ _("Fertilizer Used (kg/ha)") }}</label>
+                        <input type="number" min="0" max="500" step="0.1" name="fertilizer" required
+                            placeholder="{{ _('e.g., 150') }}">
+                    </div>
+                </div>
+                <center><button type="submit" class="btns">{{ _("Predict Yield") }}</button></center>
+            </form>
+
+            <div id="yieldLoading" class="loading">
+                <div class="spinner"></div>
+                <p>{{ _("Calculating yield prediction...") }}</p>
+            </div>
+
+            <div id="yieldResults" class="results"></div>
+        </div>
+
+        <!-- Price Prediction Tab -->
+        <div id="price" class="content-card">
+            <div class="info-banner">
+                <h3>{{ _("Price Prediction System") }}</h3>
+                <p>{{ _("Get current market prices and future price predictions for your crops. Plan your selling strategy
+                    with AI-powered market insights.") }}</p>
+            </div>
+
+            <form id="priceForm">
+                <div class="form-grid">
+                <div class="form-group">
+                    <label>📍 {{ _("Select State") }}</label>
+                    <select name="state" required>
+                        <option value="">{{ _("Choose a state") }}</option>
+                        <option value="Uttarakhand">{{ _("Uttarakhand") }}</option>
+                        <option value="West Bengal">{{ _("West Bengal") }}</option>
+                        <option value="Tamil Nadu">{{ _("Tamil Nadu") }}</option>
+                        <option value="Maharashtra">{{ _("Maharashtra") }}</option>
+                        <option value="Uttar Pradesh">{{ _("Uttar Pradesh") }}</option>
+                        <option value="Madhya Pradesh">{{ _("Madhya Pradesh") }}</option>
+                        <option value="Gujarat">{{ _("Gujarat") }}</option>
+                        <option value="Telangana">{{ _("Telangana") }}</option>
+                        <option value="Kerala">{{ _("Kerala") }}</option>
+                        <option value="Haryana">{{ _("Haryana") }}</option>
+                        <option value="Andhra Pradesh">{{ _("Andhra Pradesh") }}</option>
+                        <option value="Rajasthan">{{ _("Rajasthan") }}</option>
+                        <option value="Odisha">{{ _("Odisha") }}</option>
+                        <option value="Punjab">{{ _("Punjab") }}</option>
+                        <option value="Tripura">{{ _("Tripura") }}</option>
+                        <option value="Himachal Pradesh">{{ _("Himachal Pradesh") }}</option>
+                        <option value="Chandigarh">{{ _("Chandigarh") }}</option>
+                        <option value="Karnataka">{{ _("Karnataka") }}</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>🌾 {{ _("Select Crop") }}</label>
+                    <select name="crop" required>
+                        <option value="">{{ _("Choose a crop") }}</option>
+                        <option value="water_melon">{{ _("Water Melon") }}</option>
+                        <option value="bottle_gourd">{{ _("Bottle Gourd") }}</option>
+                        <option value="potato">{{ _("Potato") }}</option>
+                        <option value="green_peas">{{ _("Green Peas") }}</option>
+                        <option value="pumpkin">{{ _("Pumpkin") }}</option>
+                        <option value="green_chilli">{{ _("Green Chilli") }}</option>
+                        <option value="onion">{{ _("Onion") }}</option>
+                        <option value="sapota">{{ _("Sapota") }}</option>
+                        <option value="beans">{{ _("Beans") }}</option>
+                        <option value="cabbage">{{ _("Cabbage") }}</option>
+                        <option value="snakeguard">{{ _("Snakeguard") }}</option>
+                        <option value="beetroot">{{ _("Beetroot") }}</option>
+                        <option value="ridge_gourd">{{ _("Ridge Gourd") }}</option>
+                        <option value="drumstick">{{ _("Drumstick") }}</option>
+                        <option value="mint">{{ _("Mint") }}</option>
+                        <option value="brinjal">{{ _("Brinjal") }}</option>
+                        <option value="ginger">{{ _("Ginger") }}</option>
+                        <option value="coconut">{{ _("Coconut") }}</option>
+                        <option value="mango">{{ _("Mango") }}</option>
+                        <option value="carrot">{{ _("Carrot") }}</option>
+                        <option value="papaya">{{ _("Papaya") }}</option>
+                        <option value="tomato">{{ _("Tomato") }}</option>
+                        <option value="banana">{{ _("Banana") }}</option>
+                        <option value="raddish">{{ _("Raddish") }}</option>
+                        <option value="cauliflower">{{ _("Cauliflower") }}</option>
+                        <option value="bitter_gourd">{{ _("Bitter Gourd") }}</option>
+                        <option value="muskmelon">{{ _("Muskmelon") }}</option>
+                        <option value="maize">{{ _("Maize") }}</option>
+                        <option value="garlic">{{ _("Garlic") }}</option>
+                        <option value="peas">{{ _("Peas") }}</option>
+                        <option value="rice">{{ _("Rice") }}</option>
+                        <option value="lime">{{ _("Lime") }}</option>
+                        <option value="pineapple">{{ _("Pineapple") }}</option>
+                        <option value="grapes">{{ _("Grapes") }}</option>
+                        <option value="cucumber">{{ _("Cucumber") }}</option>
+                        <option value="coriander_leaves">{{ _("Coriander Leaves") }}</option>
+                        <option value="lemon">{{ _("Lemon") }}</option>
+                        <option value="sweet_potato">{{ _("Sweet Potato") }}</option>
+                        <option value="guava">{{ _("Guava") }}</option>
+                        <option value="wheat">{{ _("Wheat") }}</option>
+                        <option value="soybean">{{ _("Soybean") }}</option>
+                        <option value="chickpea">{{ _("Chickpea") }}</option>
+                        <option value="methi_leaves">{{ _("Methi Leaves") }}</option>
+                        <option value="capsicum">{{ _("Capsicum") }}</option>
+                        <option value="orange">{{ _("Orange") }}</option>
+                        <option value="spinach">{{ _("Spinach") }}</option>
+                        <option value="groundnut">{{ _("Groundnut") }}</option>
+                        <option value="tur">{{ _("Tur") }}</option>
+                        <option value="sweet_line">{{ _("Sweet Line") }}</option>
+                        <option value="gram">{{ _("Gram") }}</option>
+                        <option value="urad">{{ _("Urad") }}</option>
+                        <option value="turnip">{{ _("Turnip") }}</option>
+                        <option value="cotton">{{ _("Cotton") }}</option>
+                        <option value="guar">{{ _("Guar") }}</option>
+                        <option value="mustard">{{ _("Mustard") }}</option>
+                        <option value="french_beans">{{ _("French Beans") }}</option>
+                        <option value="pomegranate">{{ _("Pomegranate") }}</option>
+                        <option value="tinda">{{ _("Tinda") }}</option>
+                        <option value="lentil">{{ _("Lentil") }}</option>
+                        <option value="apple">{{ _("Apple") }}</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>⚖️ {{ _("Quantity (quintals)") }}</label>
+                    <input type="number" step="0.1" min="0" max="1000" name="quantity" required
+                        placeholder="{{ _('e.g., 10') }}">
+                </div>
+                </div>
+                <center><button type="submit" class="btns">{{ _("Predict Price") }}</button></center>
+            </form>
+
+            <div id="priceLoading" class="loading">
+                <div class="spinner"></div>
+                <p>{{ _("Analyzing market trends...") }}</p>
+            </div>
+
+            <div id="priceResults" class="results"></div>
+        </div>
+    </div>
+</section>
+
+<section class="hero">
+    <section class="features">
+        <h2>{{ _("Why Choose AgroSmart?") }}</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>🤖 {{ _("AI Insights") }}</h3>
+                <p>{{ _("Advanced ML models for accurate predictions.") }}</p>
+            </div>
+            <div class="card">
+                <h3>🌱 {{ _("Smart Crops") }}</h3>
+                <p>{{ _("Best crops based on soil and climate.") }}</p>
+            </div>
+            <div class="card">
+                <h3>📊 {{ _("Data Driven") }}</h3>
+                <p>{{ _("Make informed farming decisions.") }}</p>
+            </div>
+            <div class="card">
+                <h3>💰 {{ _("Profit Boost") }}</h3>
+                <p>{{ _("Predict market prices and maximize profit.") }}</p>
+            </div>
+        </div>
+    </section>
+    <section class="steps">
+        <h2>{{ _("How It Works") }}</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>1️⃣ {{ _("Enter Data") }}</h3>
+                <p>{{ _("Provide soil and weather details.") }}</p>
+            </div>
+            <div class="card">
+                <h3>2️⃣ {{ _("AI Analysis") }}</h3>
+                <p>{{ _("Our model processes your inputs.") }}</p>
+            </div>
+            <div class="card">
+                <h3>3️⃣ {{ _("Get Results") }}</h3>
+                <p>{{ _("Receive predictions instantly.") }}</p>
+            </div>
+        </div>
+    </section>
+</section>
+{% endblock %}

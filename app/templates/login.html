@@ -1,0 +1,126 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="login">
+
+  <!-- ═══════════ LEFT PANEL ═══════════ -->
+  <div class="left-panel">
+
+    <div class="ring ring-1"></div>
+    <div class="ring ring-2"></div>
+    <div class="ring ring-3"></div>
+
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+
+    <div class="logo-area">
+      <div class="logo-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--soil)" stroke-width="2.2" stroke-linecap="round"
+          stroke-linejoin="round">
+          <path d="M12 2C6.48 2 2 6.48 2 12c0 4.42 2.87 8.17 6.84 9.5" />
+          <path d="M12 22c2.5 0 4.8-.85 6.6-2.26" />
+          <path d="M7 10s1-4 5-4 5 4 5 4" />
+          <path d="M12 6v16" />
+          <path d="M9 13s-2 2-2 4h10c0-2-2-4-2-4" />
+        </svg>
+      </div>
+      <div class="logo-name">AgroSmart<sup>®</sup></div>
+    </div>
+
+    <div class="left-content">
+      <div class="badge"><span></span> {{ _("Precision Agriculture Platform") }}</div>
+
+      <h1 class="left-headline">{{ _("Grow smarter,") }} <br><em>{{ _("harvest richer.") }}</em></h1>
+
+      <p class="left-sub">{{ _("Real-time crop intelligence, soil analytics, and weather-driven insights — all in one platform built for modern farmers.") }}</p>
+
+      <div class="stats-row">
+        <div class="stat">
+          <span class="stat-num">12K+</span>
+          <span class="stat-label">{{ _("Farms monitored") }}</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num">94%</span>
+          <span class="stat-label">{{ _("Yield accuracy") }}</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num">38°</span>
+          <span class="stat-label">{{ _("Countries") }}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ═══════════ RIGHT PANEL ═══════════ -->
+  <div class="right-panel">
+    <div class="form-card">
+
+      <h2 class="form-heading">{{ _("Welcome back") }}</h2>
+      <p class="form-sub">{{ _("New to AgroSmart?") }} <a href="/register">{{ _("Create a free account") }}</a></p>
+
+      <div class="divider">{{ _("sign in with email or phone") }}</div>
+      <!-- Flash Messages -->
+      {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+      {% for category, message in messages %}
+      <div class="flash {{ category }}">{{ message }}</div>
+      {% endfor %}
+      {% endif %}
+      {% endwith %}
+
+      <!-- ✅ FORM STARTS HERE -->
+      <form method="POST" action="{{ url_for('auth.login') }}">
+
+        <!-- Email -->
+        <div class="field">
+          <label for="email">{{ _("Email or Phone Number") }}</label>
+          <div class="field-wrap">
+            <input id="email" name="email" type="text" placeholder="{{ _('Enter email or phone number') }}" required>
+          </div>
+        </div>
+
+        <!-- Password -->
+        <div class="field">
+          <label for="password">{{ _("Password") }}</label>
+          <div class="field-wrap">
+            <input id="password" name="password" type="password" placeholder="{{ _('Enter your password') }}"
+              autocomplete="current-password" required>
+            <button type="button" class="eye-btn" onclick="togglePwd()">
+              👁
+            </button>
+          </div>
+        </div>
+
+        <!-- Remember -->
+        <div class="field-row">
+          <a href="/forgot-password" class="forgot">{{ _("Forgot password?") }}</a>
+        </div>
+
+        <!-- Submit -->
+        <button class="login-btn" type="submit">
+          {{ _("Sign in to AgroSmart") }}
+        </button>
+
+      </form>
+      <!-- ✅ FORM ENDS HERE -->
+
+      <p class="register-prompt">{{ _("Don't have an account?") }} <a href="{{ url_for('auth.register') }}">{{ _("Register now →") }}</a></p>
+
+    </div>
+  </div>
+</div>
+
+
+<!-- Password Toggle Script -->
+<script>
+  function togglePwd() {
+    const pwd = document.getElementById("password");
+    pwd.type = pwd.type === "password" ? "text" : "password";
+  }
+</script>
+
+
+{% endblock %}

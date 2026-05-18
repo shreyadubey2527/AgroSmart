@@ -1,0 +1,79 @@
+{% extends 'base.html' %}
+{% block content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/setting.css') }}">
+
+
+<div class="settings-page">
+  <div class="settings-card">
+
+    <div class="settings-title">⚙️ {{ _("Settings") }}</div>
+
+    <!-- 👤 Profile -->
+    <form action="{{ url_for('main.save_profile') }}" method="POST" class="setting-section">
+      <h3>👤 {{ _("Profile") }}</h3>
+      <div class="profile-fields">
+        <div class="input-group">
+          <label for="fullName">👤 {{ _("Full Name") }}</label>
+          <input type="text" id="fullName" name="full_name" class="input-box" value="{{ user.full_name }}"
+            placeholder="{{ _('Enter your full name') }}" required>
+        </div>
+        <div class="input-group">
+          <label for="phoneNumber">📞 {{ _("Phone Number") }}</label>
+          <input type="tel" id="phoneNumber" name="phone" class="input-box" value="{{ user.phone or '' }}"
+            placeholder="{{ _('Enter phone number') }}" required pattern="[0-9]{10}"
+            title="{{ _('Phone number must be 10 digits') }}">
+        </div>
+        <div class="input-group">
+          <label for="emailId">📧 {{ _("Email ID") }}</label>
+          <input type="email" id="emailId" name="email" class="input-box" value="{{ user.email or '' }}"
+            placeholder="{{ _('Enter email') }}" required>
+        </div>
+      </div>
+      <button type="submit" class="save-btn" style="margin-top:15px;">💾 {{ _("Save Profile") }}</button>
+    </form>
+
+    <!-- 🌐 Language -->
+    <div class="setting-section">
+      <h3>🌐 {{ _("Language") }}</h3>
+      <select id="langSelect" class="select-box" onchange="window.location.href='/set_language/' + this.value">
+        <option value="en" {% if session.get('lang')=='en' %}selected{% endif %}>English</option>
+        <option value="hi" {% if session.get('lang')=='hi' %}selected{% endif %}>हिन्दी (Hindi)</option>
+      </select>
+    </div>
+
+  </div>
+</div>
+<!-- Flash Messages Placeholder -->
+<div id="flash-messages" style="display: none;">
+  {% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+  {% for category, message in messages %}
+  <span class="flash-msg" data-msg="{{ message }}"></span>
+  {% endfor %}
+  {% endif %}
+  {% endwith %}
+</div>
+
+<script>
+  // 🔔 FLASH MESSAGE TOAST
+  document.addEventListener("DOMContentLoaded", () => {
+    const flashMessages = document.querySelectorAll(".flash-msg");
+    flashMessages.forEach(msg => {
+      showToast(msg.dataset.msg);
+    });
+  });
+
+  function showToast(msg) {
+    const toast = document.createElement("div");
+    toast.innerText = msg;
+    toast.className = "toast-message";
+    document.body.appendChild(toast);
+
+    setTimeout(() => {
+      toast.style.opacity = "0";
+      setTimeout(() => toast.remove(), 500);
+    }, 3000);
+  }
+</script>
+
+{% endblock %}

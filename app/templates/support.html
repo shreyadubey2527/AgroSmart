@@ -1,0 +1,148 @@
+{% extends "base.html" %}
+
+{% block content %}
+<link rel="stylesheet" href="/static/css/support.css">
+
+
+<!-- Hero -->
+<div class="support">
+  <div class="support-hero">
+    <h1 class="section-title">{{ _("How can we") }} <em>{{ _("help?") }}</em></h1>
+    <p style="color:rgba(245,240,232,0.6);margin-top:16px;font-size:1rem">{{ _("Find guides, FAQs, and expert support
+      for all AgroSmart tools.") }}</p>
+
+  </div>
+
+  <!-- Quick Links -->
+  <div class="quick-links">
+    <div class="quick-grid">
+      <a href="/#recommend" class="quick-card">
+        <div class="quick-icon">🌱</div>
+        <div class="quick-title">{{ _("Crop Recommender") }}</div>
+        <div class="quick-desc">{{ _("How to use the AI crop recommendation tool") }}</div>
+      </a>
+      <a href="/#yield" class="quick-card">
+        <div class="quick-icon">📊</div>
+        <div class="quick-title">{{ _("Yield Prediction") }}</div>
+        <div class="quick-desc">{{ _("Understanding your yield estimates and ranges") }}</div>
+      </a>
+      <a href="/#price" class="quick-card">
+        <div class="quick-icon">💹</div>
+        <div class="quick-title">{{ _("Price Forecasting") }}</div>
+        <div class="quick-desc">{{ _("Reading price charts and market signals") }}</div>
+      </a>
+      <a href="/contact" class="quick-card">
+        <div class="quick-icon">🧑‍💼</div>
+        <div class="quick-title">{{ _("Talk to an Expert") }}</div>
+        <div class="quick-desc">{{ _("Get personalised guidance from our agronomy team") }}</div>
+      </a>
+    </div>
+  </div>
+
+  <!-- FAQ -->
+  <div class="faq-section" id="faq">
+    <h2 class="section-title">{{ _("Frequently Asked") }} <em>{{ _("Questions") }}</em></h2>
+
+    <div class="faq-list" id="faq-list">
+      {% for faq in faqs %}
+      <div class="faq-item" data-q="{{ faq.q | lower }}">
+        <div class="faq-q" onclick="toggleFAQ(this.parentElement)">
+          <span>{{ faq.q }}</span>
+          <span class="faq-chevron">▾</span>
+        </div>
+        <div class="faq-a">{{ faq.a }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Guides -->
+  <div id="guides-section" class="guides-section">
+    <h2 class="section-title">{{ _("Smart") }} <em>{{ _("Guides") }}</em></h2>
+
+    <div class="guides-grid">
+      <a href="/nutrient_concept" class="guide-card">
+        <div class="guide-icon">📱</div>
+        <div>
+          <div class="guide-title">{{ _("Nutrient Management Concepts") }}</div>
+          <div class="guide-desc">{{ _("Nutrient management focuses on providing essential macro and micronutrients to
+            crops for healthy growth, better yield, and soil sustainability.") }}</div>
+          <span class="guide-link">{{ _("Read Guide →") }}</span>
+        </div>
+      </a>
+      <a href="/sustainable_guide" class="guide-card">
+        <div class="guide-icon">🌱</div>
+        <div>
+          <div class="guide-title"> {{ _("Sustainable Agriculture Practices") }}</div>
+          <div class="guide-desc">{{ _("Learn modern and eco-friendly farming techniques that improve productivity while
+            protecting the environment for future generations.") }}</div>
+          <span class="guide-link">{{ _("Read Guide →") }}</span>
+        </div>
+      </a>
+      <a href="/soil_science" class="guide-card">
+        <div class="guide-icon">🧪</div>
+        <div>
+          <div class="guide-title">{{ _("Soil Science Fundamentals") }}</div>
+          <div class="guide-desc">{{ _("Soil science helps farmers understand soil composition, fertility, and structure
+            to improve crop productivity and maintain long-term soil health.") }}</div>
+          <span class="guide-link">{{ _("Read Guide →") }}</span>
+        </div>
+      </a>
+      <a href="/crop_growth" class="guide-card">
+        <div class="guide-icon">💰</div>
+        <div>
+          <div class="guide-title">{{ _("Crop Growth Principles") }}</div>
+          <div class="guide-desc">{{ _("Understanding the stages of crop growth helps farmers plan better and improve
+            productivity at each phase of the plant life cycle.") }}</div>
+          <span class="guide-link">{{ _("Read Guide →") }}</span>
+        </div>
+      </a>
+      <a href="/water_management" class="guide-card">
+        <div class="guide-icon">🌧️</div>
+        <div>
+          <div class="guide-title">{{ _("Water Management Theory") }}</div>
+          <div class="guide-desc">{{ _("Water management theory focuses on how proper use, distribution, and
+            conservation of water improves crop productivity and sustainability.") }}</div>
+          <span class="guide-link">{{ _("Read Guide →") }}</span>
+        </div>
+      </a>
+      <a href="/climate" class="guide-card">
+        <div class="guide-icon">🔔</div>
+        <div>
+          <div class="guide-title">{{ _("Climate and Environmental Impact") }}</div>
+          <div class="guide-desc">{{ _("Climate and environmental factors such as temperature, rainfall, humidity, and
+            climate change play a crucial role in determining crop growth and overall farming success.") }}</div>
+          <span class="guide-link">{{ _("Read Guide →") }}</span>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- Contact Bar -->
+  <div class="contact-bar">
+    <div class="section-label" style="justify-content:center">{{ _("Still Need Help?") }}</div>
+    <h2 class="section-title" style="margin-bottom:16px">{{ _("Our team is") }} <em>{{ _("here for you") }}</em></h2>
+    <p style="color:rgba(245,240,232,0.6);margin-bottom:36px;font-size:1rem">{{ _("Can't find what you're looking for?
+      Our agronomy experts respond within 24 hours.") }}</p>
+    <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap">
+      <a href="/contact" class="btn-primary">📧 {{ _("Email Support") }}</a>
+    </div>
+  </div>
+</div>
+<script>
+  function toggleFAQ(item) {
+    const isOpen = item.classList.contains('open');
+    document.querySelectorAll('.faq-item.open').forEach(el => el.classList.remove('open'));
+    if (!isOpen) item.classList.add('open');
+  }
+
+  function filterFAQs(query) {
+    const q = query.toLowerCase();
+    document.querySelectorAll('.faq-item').forEach(item => {
+      const text = item.querySelector('.faq-q span').textContent.toLowerCase();
+      const ans = item.querySelector('.faq-a').textContent.toLowerCase();
+      item.style.display = (!q || text.includes(q) || ans.includes(q)) ? '' : 'none';
+    });
+  }
+</script>
+{% endblock %}

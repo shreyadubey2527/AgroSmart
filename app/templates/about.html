@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% block content %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}">
+
+<section class="about" id="about">
+            <div class="container1">
+                <h2 class="section-title slide-up">{{ _("About Us") }}</h2>
+                <p class="slide-up delay">{{ _("Agriculture plays a vital role in our economy, yet farmers face challenges in selecting the right crops and predicting yields and market prices. Our system uses machine learning and data analytics to assist farmers in making smart and informed decisions. Our platform uses machine learning algorithms and historical agricultural data to provide accurate and reliable predictions. By integrating soil analysis, climate data, and market trends, we aim to reduce crop failure risks and improve overall farm productivity and profitability. We believe that the use of smart technologies in agriculture can empower farmers, promote sustainable farming practices, and contribute to food security. This project is developed with the vision of making advanced agricultural insights easily accessible to everyone through a simple and user-friendly interface.") }}</p>
+            </div>
+        </section>
+
+        <!-- Cards Section -->
+        <section class="features">
+            
+            <div class="container1 grid">
+                <div class="about-card zoom-in">
+                    <h3>🌱 {{ _("Crop Recommendation") }}</h3>
+                    <p>{{ _("Suggests the most suitable crop based on soil, climate, and location.") }}</p>
+                </div>
+
+                <div class="about-card zoom-in delay">
+                    <h3>📊 {{ _("Yield Prediction") }}</h3>
+                    <p>{{ _("Predicts expected crop yield using historical and environmental data.") }}</p>
+                </div>
+
+                <div class="about-card zoom-in delay2">
+                    <h3>💰 {{ _("Price Prediction") }}</h3>
+                    <p>{{ _("Estimates future market prices to help farmers plan better profits.") }}</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Mission & Vision -->
+        <section class="mission">
+            <div class="container1">
+                <div class="mission-box slide-left">
+                    <h2>{{ _("Our Mission") }}</h2>
+                    <p>{{ _("To empower farmers with intelligent tools that improve productivity, reduce risk, and promote sustainable farming.") }}</p>
+                </div>
+        </section>
+    {% endblock %}

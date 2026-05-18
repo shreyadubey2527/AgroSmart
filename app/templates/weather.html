@@ -1,0 +1,115 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<link rel="stylesheet" href="/static/css/weather.css">
+
+<!-- 🌦️ WEATHER UI -->
+<div class="weather-card">
+  <div class="weather-bg"></div>
+
+  <div class="weather-content">
+    <h2 id="weather-city">🌍 Search Your City</h2>
+
+    <!-- 🔍 Search -->
+    <div class="weather-search">
+      <input type="text" id="city-input" placeholder="Enter city (e.g. Mumbai)">
+      <button onclick="fetchWeather()">🌦️</button>
+    </div>
+
+    <!-- 🔄 Loading -->
+    <div id="weather-loading" class="weather-loading hidden">
+      <div class="spinner"></div>
+      <p>Fetching weather...</p>
+    </div>
+
+    <!-- ❌ Error -->
+    <div id="weather-error" class="weather-error hidden"></div>
+
+    <!-- 🌡️ Main -->
+    <div class="weather-main">
+      <div class="temp" id="weather-temp">--°C</div>
+      <div id="weather-desc">☁️ Weather</div>
+    </div>
+
+    <!-- 📊 Details -->
+    <div class="weather-details">
+      <div>💧 <span id="weather-humidity">--</span>%</div>
+      <div>🌧️ <span id="weather-rain">--</span> mm</div>
+    </div>
+  </div>
+</div>
+
+<script>
+  async function fetchWeather() {
+    const city = document.getElementById('city-input').value.trim();
+
+    const loading = document.getElementById('weather-loading');
+    const errorBox = document.getElementById('weather-error');
+
+    if (!city) {
+      errorBox.innerText = "⚠️ Please enter a city";
+      errorBox.classList.remove("hidden");
+      return;
+    }
+
+    loading.classList.remove("hidden");
+    errorBox.classList.add("hidden");
+
+    try {
+      const res = await fetch(`/weather?city=${city}`);
+      const data = await res.json();
+
+      loading.classList.add("hidden");
+
+      if (data.error) {
+        errorBox.innerText = "❌ " + data.error;
+        errorBox.classList.remove("hidden");
+        return;
+      }
+
+      // Update UI
+      document.getElementById('weather-city').innerText = "📍 " + (data.city || "Unknown");
+
+      const temp = parseFloat(data.temperature);
+      const humidity = parseFloat(data.humidity);
+      const rainfall = parseFloat(data.rainfall);
+
+      animateWeatherValue("weather-temp", (isNaN(temp) ? 0 : temp).toFixed(1) + "°C");
+      animateWeatherValue("weather-humidity", (isNaN(humidity) ? 0 : humidity).toFixed(0));
+      animateWeatherValue("weather-rain", (isNaN(rainfall) ? 0 : rainfall).toFixed(1));
+
+      // 🌦️ Smart icon
+      const desc = (data.description || "").toLowerCase();
+
+      if (desc.includes("rain")) {
+        document.getElementById('weather-desc').innerText = "🌧️ Rainy";
+      } else if (desc.includes("cloud")) {
+        document.getElementById('weather-desc').innerText = "☁️ Cloudy";
+      } else if (temp > 30) {
+        document.getElementById('weather-desc').innerText = "☀️ Hot";
+      } else if (temp > 20) {
+        document.getElementById('weather-desc').innerText = "🌤️ Pleasant";
+      } else {
+        document.getElementById('weather-desc').innerText = "❄️ Cool";
+      }
+
+    } catch (err) {
+      loading.classList.add("hidden");
+      errorBox.innerText = "⚠️ Server error. Try again.";
+      errorBox.classList.remove("hidden");
+    }
+  }
+
+  function animateWeatherValue(id, value) {
+    const el = document.getElementById(id);
+    el.style.opacity = 0;
+
+    setTimeout(() => {
+      el.innerText = value;
+      el.style.opacity = 1;
+      el.style.transition = "0.5s";
+    }, 300);
+  }
+</script>
+
+{% endblock %}

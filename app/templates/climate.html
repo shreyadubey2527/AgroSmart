@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="explain-guide">
+    <a href="{{ url_for('main.support') }}#guides-section" class="back">← {{ _("Back to Support") }}</a>
+
+<h1>🌦️ {{ _("Climate and Environmental Impact") }}</h1>
+
+<p class="guide-intro">{{ _("Climate and environmental factors such as temperature, rainfall, humidity, and climate change play a crucial role in determining crop growth and overall farming success.") }}</p>
+
+<div class="guide-grid">
+
+    <div class="step">
+        <strong>🌡️ {{ _("Temperature") }}</strong>
+        <p>{{ _("Temperature affects crop growth, germination, and yield. Each crop requires an optimal temperature range.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌧️ {{ _("Rainfall") }}</strong>
+        <p>{{ _("Rainfall provides natural water supply, but too much or too little can affect crop productivity.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>💨 {{ _("Humidity") }}</strong>
+        <p>{{ _("Humidity levels influence plant diseases, transpiration, and overall plant health.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌪️ {{ _("Extreme Weather") }}</strong>
+        <p>{{ _("Events like droughts, floods, and storms can damage crops and reduce yield.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌍 {{ _("Climate Change") }}</strong>
+        <p>{{ _("Long-term climate changes affect growing seasons, water availability, and crop patterns.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌱 {{ _("Environmental Balance") }}</strong>
+        <p>{{ _("Maintaining ecological balance supports sustainable farming and long-term productivity.") }}</p>
+    </div>
+
+</div>
+
+</div>
+{% endblock %}

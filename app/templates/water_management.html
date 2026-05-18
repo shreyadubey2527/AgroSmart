@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="explain-guide">
+    <a href="{{ url_for('main.support') }}#guides-section" class="back">← {{ _("Back to Support") }}</a>
+
+<h1>💧 {{ _("Water Management Theory") }}</h1>
+
+<p class="guide-intro">{{ _("Water management theory focuses on how proper use, distribution, and conservation of water improves crop productivity and sustainability.") }}</p>
+
+<div class="guide-grid">
+
+    <div class="step">
+        <strong>💧 {{ _("Water Availability") }}</strong>
+        <p>{{ _("Understanding water sources like rainfall, groundwater, and irrigation helps in proper planning.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🚿 {{ _("Irrigation Methods") }}</strong>
+        <p>{{ _("Different methods like drip, sprinkler, and surface irrigation are used based on crop needs.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌱 {{ _("Crop Water Requirements") }}</strong>
+        <p>{{ _("Each crop needs a specific amount of water at different growth stages.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌊 {{ _("Drainage System") }}</strong>
+        <p>{{ _("Proper drainage prevents waterlogging and protects roots from damage.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌦️ {{ _("Rainwater Management") }}</strong>
+        <p>{{ _("Rainwater harvesting helps store and utilize water efficiently.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>⚖️ {{ _("Water Balance") }}</strong>
+        <p>{{ _("Maintaining the right balance between water supply and crop demand ensures healthy growth.") }}</p>
+    </div>
+
+</div>
+
+
+</div>
+
+
+{% endblock %}

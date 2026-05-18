@@ -1,0 +1,147 @@
+{% extends 'base.html' %}
+{% block content %}
+
+
+<link rel="stylesheet" href="/static/css/schemes.css">
+<div class="scheme">
+  <div class="heading">
+    <h1>🌾 {{ _("Government Schemes for Farmers") }}</h1>
+    <p>{{ _("Explore top government initiatives to support farmers") }}</p>
+  </div>
+
+  <div class="scheme-grid">
+
+    <!-- 1 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card1.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-coins"></i></div>
+        <h4>{{ _("PM-KISAN Scheme") }}</h4>
+        <p>{{ _("Provides ₹6000 per year to farmers in three installments.") }}</p>
+        <a href="https://pmkisan.gov.in" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 2 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card2.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-shield-alt"></i></div>
+        <h4>{{ _("Pradhan Mantri Fasal Bima Yojana") }}</h4>
+        <p>{{ _("Insurance scheme protecting crops from natural disasters.") }}</p>
+        <a href="https://pmfby.gov.in" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 3 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card3.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-seedling"></i></div>
+        <h4>{{ _("Soil Health Card Scheme") }}</h4>
+        <p>{{ _("Provides soil nutrient status and fertilizer recommendations.") }}</p>
+        <a href="https://soilhealth.dac.gov.in" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 4 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/img-8.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-store"></i></div>
+        <h4>{{ _("eNAM") }}</h4>
+        <p>{{ _("Online platform for transparent agricultural trading.") }}</p>
+        <a href="https://www.enam.gov.in" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 5 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card4.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-credit-card"></i></div>
+        <h4>{{ _("Kisan Credit Card") }}</h4>
+        <p>{{ _("Provides easy credit access for agricultural expenses.") }}</p>
+        <a href="https://www.nabard.org" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 6 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card5.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-tint"></i></div>
+        <h4>{{ _("PM Krishi Sinchai Yojana") }}</h4>
+        <p>{{ _("Improves irrigation efficiency and water usage.") }}</p>
+        <a href="https://pmksy.gov.in" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 7 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card6.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-leaf"></i></div>
+        <h4>{{ _("Paramparagat Krishi Vikas Yojana") }}</h4>
+        <p>{{ _("Promotes organic farming and eco-friendly practices.") }}</p>
+        <a href="https://pgsindia-ncof.gov.in" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 8 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card7.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-globe"></i></div>
+        <h4>{{ _("National Mission for Sustainable Agriculture") }}</h4>
+        <p>{{ _("Focuses on climate-resilient and sustainable farming.") }}</p>
+        <a href="https://nmsa.dac.gov.in" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 9 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card8.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-chart-line"></i></div>
+        <h4>{{ _("Rashtriya Krishi Vikas Yojana") }}</h4>
+        <p>{{ _("Supports agricultural growth through state-level initiatives.") }}</p>
+        <a href="https://rkvy.nic.in" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 10 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card9.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-industry"></i></div>
+        <h5>{{ _("PM Formalisation of Micro Food Processing Enterprises") }}</h5>
+        <p>{{ _("Supports small food processing businesses with funding.") }}</p>
+        <a href="https://pmfme.mofpi.gov.in" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+    <!-- 11 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/card10.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-tractor"></i></div>
+        <h5>{{ _("Sub-Mission on Agricultural Mechanization (SMAM)") }}</h5>
+        <p>{{ _("Provides subsidies for purchasing modern agricultural machinery and equipment.") }}</p>
+        <a href="https://agricoop.nic.in/en/divisiontype/sub-mission-agricultural-mechanization" target="_blank">{{
+          _("View Details") }}</a>
+      </div>
+    </div>
+
+    <!-- 12 -->
+    <div class="scheme-card">
+      <img src="{{ url_for('static', filename='images/img-8.jpg') }}">
+      <div class="card-content">
+        <div class="icon"><i class="fas fa-users"></i></div>
+        <h5>{{ _("Farmer Producer Organizations (FPO) Scheme") }}</h5>
+        <p>{{ _("Supports farmers to form groups for better market access, pricing, and profits.") }}</p>
+        <a href="https://sfacindia.com/FPO.aspx" target="_blank">{{ _("View Details") }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

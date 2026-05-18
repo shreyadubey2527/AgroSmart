@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="hero" style="padding:40px; text-align:center; margin-top: 80px;">
+    <h1>{{ _("🌱 Smart Farming Starts Here") }}</h1>
+    <h2>{{ _("Hello, %(name)s 👋", name=user.full_name) }}</h2>
+
+    <p>{{ _("Your registered email:") }} <strong>{{ user.email }}</strong></p>
+
+    <br><br>
+
+    <a href="/" style="padding:10px 20px; background:green; color:white; text-decoration:none; border-radius:5px;">{{
+        _("Home") }}</a>
+</div>
+{% endblock %}

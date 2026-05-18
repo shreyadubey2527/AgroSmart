@@ -1,0 +1,123 @@
+.container1 {
+            width: 85%;
+            margin: auto;
+            padding: 60px 0;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 2.2rem;
+            margin-bottom: 20px;
+        }
+
+        /* About */
+        .about p {
+            text-align: center;
+            line-height: 1.8;
+            font-size: 1.1rem;
+        }
+
+        /* Cards */
+        
+
+        .about-card {
+            background: #fff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
+        /* Mission */
+        .mission {
+            background: #e8f5e9;
+        }
+
+        .mission-box {
+            background: #fff;
+            padding: 30px;
+            margin: 20px 0;
+            border-left: 5px solid #4CAF50;
+            border-radius: 8px;
+        }
+
+        /* Animations */
+        .fade-in {
+            opacity: 0;
+            animation: fadeIn 1.5s forwards;
+        }
+
+        .delay {
+            animation-delay: 0.5s;
+        }
+
+        .delay2 {
+            animation-delay: 1s;
+        }
+
+        .slide-up {
+            opacity: 0;
+            transform: translateY(40px);
+            animation: slideUp 1.2s forwards;
+        }
+
+        .slide-left {
+            opacity: 0;
+            transform: translateX(-50px);
+            animation: slideLeft 1.2s forwards;
+        }
+
+        .slide-right {
+            opacity: 0;
+            transform: translateX(50px);
+            animation: slideRight 1.2s forwards;
+        }
+
+        .zoom-in {
+            opacity: 0;
+            transform: scale(0.8);
+            animation: zoomIn 1.2s forwards;
+        }
+
+        /* Keyframes */
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideLeft {
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes slideRight {
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes zoomIn {
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        .about {
+            margin-top: 80px;
+        }

@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+{% block content %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/contact.css') }}">
+
+<section class="contact-section" id="contact">
+    <div class="container3">
+
+        <!-- Contact Info -->
+        <div class="contact-info slide-left">
+            <h2>{{ _("Get in Touch") }}</h2>
+            <p>{{ _("Have questions about crop recommendation, yield prediction, or price forecasting? Feel free to reach out to us.") }}</p>
+
+            <div class="info-box">
+                <i class="fas fa-map-marker-alt"></i>
+                <span>{{ _("India") }}</span>
+            </div>
+
+            <div class="info-box">
+                <i class="fas fa-envelope"></i>
+                <span><a href="mailto:agrosmart.support@gmail.com">agrosmart.support@gmail.com</a></span>
+            </div>
+            <div class="info-box">
+                <i class="fas fa-phone"></i>
+                <span>+91 9XXXXXXXXX</span>
+            </div>
+        </div>
+
+        <!-- Contact Form -->
+        <div class="contact-form slide-right">
+            <h2>{{ _("Send a Message") }}</h2>
+            {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            {% for message in messages %}
+            <p style="color: green;">{{ message }}</p>
+            {% endfor %}
+            {% endif %}
+            {% endwith %}
+            <form id="contactForm" action="/contact-form" method="post">
+                <input type="text" placeholder="{{ _('Your Name') }}" name="name" required>
+                <input type="email" placeholder="{{ _('Your Email') }}" name="email" required>
+                <input type="text" placeholder="{{ _('Subject') }}" name="subject" required>
+                <textarea placeholder="{{ _('Your Message') }}" name="message" required></textarea>
+                <button type="submit">{{ _("Send Message") }}</button>
+                <p id="successMsg"></p>
+            </form>
+
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+            crossorigin="anonymous"></script>
+
+    </div>
+</section>
+{% endblock %}

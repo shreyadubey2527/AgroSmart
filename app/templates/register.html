@@ -1,0 +1,208 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="login">
+
+  <!-- ═══════════ LEFT PANEL ═══════════ -->
+  <div class="left-panel">
+
+    <div class="ring ring-1"></div>
+    <div class="ring ring-2"></div>
+    <div class="ring ring-3"></div>
+
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+
+    <div class="logo-area">
+      <div class="logo-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--soil)" stroke-width="2.2" stroke-linecap="round"
+          stroke-linejoin="round">
+          <path d="M12 2C6.48 2 2 6.48 2 12c0 4.42 2.87 8.17 6.84 9.5" />
+          <path d="M12 22c2.5 0 4.8-.85 6.6-2.26" />
+          <path d="M7 10s1-4 5-4 5 4 5 4" />
+          <path d="M12 6v16" />
+          <path d="M9 13s-2 2-2 4h10c0-2-2-4-2-4" />
+        </svg>
+      </div>
+      <div class="logo-name">AgroSmart<sup>®</sup></div>
+    </div>
+
+    <div class="left-content">
+      <div class="badge"><span></span> Smart Farming Starts Here</div>
+      <h1 class="left-headline">Start growing with<br><em>AgroSmart.</em></h1>
+      <p class="left-sub">
+        Join thousands of farmers using AI-powered crop insights,
+        soil analysis, and real-time weather intelligence.
+      </p>
+
+      <div class="stats-row">
+        <div class="stat">
+          <span class="stat-num">12K+</span>
+          <span class="stat-label">Active Farmers</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num">94%</span>
+          <span class="stat-label">Prediction Accuracy</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num">38+</span>
+          <span class="stat-label">Countries</span>
+        </div>
+      </div>
+    </div>
+
+  </div> <!-- ✅ FIXED: properly closed left panel -->
+
+  <!-- ═══════════ RIGHT PANEL ═══════════ -->
+  <div class="right-panel">
+    <div class="form-card">
+
+      <h2 class="form-heading">Create your account</h2>
+      <p class="form-sub">
+        Already have an account?
+        <a href="{{ url_for('auth.login') }}">Sign in here</a>
+      </p>
+
+      <!-- Flash Messages -->
+      {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+      {% for category, message in messages %}
+      <div class="flash {{ category }}">{{ message }}</div>
+      {% endfor %}
+      {% endif %}
+      {% endwith %}
+
+      <!-- FORM -->
+      <form method="POST" action="{{ url_for('auth.register') }}" id="register-form">
+
+        <!-- Full Name -->
+        <div class="field">
+          <label>Full Name</label>
+          <div class="field-wrap">
+            <input name="full_name" type="text" required>
+          </div>
+        </div>
+
+        <!-- Email -->
+        <div class="field">
+          <label>Email</label>
+          <div class="field-wrap">
+            <input id="email" name="email" type="email">
+          </div>
+        </div>
+
+        <!-- Phone -->
+        <div class="field">
+          <label>Phone</label>
+          <div class="field-wrap">
+            <input id="phone" name="phone" type="text" pattern="[0-9]{10} required">
+          </div>
+        </div>
+
+        <!-- Password -->
+        <div class="field">
+          <label>Password</label>
+          <div class="field-wrap">
+            <input id="password" name="password" type="password" required>
+          </div>
+        </div>
+
+        <!-- Confirm Password -->
+        <div class="field">
+          <label>Confirm Password</label>
+          <div class="field-wrap">
+            <input id="confirm_password" name="confirm_password" type="password" required>
+          </div>
+        </div>
+
+        <!-- OTP FIELD -->
+        <div class="field" id="otp-field" style="display:none;">
+          <label>Enter OTP</label>
+          <div class="field-wrap">
+            <input id="otp" name="otp" type="text" pattern="[0-9]{6}">
+          </div>
+        </div>
+
+        <!-- Terms -->
+        <div class="field-row">
+          <label class="checkbox-wrap">
+            <input type="checkbox" required>
+            I agree to Terms
+          </label>
+        </div>
+
+        <!-- SINGLE BUTTON -->
+        <button type="button" id="otp-btn" class="login-btn" onclick="handleOTP()">
+          Send OTP
+        </button>
+
+      </form>
+
+    </div>
+  </div>
+
+</div>
+
+<!-- ═══════════ SCRIPT ═══════════ -->
+<script>
+  let otpSent = false;
+
+  function handleOTP() {
+    const btn = document.getElementById("otp-btn");
+    const otpField = document.getElementById("otp-field");
+    const form = document.getElementById("register-form");
+
+    const email = document.getElementById("email").value;
+    const phone = document.getElementById("phone").value;
+
+    if (!otpSent) {
+
+      if (!email && !phone) {
+        alert("Enter email or phone first");
+        return;
+      }
+
+      btn.disabled = true;
+      btn.innerText = "Sending...";
+
+      fetch("{{ url_for('auth.send_otp') }}", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ email, phone })
+      })
+        .then(res => res.json())
+        .then(data => {
+          if (data.success) {
+            otpSent = true;
+
+            otpField.style.display = "block";
+            document.getElementById("otp").required = true;
+
+            btn.innerText = "Verify OTP & Register";
+            btn.disabled = false;
+            btn.type = "submit";
+
+          } else {
+            alert("Failed to send OTP");
+            btn.disabled = false;
+            btn.innerText = "Send OTP";
+          }
+        })
+        .catch(() => {
+          alert("Server error");
+          btn.disabled = false;
+          btn.innerText = "Send OTP";
+        });
+
+    } else {
+      form.submit();
+    }
+  }
+</script>
+
+{% endblock %}

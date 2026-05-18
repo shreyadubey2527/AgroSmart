@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<style>
+    .auth-card{
+        margin-top: 80px;
+    }
+</style>
+
+<div class="auth-card">
+
+<h2>{{ _("Verify OTP") }}</h2>
+
+<form method="POST">
+
+<input type="text" name="otp" placeholder="{{ _('Enter OTP') }}" required>
+
+<button type="submit">{{ _("Verify OTP") }}</button>
+
+</form>
+
+</div>
+
+{% endblock %}

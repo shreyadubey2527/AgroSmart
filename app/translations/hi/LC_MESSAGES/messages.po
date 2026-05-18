@@ -1,0 +1,2103 @@
+# Hindi translations for PROJECT.
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-04-23 12:35+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: hi\n"
+"Language-Team: hi <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: app/routes/auth_routes.py:23
+msgid "Full name must be at least 2 characters."
+msgstr ""
+
+#: app/routes/auth_routes.py:25
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: app/routes/auth_routes.py:27
+msgid "Password must be at least 8 characters."
+msgstr ""
+
+#: app/routes/auth_routes.py:29 app/routes/auth_routes.py:177
+msgid "Passwords do not match."
+msgstr ""
+
+#: app/routes/auth_routes.py:38
+msgid "Please sign in to access that page."
+msgstr ""
+
+#: app/routes/auth_routes.py:52
+msgid "Email or phone required"
+msgstr ""
+
+#: app/routes/auth_routes.py:71
+msgid "AgroSmart - OTP Verification"
+msgstr ""
+
+#: app/routes/auth_routes.py:73
+#, python-format
+msgid ""
+"Dear User,\n"
+"\n"
+"We received a request to verify your identity for your AgroSmart account."
+"\n"
+"\n"
+"Please use the One-Time Password (OTP) below to proceed:\n"
+"\n"
+"🔐 OTP: %(otp)s\n"
+"\n"
+"This OTP is valid for a limited time and should not be shared with anyone"
+" for security reasons.\n"
+"\n"
+"If you did not request this OTP, please ignore this email. Your account "
+"will remain safe and no action will be taken.\n"
+"\n"
+"For security purposes, AgroSmart will never ask for your OTP via phone or"
+" message.\n"
+"\n"
+"If you need any assistance, feel free to contact our support team.\n"
+"\n"
+"Thank you for choosing AgroSmart.\n"
+"\n"
+"Best regards,  \n"
+"AgroSmart Support Team  \n"
+"Email: agrosmart.support@gmail.com"
+msgstr ""
+
+#: app/routes/auth_routes.py:111 app/templates/register.html:180
+msgid "Failed to send OTP"
+msgstr ""
+
+#: app/routes/auth_routes.py:114
+msgid "Only Email OTP is currently supported."
+msgstr ""
+
+#: app/routes/auth_routes.py:116
+msgid "OTP sent successfully"
+msgstr ""
+
+#: app/routes/auth_routes.py:139
+#, python-format
+msgid "Welcome back, %(name)s! 🌱"
+msgstr ""
+
+#: app/routes/auth_routes.py:142
+msgid "Invalid email or password."
+msgstr ""
+
+#: app/routes/auth_routes.py:172
+msgid "Please enter email or phone number."
+msgstr ""
+
+#: app/routes/auth_routes.py:182
+msgid "Invalid or expired OTP."
+msgstr ""
+
+#: app/routes/auth_routes.py:187
+msgid "OTP not requested for this email or phone."
+msgstr ""
+
+#: app/routes/auth_routes.py:200
+msgid "An account with this email already exists."
+msgstr ""
+
+#: app/routes/auth_routes.py:211
+msgid "An account with this phone number already exists."
+msgstr ""
+
+#: app/routes/auth_routes.py:229
+msgid "Account created successfully! Please sign in."
+msgstr ""
+
+#: app/routes/auth_routes.py:250
+msgid "You've been signed out. See you soon! 🌿"
+msgstr ""
+
+#: app/routes/main_routes.py:32
+msgid "Message sent successfully! ✅"
+msgstr ""
+
+#: app/routes/main_routes.py:71
+msgid "All fields are required!"
+msgstr ""
+
+#: app/routes/main_routes.py:75
+msgid "Phone number must be 10 digits!"
+msgstr ""
+
+#: app/routes/main_routes.py:87
+msgid "Profile updated successfully! ✅"
+msgstr ""
+
+#: app/routes/main_routes.py:90
+msgid "Error updating profile. Email or phone might already be in use."
+msgstr ""
+
+#: app/routes/main_routes.py:98
+msgid "Language changed successfully!"
+msgstr ""
+
+#: app/routes/password.py:29
+msgid "Invalid email"
+msgstr ""
+
+#: app/routes/password.py:40
+msgid "Unauthorized"
+msgstr ""
+
+#: app/routes/password.py:54
+msgid "Password Reset OTP"
+msgstr ""
+
+#: app/routes/password.py:55
+#, python-format
+msgid ""
+"Dear User,\n"
+"\n"
+"We received a request to reset your password for your AgroSmart account.\n"
+"\n"
+"To proceed with the password reset process, please use the One-Time "
+"Password (OTP) provided below:\n"
+"\n"
+"🔐 OTP: %(otp)s\n"
+"\n"
+"This OTP is valid for a limited time and should not be shared with anyone"
+" for security reasons.\n"
+"\n"
+"If you did not request a password reset, please ignore this email. Your "
+"account will remain secure, and no changes will be made.\n"
+"\n"
+"For your safety, we strongly recommend not sharing this OTP with anyone, "
+"including AgroSmart support staff.\n"
+"\n"
+"If you face any issues or need further assistance, feel free to contact "
+"our support team.\n"
+"\n"
+"Thank you for using AgroSmart.\n"
+"\n"
+"Best regards,  \n"
+"AgroSmart Support Team  \n"
+"Email: agrosmart.support@gmail.com"
+msgstr ""
+
+#: app/routes/password.py:108
+msgid "User not found"
+msgstr ""
+
+#: app/routes/password.py:121
+msgid "No email linked to this account"
+msgstr ""
+
+#: app/routes/password.py:134
+msgid "OTP expired"
+msgstr ""
+
+#: app/routes/password.py:139
+msgid "Invalid OTP"
+msgstr ""
+
+#: app/routes/password.py:148
+msgid "Unauthorized access"
+msgstr ""
+
+#: app/routes/password.py:154
+msgid "Passwords do not match"
+msgstr ""
+
+#: app/routes/password.py:171
+msgid "Password updated successfully"
+msgstr ""
+
+#: app/routes/prediction_routes.py:87
+#, fuzzy
+msgid "Temperature is ideal"
+msgstr "तापमान (°C)"
+
+#: app/routes/prediction_routes.py:90
+msgid "Humidity is suitable"
+msgstr ""
+
+#: app/routes/prediction_routes.py:93
+msgid "Soil pH is optimal"
+msgstr ""
+
+#: app/routes/prediction_routes.py:96
+msgid "Rainfall conditions are favorable"
+msgstr ""
+
+#: app/routes/prediction_routes.py:133
+msgid "Excellent"
+msgstr ""
+
+#: app/routes/prediction_routes.py:133
+msgid "Good"
+msgstr ""
+
+#: app/routes/prediction_routes.py:133
+msgid "Fair"
+msgstr ""
+
+#: app/routes/prediction_routes.py:133
+msgid "Poor"
+msgstr ""
+
+#: app/routes/prediction_routes.py:175
+msgid "tons"
+msgstr ""
+
+#: app/routes/prediction_routes.py:180
+#, python-format
+msgid "Prediction error: %(msg)s"
+msgstr ""
+
+#: app/routes/prediction_routes.py:191
+msgid "Quantity must be greater than 0"
+msgstr ""
+
+#: app/routes/prediction_routes.py:213
+msgid "₹/quintal"
+msgstr ""
+
+#: app/routes/prediction_routes.py:225
+msgid "City is required"
+msgstr ""
+
+#: app/routes/prediction_routes.py:262
+msgid "Weather API not reachable"
+msgstr ""
+
+#: app/routes/prediction_routes.py:266 app/templates/register.html:186
+msgid "Server error"
+msgstr ""
+
+#: app/templates/about.html:7 app/templates/footer.html:17
+msgid "About Us"
+msgstr "हमारे बारे में"
+
+#: app/templates/about.html:8
+msgid ""
+"Agriculture plays a vital role in our economy, yet farmers face "
+"challenges in selecting the right crops and predicting yields and market "
+"prices. Our system uses machine learning and data analytics to assist "
+"farmers in making smart and informed decisions. Our platform uses machine"
+" learning algorithms and historical agricultural data to provide accurate"
+" and reliable predictions. By integrating soil analysis, climate data, "
+"and market trends, we aim to reduce crop failure risks and improve "
+"overall farm productivity and profitability. We believe that the use of "
+"smart technologies in agriculture can empower farmers, promote "
+"sustainable farming practices, and contribute to food security. This "
+"project is developed with the vision of making advanced agricultural "
+"insights easily accessible to everyone through a simple and user-friendly"
+" interface."
+msgstr ""
+"कृषि हमारी अर्थव्यवस्था में महत्वपूर्ण भूमिका निभाती है, फिर भी किसानों को सही फसलों के चयन और पैदावार तथा बाजार मूल्य की भविष्यवाणी करने में चुनौतियों का सामना करना पड़ता है। हमारा सिस्टम किसानों को स्मार्ट और सूचित निर्णय लेने में सहायता करने के लिए मशीन लर्निंग और डेटा एनालिटिक्स का उपयोग करता है। हमारा प्लेटफ़ॉर्म सटीक और विश्वसनीय भविष्यवाणियां प्रदान करने के लिए मशीन लर्निंग एल्गोरिदम और ऐतिहासिक कृषि डेटा का उपयोग करता है। मिट्टी के विश्लेषण, जलवायु डेटा और बाजार के रुझानों को एकीकृत करके, हमारा लक्ष्य फसल विफलता के जोखिमों को कम करना और समग्र कृषि उत्पादकता और लाभप्रदता में सुधार करना है। हमारा मानना है कि कृषि में स्मार्ट प्रौद्योगिकियों का उपयोग किसानों को सशक्त बना सकता है, टिकाऊ खेती प्रथाओं को बढ़ावा दे सकता है और खाद्य सुरक्षा में योगदान दे सकता है। यह परियोजना एक सरल और उपयोगकर्ता के अनुकूल इंटरफेस के माध्यम से उन्नत कृषि अंतर्दृष्टि को सभी के लिए आसानी से सुलभ बनाने के विजन के साथ विकसित की गई है।"
+
+# -------- NAV / FEATURES --------
+#: app/templates/about.html:17 app/templates/footer.html:27
+#: app/templates/home.html:12
+msgid "Crop Recommendation"
+msgstr "फसल सिफारिश"
+
+#: app/templates/about.html:18
+msgid "Suggests the most suitable crop based on soil, climate, and location."
+msgstr "मिट्टी, जलवायु और स्थान के आधार पर सबसे उपयुक्त फसल का सुझाव देता है।"
+
+#: app/templates/about.html:22 app/templates/footer.html:28
+#: app/templates/home.html:13 app/templates/support.html:25
+msgid "Yield Prediction"
+msgstr "उपज पूर्वानुमान"
+
+#: app/templates/about.html:23
+msgid "Predicts expected crop yield using historical and environmental data."
+msgstr "ऐतिहासिक और पर्यावरणीय डेटा का उपयोग करके अपेक्षित फसल उपज की भविष्यवाणी करता है।"
+
+#: app/templates/about.html:27 app/templates/footer.html:29
+#: app/templates/home.html:14
+msgid "Price Prediction"
+msgstr "मूल्य पूर्वानुमान"
+
+#: app/templates/about.html:28
+msgid "Estimates future market prices to help farmers plan better profits."
+msgstr "किसानों को बेहतर लाभ की योजना बनाने में मदद करने के लिए भविष्य के बाजार मूल्यों का अनुमान लगाता है।"
+
+#: app/templates/about.html:37
+msgid "Our Mission"
+msgstr ""
+
+#: app/templates/about.html:38
+msgid ""
+"To empower farmers with intelligent tools that improve productivity, "
+"reduce risk, and promote sustainable farming."
+msgstr "किसानों को बुद्धिमान उपकरणों के साथ सशक्त बनाना जो उत्पादकता में सुधार करते हैं, जोखिम कम करते हैं और टिकाऊ खेती को बढ़ावा देते हैं।"
+
+#: app/templates/climate.html:4 app/templates/crop_growth.html:4
+#: app/templates/nutrient_concept.html:4 app/templates/soil_science.html:4
+#: app/templates/sustainable.html:4 app/templates/water_management.html:4
+#, fuzzy
+msgid "Back to Support"
+msgstr "सहायता"
+
+#: app/templates/climate.html:6 app/templates/support.html:106
+msgid "Climate and Environmental Impact"
+msgstr ""
+
+#: app/templates/climate.html:8 app/templates/support.html:107
+msgid ""
+"Climate and environmental factors such as temperature, rainfall, "
+"humidity, and climate change play a crucial role in determining crop "
+"growth and overall farming success."
+msgstr "तापमान, वर्षा, आर्द्रता और जलवायु परिवर्तन जैसे जलवायु और पर्यावरणीय कारक फसल की वृद्धि और समग्र कृषि सफलता निर्धारित करने में महत्वपूर्ण भूमिका निभाते हैं।"
+
+#: app/templates/climate.html:13
+#, fuzzy
+msgid "Temperature"
+msgstr "तापमान (°C)"
+
+#: app/templates/climate.html:14
+msgid ""
+"Temperature affects crop growth, germination, and yield. Each crop "
+"requires an optimal temperature range."
+msgstr "तापमान फसल की वृद्धि, अंकुरण और उपज को प्रभावित करता है। प्रत्येक फसल को एक इष्टतम तापमान सीमा की आवश्यकता होती है।"
+
+#: app/templates/climate.html:18
+#, fuzzy
+msgid "Rainfall"
+msgstr "वर्षा (मिमी)"
+
+#: app/templates/climate.html:19
+msgid ""
+"Rainfall provides natural water supply, but too much or too little can "
+"affect crop productivity."
+msgstr "वर्षा प्राकृतिक जल आपूर्ति प्रदान करती है, लेकिन बहुत अधिक या बहुत कम वर्षा फसल उत्पादकता को प्रभावित कर सकती है।"
+
+#: app/templates/climate.html:23
+#, fuzzy
+msgid "Humidity"
+msgstr "आर्द्रता (%%)"
+
+#: app/templates/climate.html:24
+msgid ""
+"Humidity levels influence plant diseases, transpiration, and overall "
+"plant health."
+msgstr "आर्द्रता का स्तर पौधों की बीमारियों, वाष्पोत्सर्जन और समग्र पौधों के स्वास्थ्य को प्रभावित करता है।"
+
+#: app/templates/climate.html:28
+msgid "Extreme Weather"
+msgstr ""
+
+#: app/templates/climate.html:29
+msgid ""
+"Events like droughts, floods, and storms can damage crops and reduce "
+"yield."
+msgstr ""
+
+#: app/templates/climate.html:33
+msgid "Climate Change"
+msgstr ""
+
+#: app/templates/climate.html:34
+msgid ""
+"Long-term climate changes affect growing seasons, water availability, and"
+" crop patterns."
+msgstr ""
+
+#: app/templates/climate.html:38
+msgid "Environmental Balance"
+msgstr ""
+
+#: app/templates/climate.html:39
+msgid ""
+"Maintaining ecological balance supports sustainable farming and long-term"
+" productivity."
+msgstr ""
+
+#: app/templates/contact.html:10
+msgid "Get in Touch"
+msgstr ""
+
+#: app/templates/contact.html:11
+msgid ""
+"Have questions about crop recommendation, yield prediction, or price "
+"forecasting? Feel free to reach out to us."
+msgstr ""
+
+#: app/templates/contact.html:15 app/templates/footer.html:37
+msgid "India"
+msgstr "भारत"
+
+#: app/templates/contact.html:30
+msgid "Send a Message"
+msgstr ""
+
+#: app/templates/contact.html:39
+msgid "Your Name"
+msgstr ""
+
+#: app/templates/contact.html:40
+msgid "Your Email"
+msgstr ""
+
+#: app/templates/contact.html:41
+msgid "Subject"
+msgstr ""
+
+#: app/templates/contact.html:42
+msgid "Your Message"
+msgstr ""
+
+#: app/templates/contact.html:43
+msgid "Send Message"
+msgstr ""
+
+#: app/templates/crop_growth.html:7 app/templates/support.html:90
+msgid "Crop Growth Principles"
+msgstr ""
+
+#: app/templates/crop_growth.html:9 app/templates/support.html:91
+msgid ""
+"Understanding the stages of crop growth helps farmers plan better and "
+"improve productivity at each phase of the plant life cycle."
+msgstr ""
+
+# -------- BUTTONS --------
+#: app/templates/crop_growth.html:14
+#, fuzzy
+msgid "Germination Stage"
+msgstr "सिफारिशें प्राप्त करें"
+
+#: app/templates/crop_growth.html:15
+msgid ""
+"Seeds sprout into seedlings under proper moisture, temperature, and "
+"oxygen conditions."
+msgstr ""
+
+#: app/templates/crop_growth.html:19
+msgid "Vegetative Stage"
+msgstr ""
+
+#: app/templates/crop_growth.html:20
+msgid ""
+"Plants develop leaves, stems, and roots. Proper nutrients, sunlight, and "
+"water are essential."
+msgstr ""
+
+#: app/templates/crop_growth.html:24
+msgid "Flowering Stage"
+msgstr ""
+
+#: app/templates/crop_growth.html:25
+msgid ""
+"Plants produce flowers, which are necessary for reproduction and future "
+"crop yield."
+msgstr ""
+
+#: app/templates/crop_growth.html:29
+msgid "Fruiting Stage"
+msgstr ""
+
+#: app/templates/crop_growth.html:30
+msgid ""
+"Flowers develop into fruits or grains. Proper care ensures healthy crop "
+"development."
+msgstr ""
+
+#: app/templates/crop_growth.html:34
+msgid "Maturity Stage"
+msgstr ""
+
+#: app/templates/crop_growth.html:35
+msgid "Crops reach full growth and become ready for harvesting at the right time."
+msgstr ""
+
+#: app/templates/crop_growth.html:39
+msgid "Harvesting Stage"
+msgstr ""
+
+#: app/templates/crop_growth.html:40
+msgid "Crops are collected carefully to maintain quality and maximize yield."
+msgstr ""
+
+#: app/templates/dashboard.html:5
+#, fuzzy
+msgid "Welcome to AgroSmart 🌱"
+msgstr "एग्रोस्मार्ट क्यों चुनें?"
+
+#: app/templates/dashboard.html:6
+#, python-format
+msgid "Hello, %(name)s 👋"
+msgstr ""
+
+#: app/templates/dashboard.html:8
+msgid "Your registered email:"
+msgstr ""
+
+#: app/templates/dashboard.html:12 app/templates/footer.html:16
+#: app/templates/nav.html:13
+msgid "Home"
+msgstr "होम"
+
+# -------- FOOTER --------
+#: app/templates/footer.html:8
+msgid "Smart Crop Predictor"
+msgstr "स्मार्ट फसल भविष्यवक्ता"
+
+#: app/templates/footer.html:9
+msgid ""
+"A smart agriculture system that provides crop recommendation, yield "
+"prediction, and price forecasting using machine learning and data "
+"analytics."
+msgstr ""
+"एक स्मार्ट कृषि प्रणाली जो मशीन लर्निंग और डेटा एनालिटिक्स का उपयोग करके "
+"फसल सिफारिश, उपज पूर्वानुमान और मूल्य पूर्वानुमान प्रदान करती है।"
+
+#: app/templates/footer.html:14
+msgid "Quick Links"
+msgstr "त्वरित लिंक"
+
+#: app/templates/footer.html:18 app/templates/nav.html:22
+msgid "Support"
+msgstr "सहायता"
+
+#: app/templates/footer.html:19 app/templates/footer.html:36
+#: app/templates/nav.html:19
+msgid "Contact"
+msgstr "संपर्क"
+
+#: app/templates/footer.html:25
+msgid "Our Features"
+msgstr "हमारी विशेषताएँ"
+
+#: app/templates/footer.html:30
+msgid "Weather Analysis"
+msgstr "मौसम विश्लेषण"
+
+#: app/templates/footer.html:52
+msgid "© 2026 Smart Crop Prediction System | Designed for Academic Project"
+msgstr ""
+"© 2026 स्मार्ट फसल पूर्वानुमान प्रणाली | शैक्षणिक परियोजना के लिए डिज़ाइन"
+" किया गया"
+
+#: app/templates/forgot_password.html:79
+msgid "Forgot Password"
+msgstr ""
+
+#: app/templates/forgot_password.html:80
+msgid "Enter your email or phone to receive an OTP"
+msgstr ""
+
+#: app/templates/forgot_password.html:85 app/templates/login.html:79
+msgid "Email or Phone Number"
+msgstr ""
+
+#: app/templates/forgot_password.html:88 app/templates/register.html:129
+#: app/templates/register.html:182 app/templates/register.html:188
+msgid "Send OTP"
+msgstr ""
+
+#: app/templates/forgot_password.html:93
+msgid "Back to Login"
+msgstr ""
+
+#: app/templates/home.html:6
+msgid "AgroSmart"
+msgstr "एग्रोस्मार्ट"
+
+# -------- DESCRIPTION --------
+#: app/templates/home.html:7
+msgid "Smart Agriculture Platform - Crop Recommendation, Yield & Price Prediction"
+msgstr "स्मार्ट कृषि प्लेटफॉर्म - फसल सिफारिश, उपज और मूल्य पूर्वानुमान"
+
+#: app/templates/home.html:8
+msgid "Learn More"
+msgstr "अधिक जानें"
+
+# -------- SYSTEM HEADINGS --------
+#: app/templates/home.html:20
+msgid "Crop Recommendation System"
+msgstr "फसल सिफारिश प्रणाली"
+
+#: app/templates/home.html:21
+#, fuzzy
+msgid ""
+"Get personalized crop recommendations based on your soil and "
+"environmental conditions. Our AI analyzes temperature, humidity, pH "
+"levels, rainfall, and nutrient content to suggest the suitable crops."
+msgstr ""
+"आपकी मिट्टी और पर्यावरणीय परिस्थितियों के आधार पर व्यक्तिगत फसल सिफारिश "
+"प्राप्त करें। हमारी एआई तापमान, आर्द्रता, पीएच स्तर, वर्षा और पोषक तत्वों"
+" का विश्लेषण करके सबसे उपयुक्त फसलों का सुझाव देती है।"
+
+# -------- FORM LABELS --------
+#: app/templates/home.html:29 app/templates/home.html:105
+msgid "City"
+msgstr "शहर"
+
+#: app/templates/home.html:31 app/templates/home.html:107
+msgid "Enter your city, e.g., Mumbai"
+msgstr "अपना शहर दर्ज करें, जैसे मुंबई"
+
+#: app/templates/home.html:38 app/templates/home.html:189
+msgid "Temperature (°C)"
+msgstr "तापमान (°C)"
+
+# -------- PLACEHOLDERS --------
+#: app/templates/home.html:40 app/templates/home.html:47
+#: app/templates/home.html:54 app/templates/home.html:186
+#: app/templates/home.html:191
+msgid "Auto or manual"
+msgstr "स्वचालित या मैनुअल"
+
+#: app/templates/home.html:45
+#, fuzzy, python-format
+msgid "Humidity (%%)"
+msgstr "आर्द्रता (%%)"
+
+#: app/templates/home.html:52 app/templates/home.html:184
+msgid "Rainfall (mm)"
+msgstr "वर्षा (मिमी)"
+
+#: app/templates/home.html:59
+msgid "pH Level"
+msgstr "पीएच स्तर"
+
+#: app/templates/home.html:61
+msgid "e.g., 6.5"
+msgstr "जैसे 6.5"
+
+#: app/templates/home.html:66 app/templates/nutrient_concept.html:18
+msgid "Nitrogen (N)"
+msgstr "नाइट्रोजन (N)"
+
+#: app/templates/home.html:68
+msgid "e.g., 80"
+msgstr "जैसे 80"
+
+#: app/templates/home.html:71 app/templates/nutrient_concept.html:23
+msgid "Phosphorus (P)"
+msgstr "फॉस्फोरस (P)"
+
+#: app/templates/home.html:73
+msgid "e.g., 60"
+msgstr "जैसे 60"
+
+#: app/templates/home.html:76 app/templates/nutrient_concept.html:28
+msgid "Potassium (K)"
+msgstr "पोटैशियम (K)"
+
+#: app/templates/home.html:78
+msgid "e.g., 40"
+msgstr "जैसे 40"
+
+# -------- BUTTONS --------
+#: app/templates/home.html:84
+msgid "Get Recommendations"
+msgstr "सिफारिशें प्राप्त करें"
+
+# -------- LOADING --------
+#: app/templates/home.html:89
+msgid "Analyzing soil conditions..."
+msgstr "मिट्टी की स्थिति का विश्लेषण किया जा रहा है..."
+
+#: app/templates/home.html:98
+msgid "Yield Prediction System"
+msgstr "उपज पूर्वानुमान प्रणाली"
+
+#: app/templates/home.html:99
+msgid ""
+"Predict your crop yield based on cultivation area, weather conditions, "
+"and fertilizer usage. Make informed decisions for better harvest "
+"planning."
+msgstr ""
+"खेती के क्षेत्र, मौसम की स्थिति और उर्वरक उपयोग के आधार पर अपनी फसल की "
+"उपज का अनुमान लगाएँ। बेहतर फसल योजना के लिए सूचित निर्णय लें।"
+
+#: app/templates/home.html:111 app/templates/home.html:244
+#, fuzzy
+msgid "Select Crop"
+msgstr "स्मार्ट फसलें"
+
+#: app/templates/home.html:112 app/templates/home.html:246
+msgid "Choose a crop"
+msgstr ""
+
+#: app/templates/home.html:113
+msgid "Cereals"
+msgstr ""
+
+#: app/templates/home.html:114 app/templates/home.html:277
+msgid "Rice"
+msgstr ""
+
+#: app/templates/home.html:115 app/templates/home.html:286
+msgid "Wheat"
+msgstr ""
+
+#: app/templates/home.html:116 app/templates/home.html:274
+msgid "Maize"
+msgstr ""
+
+#: app/templates/home.html:117
+msgid "Jowar"
+msgstr ""
+
+#: app/templates/home.html:118
+msgid "Bajra"
+msgstr ""
+
+#: app/templates/home.html:119
+msgid "Ragi"
+msgstr ""
+
+#: app/templates/home.html:120
+msgid "Barley"
+msgstr ""
+
+#: app/templates/home.html:122
+msgid "Pulses"
+msgstr ""
+
+#: app/templates/home.html:123 app/templates/home.html:296
+msgid "Gram"
+msgstr ""
+
+#: app/templates/home.html:124
+msgid "Arhar/Tur"
+msgstr ""
+
+#: app/templates/home.html:125
+msgid "Moong"
+msgstr ""
+
+#: app/templates/home.html:126 app/templates/home.html:297
+msgid "Urad"
+msgstr ""
+
+#: app/templates/home.html:127
+msgid "Masoor"
+msgstr ""
+
+#: app/templates/home.html:129
+msgid "Commercial Crops"
+msgstr ""
+
+#: app/templates/home.html:130 app/templates/home.html:299
+msgid "Cotton"
+msgstr ""
+
+#: app/templates/home.html:131
+msgid "Sugarcane"
+msgstr ""
+
+#: app/templates/home.html:132
+msgid "Tobacco"
+msgstr ""
+
+#: app/templates/home.html:133
+msgid "Jute"
+msgstr ""
+
+#: app/templates/home.html:135
+msgid "Spices"
+msgstr ""
+
+#: app/templates/home.html:136 app/templates/home.html:263
+msgid "Ginger"
+msgstr ""
+
+#: app/templates/home.html:137 app/templates/home.html:275
+msgid "Garlic"
+msgstr ""
+
+#: app/templates/home.html:138 app/templates/home.html:153
+msgid "Turmeric"
+msgstr ""
+
+#: app/templates/home.html:139
+msgid "Coriander"
+msgstr ""
+
+#: app/templates/home.html:140
+msgid "Black Pepper"
+msgstr ""
+
+#: app/templates/home.html:142
+msgid "Others"
+msgstr ""
+
+#: app/templates/home.html:143 app/templates/home.html:253
+msgid "Onion"
+msgstr ""
+
+#: app/templates/home.html:144 app/templates/home.html:249
+#, fuzzy
+msgid "Potato"
+msgstr "संपर्क"
+
+#: app/templates/home.html:145 app/templates/home.html:269
+msgid "Banana"
+msgstr ""
+
+#: app/templates/home.html:146 app/templates/home.html:293
+msgid "Groundnut"
+msgstr ""
+
+#: app/templates/home.html:147
+msgid "Arecanut"
+msgstr ""
+
+#: app/templates/home.html:148
+msgid "Linseed"
+msgstr ""
+
+#: app/templates/home.html:149
+msgid "Rapeseed & Mustard"
+msgstr ""
+
+#: app/templates/home.html:150
+msgid "Sesamum"
+msgstr ""
+
+#: app/templates/home.html:151
+msgid "Small Millets"
+msgstr ""
+
+#: app/templates/home.html:152
+msgid "Soyabean"
+msgstr ""
+
+#: app/templates/home.html:154
+msgid "Cardamom"
+msgstr ""
+
+#: app/templates/home.html:155
+msgid "Horse Gram"
+msgstr ""
+
+#: app/templates/home.html:156
+msgid "Niger Seed"
+msgstr ""
+
+#: app/templates/home.html:157
+msgid "Sannhamp"
+msgstr ""
+
+#: app/templates/home.html:158
+msgid "Sunflower"
+msgstr ""
+
+#: app/templates/home.html:159
+msgid "Peas & Beans"
+msgstr ""
+
+#: app/templates/home.html:160
+msgid "Safflower"
+msgstr ""
+
+#: app/templates/home.html:161
+msgid "Cashew Nut"
+msgstr ""
+
+#: app/templates/home.html:162
+msgid "Khesari"
+msgstr ""
+
+#: app/templates/home.html:163
+msgid "Cowpea"
+msgstr ""
+
+#: app/templates/home.html:164
+msgid "Guar Seed"
+msgstr ""
+
+#: app/templates/home.html:165
+msgid "Moth"
+msgstr ""
+
+#: app/templates/home.html:169
+msgid "Season"
+msgstr ""
+
+#: app/templates/home.html:171
+msgid "Select Season"
+msgstr ""
+
+#: app/templates/home.html:172
+msgid "Kharif"
+msgstr ""
+
+#: app/templates/home.html:173
+msgid "Rabi"
+msgstr ""
+
+#: app/templates/home.html:174
+msgid "Summer"
+msgstr ""
+
+#: app/templates/home.html:175
+msgid "Whole Year"
+msgstr ""
+
+#: app/templates/home.html:179
+msgid "Area (Hectares)"
+msgstr "क्षेत्रफल (हेक्टेयर)"
+
+#: app/templates/home.html:181
+#, fuzzy
+msgid "e.g., 5.5"
+msgstr "जैसे 6.5"
+
+#: app/templates/home.html:194
+msgid "Fertilizer Used (kg/ha)"
+msgstr "उर्वरक उपयोग (किग्रा/हेक्टेयर)"
+
+#: app/templates/home.html:196
+#, fuzzy
+msgid "e.g., 150"
+msgstr "जैसे 80"
+
+#: app/templates/home.html:199
+msgid "Predict Yield"
+msgstr "उपज का अनुमान लगाएँ"
+
+#: app/templates/home.html:204
+msgid "Calculating yield prediction..."
+msgstr "उपज पूर्वानुमान की गणना की जा रही है..."
+
+#: app/templates/home.html:213
+msgid "Price Prediction System"
+msgstr "मूल्य पूर्वानुमान प्रणाली"
+
+#: app/templates/home.html:214
+msgid ""
+"Get current market prices and future price predictions for your crops. "
+"Plan your selling strategy with AI-powered market insights."
+msgstr ""
+"अपनी फसलों के लिए वर्तमान बाजार मूल्य और भविष्य के मूल्य पूर्वानुमान "
+"प्राप्त करें। एआई आधारित बाजार जानकारी के साथ अपनी बिक्री रणनीति बनाएं।"
+
+#: app/templates/home.html:220
+msgid "Select State"
+msgstr ""
+
+#: app/templates/home.html:222
+#, fuzzy
+msgid "Choose a state"
+msgstr "एग्रोस्मार्ट क्यों चुनें?"
+
+#: app/templates/home.html:223
+msgid "Uttarakhand"
+msgstr ""
+
+#: app/templates/home.html:224
+msgid "West Bengal"
+msgstr ""
+
+#: app/templates/home.html:225
+msgid "Tamil Nadu"
+msgstr ""
+
+#: app/templates/home.html:226
+msgid "Maharashtra"
+msgstr ""
+
+#: app/templates/home.html:227
+msgid "Uttar Pradesh"
+msgstr ""
+
+#: app/templates/home.html:228
+msgid "Madhya Pradesh"
+msgstr ""
+
+#: app/templates/home.html:229
+msgid "Gujarat"
+msgstr ""
+
+#: app/templates/home.html:230
+msgid "Telangana"
+msgstr ""
+
+#: app/templates/home.html:231
+msgid "Kerala"
+msgstr ""
+
+#: app/templates/home.html:232
+msgid "Haryana"
+msgstr ""
+
+#: app/templates/home.html:233
+msgid "Andhra Pradesh"
+msgstr ""
+
+#: app/templates/home.html:234
+msgid "Rajasthan"
+msgstr ""
+
+#: app/templates/home.html:235
+msgid "Odisha"
+msgstr ""
+
+#: app/templates/home.html:236
+msgid "Punjab"
+msgstr ""
+
+#: app/templates/home.html:237
+msgid "Tripura"
+msgstr ""
+
+#: app/templates/home.html:238
+msgid "Himachal Pradesh"
+msgstr ""
+
+#: app/templates/home.html:239
+msgid "Chandigarh"
+msgstr ""
+
+#: app/templates/home.html:240
+msgid "Karnataka"
+msgstr ""
+
+#: app/templates/home.html:247
+msgid "Water Melon"
+msgstr ""
+
+#: app/templates/home.html:248
+msgid "Bottle Gourd"
+msgstr ""
+
+#: app/templates/home.html:250
+msgid "Green Peas"
+msgstr ""
+
+#: app/templates/home.html:251
+msgid "Pumpkin"
+msgstr ""
+
+#: app/templates/home.html:252
+msgid "Green Chilli"
+msgstr ""
+
+#: app/templates/home.html:254
+#, fuzzy
+msgid "Sapota"
+msgstr "सहायता"
+
+#: app/templates/home.html:255
+msgid "Beans"
+msgstr ""
+
+#: app/templates/home.html:256
+msgid "Cabbage"
+msgstr ""
+
+#: app/templates/home.html:257
+msgid "Snakeguard"
+msgstr ""
+
+#: app/templates/home.html:258
+msgid "Beetroot"
+msgstr ""
+
+#: app/templates/home.html:259
+msgid "Ridge Gourd"
+msgstr ""
+
+#: app/templates/home.html:260
+msgid "Drumstick"
+msgstr ""
+
+#: app/templates/home.html:261
+msgid "Mint"
+msgstr ""
+
+#: app/templates/home.html:262
+msgid "Brinjal"
+msgstr ""
+
+#: app/templates/home.html:264
+msgid "Coconut"
+msgstr ""
+
+#: app/templates/home.html:265
+msgid "Mango"
+msgstr ""
+
+#: app/templates/home.html:266
+msgid "Carrot"
+msgstr ""
+
+#: app/templates/home.html:267
+msgid "Papaya"
+msgstr ""
+
+#: app/templates/home.html:268
+msgid "Tomato"
+msgstr ""
+
+#: app/templates/home.html:270
+msgid "Raddish"
+msgstr ""
+
+#: app/templates/home.html:271
+msgid "Cauliflower"
+msgstr ""
+
+#: app/templates/home.html:272
+msgid "Bitter Gourd"
+msgstr ""
+
+#: app/templates/home.html:273
+msgid "Muskmelon"
+msgstr ""
+
+#: app/templates/home.html:276
+msgid "Peas"
+msgstr ""
+
+#: app/templates/home.html:278
+msgid "Lime"
+msgstr ""
+
+#: app/templates/home.html:279
+msgid "Pineapple"
+msgstr ""
+
+#: app/templates/home.html:280
+msgid "Grapes"
+msgstr ""
+
+#: app/templates/home.html:281
+msgid "Cucumber"
+msgstr ""
+
+#: app/templates/home.html:282
+msgid "Coriander Leaves"
+msgstr ""
+
+#: app/templates/home.html:283
+msgid "Lemon"
+msgstr ""
+
+#: app/templates/home.html:284
+msgid "Sweet Potato"
+msgstr ""
+
+#: app/templates/home.html:285
+msgid "Guava"
+msgstr ""
+
+#: app/templates/home.html:287
+msgid "Soybean"
+msgstr ""
+
+#: app/templates/home.html:288
+msgid "Chickpea"
+msgstr ""
+
+#: app/templates/home.html:289
+#, fuzzy
+msgid "Methi Leaves"
+msgstr "पीएच स्तर"
+
+#: app/templates/home.html:290
+msgid "Capsicum"
+msgstr ""
+
+#: app/templates/home.html:291
+msgid "Orange"
+msgstr ""
+
+#: app/templates/home.html:292
+msgid "Spinach"
+msgstr ""
+
+#: app/templates/home.html:294
+msgid "Tur"
+msgstr ""
+
+#: app/templates/home.html:295
+msgid "Sweet Line"
+msgstr ""
+
+#: app/templates/home.html:298
+msgid "Turnip"
+msgstr ""
+
+#: app/templates/home.html:300
+msgid "Guar"
+msgstr ""
+
+#: app/templates/home.html:301
+msgid "Mustard"
+msgstr ""
+
+#: app/templates/home.html:302
+msgid "French Beans"
+msgstr ""
+
+#: app/templates/home.html:303
+msgid "Pomegranate"
+msgstr ""
+
+#: app/templates/home.html:304
+#, fuzzy
+msgid "Tinda"
+msgstr "भारत"
+
+#: app/templates/home.html:305
+msgid "Lentil"
+msgstr ""
+
+#: app/templates/home.html:306
+msgid "Apple"
+msgstr ""
+
+#: app/templates/home.html:310
+msgid "Quantity (quintals)"
+msgstr "मात्रा (क्विंटल)"
+
+#: app/templates/home.html:312
+#, fuzzy
+msgid "e.g., 10"
+msgstr "जैसे 80"
+
+#: app/templates/home.html:315
+msgid "Predict Price"
+msgstr "मूल्य का अनुमान लगाएँ"
+
+#: app/templates/home.html:320
+msgid "Analyzing market trends..."
+msgstr "बाजार प्रवृत्तियों का विश्लेषण किया जा रहा है..."
+
+#: app/templates/home.html:330
+msgid "Why Choose AgroSmart?"
+msgstr "एग्रोस्मार्ट क्यों चुनें?"
+
+#: app/templates/home.html:333
+msgid "AI Insights"
+msgstr "एआई जानकारी"
+
+#: app/templates/home.html:334
+msgid "Advanced ML models for accurate predictions."
+msgstr "सटीक पूर्वानुमान के लिए उन्नत मशीन लर्निंग मॉडल।"
+
+#: app/templates/home.html:337
+msgid "Smart Crops"
+msgstr "स्मार्ट फसलें"
+
+#: app/templates/home.html:338
+msgid "Best crops based on soil and climate."
+msgstr "मिट्टी और जलवायु के आधार पर सर्वोत्तम फसलें।"
+
+#: app/templates/home.html:341
+msgid "Data Driven"
+msgstr "डेटा आधारित"
+
+#: app/templates/home.html:342
+msgid "Make informed farming decisions."
+msgstr "सुसूचित कृषि निर्णय लें।"
+
+#: app/templates/home.html:345
+msgid "Profit Boost"
+msgstr "लाभ बढ़ाएँ"
+
+#: app/templates/home.html:346
+msgid "Predict market prices and maximize profit."
+msgstr "बाजार मूल्य का अनुमान लगाएँ और लाभ अधिकतम करें।"
+
+# -------- HOW IT WORKS --------
+#: app/templates/home.html:351
+msgid "How It Works"
+msgstr "यह कैसे काम करता है"
+
+#: app/templates/home.html:354
+msgid "Enter Data"
+msgstr "डेटा दर्ज करें"
+
+#: app/templates/home.html:355
+msgid "Provide soil and weather details."
+msgstr "मिट्टी और मौसम का विवरण दें।"
+
+#: app/templates/home.html:358
+msgid "AI Analysis"
+msgstr "एआई विश्लेषण"
+
+#: app/templates/home.html:359
+msgid "Our model processes your inputs."
+msgstr "हमारा मॉडल आपके इनपुट को प्रोसेस करता है।"
+
+#: app/templates/home.html:362
+msgid "Get Results"
+msgstr "परिणाम प्राप्त करें"
+
+#: app/templates/home.html:363
+msgid "Receive predictions instantly."
+msgstr "पूर्वानुमान तुरंत प्राप्त करें।"
+
+#: app/templates/login.html:31
+msgid "Precision Agriculture Platform"
+msgstr ""
+
+#: app/templates/login.html:33
+#, fuzzy
+msgid "Grow smarter,"
+msgstr "एग्रोस्मार्ट"
+
+#: app/templates/login.html:33
+msgid "harvest richer."
+msgstr ""
+
+#: app/templates/login.html:35
+msgid ""
+"Real-time crop intelligence, soil analytics, and weather-driven insights "
+"— all in one platform built for modern farmers."
+msgstr "रीयल-टाइम फसल जानकारी, मिट्टी का विश्लेषण, और मौसम आधारित अंतर्दृष्टि - सब कुछ आधुनिक किसानों के लिए बनाए गए एक ही प्लेटफॉर्म पर।"
+
+#: app/templates/login.html:40
+msgid "Farms monitored"
+msgstr ""
+
+#: app/templates/login.html:45
+msgid "Yield accuracy"
+msgstr ""
+
+#: app/templates/login.html:50 app/templates/register.html:49
+msgid "Countries"
+msgstr ""
+
+#: app/templates/login.html:61
+msgid "Welcome back"
+msgstr ""
+
+#: app/templates/login.html:62
+#, fuzzy
+msgid "New to AgroSmart?"
+msgstr "एग्रोस्मार्ट क्यों चुनें?"
+
+#: app/templates/login.html:62
+msgid "Create a free account"
+msgstr ""
+
+#: app/templates/login.html:64
+msgid "sign in with email or phone"
+msgstr ""
+
+#: app/templates/login.html:81
+msgid "Enter email or phone number"
+msgstr ""
+
+#: app/templates/login.html:87 app/templates/register.html:101
+msgid "Password"
+msgstr ""
+
+#: app/templates/login.html:89
+msgid "Enter your password"
+msgstr ""
+
+#: app/templates/login.html:99
+msgid "Forgot password?"
+msgstr ""
+
+#: app/templates/login.html:104
+#, fuzzy
+msgid "Sign in to AgroSmart"
+msgstr "एग्रोस्मार्ट"
+
+#: app/templates/login.html:110
+msgid "Don't have an account?"
+msgstr ""
+
+#: app/templates/login.html:110
+msgid "Register now →"
+msgstr ""
+
+#: app/templates/nav.html:16
+#, fuzzy
+msgid "About"
+msgstr "हमारे बारे में"
+
+#: app/templates/nav.html:25 app/templates/weather.html:31
+#, fuzzy
+msgid "Weather"
+msgstr "मौसम विश्लेषण"
+
+#: app/templates/nav.html:28 app/templates/setting.html:9
+msgid "Settings"
+msgstr ""
+
+#: app/templates/nav.html:31
+msgid "Government Schemes"
+msgstr ""
+
+#: app/templates/nav.html:40 app/templates/setting.html:33
+msgid "Language"
+msgstr ""
+
+#: app/templates/nav.html:51
+msgid "Logout"
+msgstr ""
+
+#: app/templates/nav.html:53
+msgid "Login"
+msgstr ""
+
+#: app/templates/nutrient_concept.html:6 app/templates/support.html:66
+msgid "Nutrient Management Concepts"
+msgstr ""
+
+#: app/templates/nutrient_concept.html:8 app/templates/support.html:67
+msgid ""
+"Nutrient management focuses on providing essential macro and "
+"micronutrients to crops for healthy growth, better yield, and soil "
+"sustainability."
+msgstr "पोषक तत्व प्रबंधन स्वस्थ विकास, बेहतर उपज और मिट्टी की स्थिरता के लिए फसलों को आवश्यक सूक्ष्म और व्यापक पोषक तत्व प्रदान करने पर केंद्रित है।"
+
+#: app/templates/nutrient_concept.html:13
+msgid "Macronutrients (NPK)"
+msgstr ""
+
+#: app/templates/nutrient_concept.html:14
+msgid ""
+"Nitrogen, Phosphorus, and Potassium are primary nutrients required in "
+"large amounts for plant growth."
+msgstr ""
+
+#: app/templates/nutrient_concept.html:19
+msgid "Supports leaf growth and green color development in plants."
+msgstr ""
+
+#: app/templates/nutrient_concept.html:24
+msgid "Helps in root development, flowering, and energy transfer in plants."
+msgstr ""
+
+#: app/templates/nutrient_concept.html:29
+msgid "Improves overall plant health, disease resistance, and water regulation."
+msgstr ""
+
+#: app/templates/nutrient_concept.html:33
+msgid "Micronutrients"
+msgstr ""
+
+#: app/templates/nutrient_concept.html:34
+msgid ""
+"Elements like iron, zinc, and magnesium are needed in small amounts but "
+"are essential for plant functions."
+msgstr ""
+
+#: app/templates/nutrient_concept.html:38
+msgid "Balanced Nutrition"
+msgstr ""
+
+#: app/templates/nutrient_concept.html:39
+msgid ""
+"Providing the right combination of nutrients ensures healthy crop growth "
+"and higher yield."
+msgstr "पोषक तत्वों का सही संयोजन प्रदान करना स्वस्थ फसल विकास और उच्च उपज सुनिश्चित करता है।"
+
+#: app/templates/register.html:32
+msgid "Smart Farming Starts Here"
+msgstr ""
+
+#: app/templates/register.html:33
+msgid "Start growing with"
+msgstr ""
+
+#: app/templates/register.html:33
+#, fuzzy
+msgid "AgroSmart."
+msgstr "एग्रोस्मार्ट"
+
+#: app/templates/register.html:34
+msgid ""
+"Join thousands of farmers using AI-powered crop insights, soil analysis, "
+"and real-time weather intelligence."
+msgstr "एआई-आधारित फसल जानकारी, मिट्टी के विश्लेषण और रीयल-टाइम मौसम बुद्धिमत्ता का उपयोग करने वाले हजारों किसानों से जुड़ें।"
+
+#: app/templates/register.html:39
+msgid "Active Farmers"
+msgstr ""
+
+#: app/templates/register.html:44
+#, fuzzy
+msgid "Prediction Accuracy"
+msgstr "मूल्य का अनुमान लगाएँ"
+
+#: app/templates/register.html:60
+msgid "Create your account"
+msgstr ""
+
+#: app/templates/register.html:61
+msgid "Already have an account?"
+msgstr ""
+
+#: app/templates/register.html:61
+msgid "Sign in here"
+msgstr ""
+
+#: app/templates/register.html:77 app/templates/setting.html:16
+msgid "Full Name"
+msgstr ""
+
+#: app/templates/register.html:85
+msgid "Email"
+msgstr ""
+
+#: app/templates/register.html:93
+#, fuzzy
+msgid "Phone"
+msgstr "होम"
+
+#: app/templates/register.html:109 app/templates/reset_password.html:18
+msgid "Confirm Password"
+msgstr ""
+
+#: app/templates/register.html:117 app/templates/verify_otp.html:16
+#, fuzzy
+msgid "Enter OTP"
+msgstr "डेटा दर्ज करें"
+
+#: app/templates/register.html:125
+msgid "I agree to Terms"
+msgstr ""
+
+#: app/templates/register.html:153
+msgid "Enter email or phone first"
+msgstr ""
+
+#: app/templates/register.html:158
+msgid "Sending..."
+msgstr ""
+
+#: app/templates/register.html:175
+msgid "Verify OTP & Register"
+msgstr ""
+
+#: app/templates/reset_password.html:12
+msgid "Reset Password"
+msgstr ""
+
+#: app/templates/reset_password.html:16
+msgid "New Password"
+msgstr ""
+
+#: app/templates/reset_password.html:20
+msgid "Update Password"
+msgstr ""
+
+#: app/templates/schemes.html:8
+msgid "Government Schemes for Farmers"
+msgstr ""
+
+#: app/templates/schemes.html:9
+msgid "Explore top government initiatives to support farmers"
+msgstr ""
+
+#: app/templates/schemes.html:19
+msgid "PM-KISAN Scheme"
+msgstr ""
+
+#: app/templates/schemes.html:20
+msgid "Provides ₹6000 per year to farmers in three installments."
+msgstr "किसानों को तीन किस्तों में प्रति वर्ष ₹6000 प्रदान करता है।"
+
+#: app/templates/schemes.html:21 app/templates/schemes.html:32
+#: app/templates/schemes.html:43 app/templates/schemes.html:54
+#: app/templates/schemes.html:65 app/templates/schemes.html:76
+#: app/templates/schemes.html:87 app/templates/schemes.html:98
+#: app/templates/schemes.html:109 app/templates/schemes.html:120
+#: app/templates/schemes.html:130 app/templates/schemes.html:141
+msgid "View Details"
+msgstr ""
+
+#: app/templates/schemes.html:30
+msgid "Pradhan Mantri Fasal Bima Yojana"
+msgstr ""
+
+#: app/templates/schemes.html:31
+msgid "Insurance scheme protecting crops from natural disasters."
+msgstr "प्राकृतिक आपदाओं से फसलों की रक्षा करने वाली बीमा योजना।"
+
+#: app/templates/schemes.html:41
+msgid "Soil Health Card Scheme"
+msgstr ""
+
+#: app/templates/schemes.html:42
+msgid "Provides soil nutrient status and fertilizer recommendations."
+msgstr "मिट्टी के पोषक तत्वों की स्थिति और उर्वरक सिफारिशें प्रदान करता है।"
+
+#: app/templates/schemes.html:52
+msgid "eNAM"
+msgstr ""
+
+#: app/templates/schemes.html:53
+msgid "Online platform for transparent agricultural trading."
+msgstr "पारदर्शी कृषि व्यापार के लिए ऑनलाइन प्लेटफॉर्म।"
+
+#: app/templates/schemes.html:63
+msgid "Kisan Credit Card"
+msgstr ""
+
+#: app/templates/schemes.html:64
+msgid "Provides easy credit access for agricultural expenses."
+msgstr "कृषि खर्चों के लिए आसान ऋण पहुंच प्रदान करता है।"
+
+#: app/templates/schemes.html:74
+msgid "PM Krishi Sinchai Yojana"
+msgstr ""
+
+#: app/templates/schemes.html:75
+msgid "Improves irrigation efficiency and water usage."
+msgstr ""
+
+#: app/templates/schemes.html:85
+msgid "Paramparagat Krishi Vikas Yojana"
+msgstr ""
+
+#: app/templates/schemes.html:86
+msgid "Promotes organic farming and eco-friendly practices."
+msgstr ""
+
+#: app/templates/schemes.html:96
+msgid "National Mission for Sustainable Agriculture"
+msgstr ""
+
+#: app/templates/schemes.html:97
+msgid "Focuses on climate-resilient and sustainable farming."
+msgstr ""
+
+#: app/templates/schemes.html:107
+msgid "Rashtriya Krishi Vikas Yojana"
+msgstr ""
+
+#: app/templates/schemes.html:108
+msgid "Supports agricultural growth through state-level initiatives."
+msgstr ""
+
+#: app/templates/schemes.html:118
+msgid "PM Formalisation of Micro Food Processing Enterprises"
+msgstr ""
+
+#: app/templates/schemes.html:119
+msgid "Supports small food processing businesses with funding."
+msgstr ""
+
+#: app/templates/schemes.html:128
+msgid "Sub-Mission on Agricultural Mechanization (SMAM)"
+msgstr ""
+
+#: app/templates/schemes.html:129
+msgid ""
+"Provides subsidies for purchasing modern agricultural machinery and "
+"equipment."
+msgstr ""
+
+#: app/templates/schemes.html:139
+msgid "Farmer Producer Organizations (FPO) Scheme"
+msgstr ""
+
+#: app/templates/schemes.html:140
+msgid ""
+"Supports farmers to form groups for better market access, pricing, and "
+"profits."
+msgstr ""
+
+#: app/templates/setting.html:13
+msgid "Profile"
+msgstr ""
+
+#: app/templates/setting.html:17
+msgid "Enter your full name"
+msgstr ""
+
+#: app/templates/setting.html:20
+msgid "Phone Number"
+msgstr ""
+
+#: app/templates/setting.html:21
+msgid "Enter phone number"
+msgstr ""
+
+#: app/templates/setting.html:21
+msgid "Phone number must be 10 digits"
+msgstr ""
+
+#: app/templates/setting.html:24
+msgid "Email ID"
+msgstr ""
+
+#: app/templates/setting.html:25
+#, fuzzy
+msgid "Enter email"
+msgstr "डेटा दर्ज करें"
+
+#: app/templates/setting.html:28
+msgid "Save Profile"
+msgstr ""
+
+#: app/templates/soil_science.html:6 app/templates/support.html:82
+msgid "Soil Science Fundamentals"
+msgstr ""
+
+#: app/templates/soil_science.html:8 app/templates/support.html:83
+msgid ""
+"Soil science helps farmers understand soil composition, fertility, and "
+"structure to improve crop productivity and maintain long-term soil "
+"health."
+msgstr "मिट्टी विज्ञान किसानों को फसल उत्पादकता में सुधार करने और मिट्टी के दीर्घकालिक स्वास्थ्य को बनाए रखने के लिए मिट्टी की संरचना, उर्वरता और बनावट को समझने में मदद करता है।"
+
+#: app/templates/soil_science.html:13
+msgid "Soil Composition"
+msgstr ""
+
+#: app/templates/soil_science.html:14
+msgid ""
+"Soil consists of minerals, organic matter, water, and air. A proper "
+"balance ensures healthy plant growth."
+msgstr ""
+
+#: app/templates/soil_science.html:18
+msgid "Soil Types"
+msgstr ""
+
+#: app/templates/soil_science.html:19
+msgid ""
+"Sandy, clay, and loamy soils differ in water retention and nutrients. "
+"Loamy soil is best for farming."
+msgstr ""
+
+#: app/templates/soil_science.html:23
+#, fuzzy
+msgid "Soil pH Levels"
+msgstr "पीएच स्तर"
+
+#: app/templates/soil_science.html:24
+msgid ""
+"Soil pH affects nutrient availability. Most crops grow well in pH levels "
+"between 6 and 7."
+msgstr ""
+
+#: app/templates/soil_science.html:28
+msgid "Nutrient Content"
+msgstr ""
+
+#: app/templates/soil_science.html:29
+msgid ""
+"Essential nutrients like Nitrogen, Phosphorus, and Potassium are crucial "
+"for plant development."
+msgstr ""
+
+#: app/templates/soil_science.html:33
+msgid "Soil Fertility"
+msgstr ""
+
+#: app/templates/soil_science.html:34
+msgid ""
+"Fertility determines the soil’s ability to support crops and can be "
+"improved with organic matter."
+msgstr ""
+
+#: app/templates/soil_science.html:38
+msgid "Soil Structure"
+msgstr ""
+
+#: app/templates/soil_science.html:39
+msgid ""
+"Soil texture and structure affect root growth, aeration, and water "
+"movement."
+msgstr ""
+
+#: app/templates/soil_science.html:43
+msgid "Soil Erosion"
+msgstr ""
+
+#: app/templates/soil_science.html:44
+msgid ""
+"Soil loss due to wind and water can be prevented using conservation "
+"practices."
+msgstr ""
+
+#: app/templates/soil_science.html:48
+msgid "Soil Testing"
+msgstr ""
+
+#: app/templates/soil_science.html:49
+msgid ""
+"Regular testing helps identify nutrient deficiencies and improves crop "
+"planning."
+msgstr ""
+
+#: app/templates/support.html:10
+msgid "How can we"
+msgstr ""
+
+#: app/templates/support.html:10
+msgid "help?"
+msgstr ""
+
+#: app/templates/support.html:11
+msgid "Find guides, FAQs, and expert support for all AgroSmart tools."
+msgstr ""
+
+# -------- NAV / FEATURES --------
+#: app/templates/support.html:20
+#, fuzzy
+msgid "Crop Recommender"
+msgstr "फसल सिफारिश"
+
+# -------- NAV / FEATURES --------
+#: app/templates/support.html:21
+#, fuzzy
+msgid "How to use the AI crop recommendation tool"
+msgstr "फसल सिफारिश"
+
+#: app/templates/support.html:26
+msgid "Understanding your yield estimates and ranges"
+msgstr ""
+
+#: app/templates/support.html:30
+#, fuzzy
+msgid "Price Forecasting"
+msgstr "मूल्य पूर्वानुमान"
+
+#: app/templates/support.html:31
+msgid "Reading price charts and market signals"
+msgstr ""
+
+#: app/templates/support.html:35
+msgid "Talk to an Expert"
+msgstr ""
+
+#: app/templates/support.html:36
+msgid "Get personalised guidance from our agronomy team"
+msgstr ""
+
+#: app/templates/support.html:43
+msgid "Frequently Asked"
+msgstr ""
+
+#: app/templates/support.html:43
+msgid "Questions"
+msgstr ""
+
+#: app/templates/support.html:60
+msgid "Step-by-step"
+msgstr ""
+
+#: app/templates/support.html:60
+msgid "Guides"
+msgstr ""
+
+#: app/templates/support.html:68 app/templates/support.html:76
+#: app/templates/support.html:84 app/templates/support.html:92
+#: app/templates/support.html:100 app/templates/support.html:108
+msgid "Read Guide →"
+msgstr ""
+
+#: app/templates/support.html:74 app/templates/sustainable.html:7
+msgid "Sustainable Agriculture Practices"
+msgstr ""
+
+#: app/templates/support.html:75 app/templates/sustainable.html:9
+msgid ""
+"Learn modern and eco-friendly farming techniques that improve "
+"productivity while protecting the environment for future generations."
+msgstr ""
+
+#: app/templates/support.html:98 app/templates/water_management.html:6
+msgid "Water Management Theory"
+msgstr ""
+
+#: app/templates/support.html:99 app/templates/water_management.html:8
+msgid ""
+"Water management theory focuses on how proper use, distribution, and "
+"conservation of water improves crop productivity and sustainability."
+msgstr ""
+
+#: app/templates/support.html:116
+msgid "Still Need Help?"
+msgstr ""
+
+#: app/templates/support.html:117
+#, fuzzy
+msgid "Our team is"
+msgstr "हमारी विशेषताएँ"
+
+#: app/templates/support.html:117
+msgid "here for you"
+msgstr ""
+
+#: app/templates/support.html:118
+msgid ""
+"Can't find what you're looking for? Our agronomy experts respond within "
+"24 hours."
+msgstr ""
+
+#: app/templates/support.html:120
+#, fuzzy
+msgid "Email Support"
+msgstr "सहायता"
+
+#: app/templates/sustainable.html:14
+msgid "Soil Conservation"
+msgstr ""
+
+#: app/templates/sustainable.html:15
+msgid ""
+"Protect soil from erosion using crop rotation, cover cropping, and "
+"reduced tillage."
+msgstr ""
+
+#: app/templates/sustainable.html:19
+msgid "Water Management"
+msgstr ""
+
+#: app/templates/sustainable.html:20
+msgid ""
+"Use efficient irrigation methods like drip irrigation and rainwater "
+"harvesting."
+msgstr ""
+
+#: app/templates/sustainable.html:24
+msgid "Organic Inputs"
+msgstr ""
+
+#: app/templates/sustainable.html:25
+msgid ""
+"Promote natural fertilizers such as compost and manure instead of "
+"chemicals."
+msgstr ""
+
+#: app/templates/sustainable.html:29
+msgid "Crop Diversity"
+msgstr ""
+
+#: app/templates/sustainable.html:30
+msgid ""
+"Grow different crops to improve soil fertility and reduce pests and "
+"diseases."
+msgstr ""
+
+#: app/templates/sustainable.html:34
+msgid "Pest Management"
+msgstr ""
+
+#: app/templates/sustainable.html:35
+msgid ""
+"Use eco-friendly pest control methods like biological and cultural "
+"practices."
+msgstr ""
+
+#: app/templates/sustainable.html:39
+msgid "Energy Efficiency"
+msgstr ""
+
+#: app/templates/sustainable.html:40
+msgid "Reduce energy consumption and promote renewable energy in farming."
+msgstr ""
+
+#: app/templates/sustainable.html:44
+msgid "Biodiversity"
+msgstr ""
+
+#: app/templates/sustainable.html:45
+msgid "Protect ecosystems and beneficial organisms that support agriculture."
+msgstr ""
+
+#: app/templates/sustainable.html:49
+msgid "Climate Adaptation"
+msgstr ""
+
+#: app/templates/sustainable.html:50
+msgid "Adopt practices that help cope with climate change and extreme weather."
+msgstr ""
+
+#: app/templates/verify_otp.html:12 app/templates/verify_otp.html:18
+msgid "Verify OTP"
+msgstr ""
+
+#: app/templates/water_management.html:13
+msgid "Water Availability"
+msgstr ""
+
+#: app/templates/water_management.html:14
+msgid ""
+"Understanding water sources like rainfall, groundwater, and irrigation "
+"helps in proper planning."
+msgstr ""
+
+#: app/templates/water_management.html:18
+msgid "Irrigation Methods"
+msgstr ""
+
+#: app/templates/water_management.html:19
+msgid ""
+"Different methods like drip, sprinkler, and surface irrigation are used "
+"based on crop needs."
+msgstr ""
+
+#: app/templates/water_management.html:23
+msgid "Crop Water Requirements"
+msgstr ""
+
+#: app/templates/water_management.html:24
+msgid "Each crop needs a specific amount of water at different growth stages."
+msgstr ""
+
+#: app/templates/water_management.html:28
+msgid "Drainage System"
+msgstr ""
+
+#: app/templates/water_management.html:29
+msgid "Proper drainage prevents waterlogging and protects roots from damage."
+msgstr ""
+
+#: app/templates/water_management.html:33
+msgid "Rainwater Management"
+msgstr ""
+
+#: app/templates/water_management.html:34
+msgid "Rainwater harvesting helps store and utilize water efficiently."
+msgstr ""
+
+#: app/templates/water_management.html:38
+msgid "Water Balance"
+msgstr ""
+
+#: app/templates/water_management.html:39
+msgid ""
+"Maintaining the right balance between water supply and crop demand "
+"ensures healthy growth."
+msgstr ""
+
+#: app/templates/weather.html:11
+msgid "Search Your City"
+msgstr ""
+
+#: app/templates/weather.html:15
+#, fuzzy
+msgid "Enter city (e.g. Mumbai)"
+msgstr "अपना शहर दर्ज करें, जैसे मुंबई"
+
+#: app/templates/weather.html:22
+msgid "Fetching weather..."
+msgstr ""
+
+#: app/templates/weather.html:50
+msgid "Please enter a city"
+msgstr ""
+
+#: app/templates/weather.html:82
+msgid "Server error. Try again."
+msgstr ""
+
+# -------- COMMON --------
+#~ msgid "THIS IS HOME.HTML"
+#~ msgstr "यह HOME.HTML है"
+

@@ -1,0 +1,54 @@
+ <footer class="footer">
+            <div class="footer-overlay"></div>
+
+            <div class="footer-container">
+
+                <!-- Project Info -->
+                <div class="footer-box">
+                    <h2>🌱 {{ _('Smart Crop Predictor') }}</h2>
+                    <p>{{ _('A smart agriculture system that provides crop recommendation, yield prediction, and price forecasting using machine learning and data analytics.') }}</p>
+                </div>
+
+                <!-- Quick Links -->
+                <div class="footer-box">
+                    <h3>{{ _('Quick Links') }}</h3>
+                    <ul>
+                        <li><a href="{{ url_for('main.index') }}">{{ _('Home') }}</a></li>
+                        <li><a href="{{ url_for('main.about') }}">{{ _('About Us') }}</a></li>
+                        <li><a href="{{ url_for('main.support') }}">{{ _('Support') }}</a></li>
+                        <li><a href="{{ url_for('main.contact') }}">{{ _('Contact') }}</a></li>
+                    </ul>
+                </div>
+
+                <!-- Features -->
+                <div class="footer-box">
+                    <h3>{{ _('Our Features') }}</h3>
+                    <ul>
+                        <li>{{ _('Crop Recommendation') }}</li>
+                        <li>{{ _('Yield Prediction') }}</li>
+                        <li>{{ _('Price Prediction') }}</li>
+                        <li>{{ _('Weather Analysis') }}</li>
+                    </ul>
+                </div>
+
+                <!-- Contact -->
+                <div class="footer-box">
+                    <h3>{{ _('Contact') }}</h3>
+                    <p>📍 {{ _('India') }}</p>
+                    <p><a href="mailto:agrosmart.support@gmail.com">📧 agrosmart.support@gmail.com</a></p>
+                    <p>📞 +91 9XXXXXXXXX</p>
+
+                    <div class="social-icons">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="#"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="footer-bottom">
+                <p>{{ _('© 2026 Smart Crop Prediction System | Designed for Academic Project') }}</p>
+            </div>
+        </footer>

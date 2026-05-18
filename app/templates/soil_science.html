@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="explain-guide">
+    <a href="{{ url_for('main.support') }}#guides-section" class="back">← {{ _("Back to Support") }}</a>
+
+<h1>🌱 {{ _("Soil Science Fundamentals") }}</h1>
+
+<p class="guide-intro">{{ _("Soil science helps farmers understand soil composition, fertility, and structure to improve crop productivity and maintain long-term soil health.") }}</p>
+
+<div class="guide-grid">
+
+    <div class="step">
+        <strong>🧪 {{ _("Soil Composition") }}</strong>
+        <p>{{ _("Soil consists of minerals, organic matter, water, and air. A proper balance ensures healthy plant growth.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌍 {{ _("Soil Types") }}</strong>
+        <p>{{ _("Sandy, clay, and loamy soils differ in water retention and nutrients. Loamy soil is best for farming.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>⚖️ {{ _("Soil pH Levels") }}</strong>
+        <p>{{ _("Soil pH affects nutrient availability. Most crops grow well in pH levels between 6 and 7.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌿 {{ _("Nutrient Content") }}</strong>
+        <p>{{ _("Essential nutrients like Nitrogen, Phosphorus, and Potassium are crucial for plant development.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌾 {{ _("Soil Fertility") }}</strong>
+        <p>{{ _("Fertility determines the soil’s ability to support crops and can be improved with organic matter.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🔬 {{ _("Soil Structure") }}</strong>
+        <p>{{ _("Soil texture and structure affect root growth, aeration, and water movement.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌪️ {{ _("Soil Erosion") }}</strong>
+        <p>{{ _("Soil loss due to wind and water can be prevented using conservation practices.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>📊 {{ _("Soil Testing") }}</strong>
+        <p>{{ _("Regular testing helps identify nutrient deficiencies and improves crop planning.") }}</p>
+    </div>
+
+</div>
+
+</div>
+
+{% endblock %}

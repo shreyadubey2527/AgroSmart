@@ -1,0 +1,105 @@
+.explain-guide {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #020617, #0f172a);
+    color: #e2e8f0;
+    padding: 60px 8%;
+    min-height: 100vh;
+    margin-top: 80px;
+
+    opacity: 1;
+    transform: translateY(30px);
+    transition: all 0.6s ease;
+}
+
+.explain-guide.loaded {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.explain-guide::before {
+    content: "";
+    position: fixed;
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle, rgba(34, 197, 94, 0.15), transparent);
+    top: 10%;
+    left: 20%;
+    filter: blur(80px);
+    animation: float 6s infinite alternate ease-in-out;
+}
+
+@keyframes float {
+    from { transform: translateY(0); }
+    to { transform: translateY(40px); }
+}
+
+.back {
+    display: inline-block;
+    margin-bottom: 25px;
+    text-decoration: none;
+    color: #22c55e;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.back:hover {
+    transform: translateX(-6px);
+    color: #4ade80;
+}
+
+.explain-guide h1 {
+    color: #22c55e;
+    margin-bottom: 15px;
+    font-size: 32px;
+}
+
+.guide-intro {
+    margin-bottom: 30px;
+    color: #cbd5e1;
+    max-width: 750px;
+}
+
+.guide-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+}
+
+.step {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 20px;
+    border-radius: 14px;
+    border-left: 4px solid #22c55e;
+    backdrop-filter: blur(10px);
+
+    transform: translateY(30px);
+    opacity: 0;
+    transition: all 0.4s ease;
+}
+
+.step:hover {
+    transform: translateY(-6px) scale(1.03);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.4);
+}
+
+.step.show {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.step strong {
+    color: #4ade80;
+}
+
+.step p {
+    margin-top: 8px;
+    color: #cbd5e1;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    .explain-guide h1 {
+        font-size: 24px;
+    }
+}

@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="explain-guide">
+    <a href="{{ url_for('main.support') }}#guides-section" class="back">← {{ _("Back to Support") }}</a>
+
+
+<h1>🌱 {{ _("Crop Growth Principles") }}</h1>
+
+<p class="guide-intro">{{ _("Understanding the stages of crop growth helps farmers plan better and improve productivity at each phase of the plant life cycle.") }}</p>
+
+<div class="guide-grid">
+
+    <div class="step">
+        <strong>🌾 {{ _("Germination Stage") }}</strong>
+        <p>{{ _("Seeds sprout into seedlings under proper moisture, temperature, and oxygen conditions.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌿 {{ _("Vegetative Stage") }}</strong>
+        <p>{{ _("Plants develop leaves, stems, and roots. Proper nutrients, sunlight, and water are essential.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌼 {{ _("Flowering Stage") }}</strong>
+        <p>{{ _("Plants produce flowers, which are necessary for reproduction and future crop yield.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌽 {{ _("Fruiting Stage") }}</strong>
+        <p>{{ _("Flowers develop into fruits or grains. Proper care ensures healthy crop development.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌾 {{ _("Maturity Stage") }}</strong>
+        <p>{{ _("Crops reach full growth and become ready for harvesting at the right time.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>✂️ {{ _("Harvesting Stage") }}</strong>
+        <p>{{ _("Crops are collected carefully to maintain quality and maximize yield.") }}</p>
+    </div>
+
+</div>
+
+</div>
+
+
+
+
+
+{% endblock %}

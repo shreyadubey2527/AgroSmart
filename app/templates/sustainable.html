@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="explain-guide">
+    <a href="{{ url_for('main.support') }}#guides-section" class="back">← {{ _("Back to Support") }}</a>
+
+
+<h1>🌱 {{ _("Sustainable Agriculture Practices") }}</h1>
+
+<p class="guide-intro">{{ _("Learn modern and eco-friendly farming techniques that improve productivity while protecting the environment for future generations.") }}</p>
+
+<div class="guide-grid">
+
+    <div class="step">
+        <strong>🌾 {{ _("Soil Conservation") }}</strong>
+        <p>{{ _("Protect soil from erosion using crop rotation, cover cropping, and reduced tillage.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>💧 {{ _("Water Management") }}</strong>
+        <p>{{ _("Use efficient irrigation methods like drip irrigation and rainwater harvesting.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌿 {{ _("Organic Inputs") }}</strong>
+        <p>{{ _("Promote natural fertilizers such as compost and manure instead of chemicals.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌽 {{ _("Crop Diversity") }}</strong>
+        <p>{{ _("Grow different crops to improve soil fertility and reduce pests and diseases.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🐞 {{ _("Pest Management") }}</strong>
+        <p>{{ _("Use eco-friendly pest control methods like biological and cultural practices.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>⚡ {{ _("Energy Efficiency") }}</strong>
+        <p>{{ _("Reduce energy consumption and promote renewable energy in farming.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌍 {{ _("Biodiversity") }}</strong>
+        <p>{{ _("Protect ecosystems and beneficial organisms that support agriculture.") }}</p>
+    </div>
+
+    <div class="step">
+        <strong>🌦️ {{ _("Climate Adaptation") }}</strong>
+        <p>{{ _("Adopt practices that help cope with climate change and extreme weather.") }}</p>
+    </div>
+
+</div>
+
+
+</div>
+
+{% endblock %}

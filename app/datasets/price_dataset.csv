@@ -1,0 +1,5571 @@
+State,Commodity,Price
+uttarakhand,water melon,1800.0
+west bengal,bottle gourd,1500.0
+tamil nadu,potato,2700.0
+tamil nadu,green peas,8250.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,green chilli,3900.0
+tamil nadu,onion,2750.0
+tamil nadu,sapota,3750.0
+tamil nadu,beans,6750.0
+tamil nadu,cabbage,3200.0
+tamil nadu,snakeguard,2600.0
+tamil nadu,beetroot,4750.0
+tamil nadu,ridge gourd,3800.0
+tamil nadu,drumstick,3500.0
+tamil nadu,onion,3200.0
+tamil nadu,mint,2750.0
+tamil nadu,onion,2100.0
+tamil nadu,brinjal,1750.0
+tamil nadu,ginger,6500.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,sapota,3000.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,coconut,3250.0
+tamil nadu,mango,7000.0
+tamil nadu,potato,3000.0
+tamil nadu,coconut,6000.0
+tamil nadu,carrot,6000.0
+tamil nadu,brinjal,4250.0
+tamil nadu,papaya,2750.0
+tamil nadu,tomato,1750.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,green chilli,2750.0
+tamil nadu,banana,2750.0
+tamil nadu,raddish,2250.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,bitter gourd,3900.0
+tamil nadu,bottle gourd,1350.0
+tamil nadu,raddish,2200.0
+tamil nadu,drumstick,2750.0
+tamil nadu,muskmelon,2900.0
+tamil nadu,mint,2900.0
+tamil nadu,maize,2750.0
+tamil nadu,potato,3500.0
+tamil nadu,papaya,3250.0
+tamil nadu,green chilli,3750.0
+tamil nadu,banana,3500.0
+tamil nadu,ginger,7500.0
+tamil nadu,beetroot,5750.0
+tamil nadu,mango,6000.0
+tamil nadu,mint,3750.0
+maharashtra,tomato,1000.0
+maharashtra,carrot,1250.0
+maharashtra,onion,925.0
+maharashtra,cabbage,600.0
+maharashtra,garlic,7500.0
+maharashtra,peas,2250.0
+maharashtra,rice,2469.0
+maharashtra,lime,6000.0
+maharashtra,brinjal,1500.0
+maharashtra,pineapple,5000.0
+maharashtra,grapes,7000.0
+maharashtra,potato,900.0
+maharashtra,mango,4500.0
+maharashtra,onion,800.0
+maharashtra,green chilli,7000.0
+maharashtra,rice,4400.0
+uttar pradesh,raddish,400.0
+uttar pradesh,green chilli,2500.0
+west bengal,bitter gourd,3400.0
+west bengal,tomato,2100.0
+tamil nadu,banana,3250.0
+tamil nadu,sapota,3800.0
+tamil nadu,papaya,3300.0
+tamil nadu,tomato,2000.0
+tamil nadu,bottle gourd,2250.0
+tamil nadu,ginger,6900.0
+tamil nadu,cabbage,2000.0
+tamil nadu,cucumber,2800.0
+tamil nadu,papaya,2750.0
+tamil nadu,banana,2750.0
+tamil nadu,ginger,7250.0
+tamil nadu,brinjal,4750.0
+tamil nadu,tomato,1750.0
+tamil nadu,beans,7000.0
+tamil nadu,snakeguard,3750.0
+tamil nadu,bitter gourd,3650.0
+tamil nadu,bottle gourd,2900.0
+tamil nadu,ridge gourd,3900.0
+tamil nadu,onion,2750.0
+tamil nadu,coriander leaves,6500.0
+tamil nadu,sapota,3750.0
+tamil nadu,green chilli,5750.0
+tamil nadu,carrot,5750.0
+tamil nadu,beetroot,5250.0
+tamil nadu,lemon,7750.0
+tamil nadu,onion,3150.0
+tamil nadu,banana,5250.0
+tamil nadu,ginger,8000.0
+tamil nadu,snakeguard,2000.0
+tamil nadu,raddish,2000.0
+tamil nadu,onion,3250.0
+tamil nadu,green chilli,6000.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,onion,4000.0
+tamil nadu,coriander leaves,5500.0
+tamil nadu,green chilli,5950.0
+tamil nadu,banana,3650.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,snakeguard,2200.0
+tamil nadu,drumstick,2200.0
+tamil nadu,onion,3750.0
+tamil nadu,maize,3750.0
+tamil nadu,cauliflower,2500.0
+tamil nadu,green peas,5000.0
+tamil nadu,papaya,4000.0
+tamil nadu,bitter gourd,3500.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,sweet potato,3500.0
+tamil nadu,carrot,2500.0
+tamil nadu,raddish,2500.0
+tamil nadu,maize,2500.0
+tamil nadu,green peas,7200.0
+tamil nadu,bitter gourd,5700.0
+tamil nadu,bottle gourd,2400.0
+tamil nadu,pumpkin,2400.0
+tamil nadu,green chilli,4200.0
+tamil nadu,beans,7200.0
+tamil nadu,coconut,6500.0
+tamil nadu,sweet potato,5000.0
+tamil nadu,cabbage,2400.0
+tamil nadu,ridge gourd,5400.0
+tamil nadu,onion,3600.0
+tamil nadu,banana,6000.0
+tamil nadu,brinjal,3000.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,water melon,1750.0
+tamil nadu,beans,5800.0
+tamil nadu,muskmelon,2500.0
+tamil nadu,onion,4000.0
+tamil nadu,potato,3500.0
+tamil nadu,coriander leaves,6000.0
+tamil nadu,papaya,2500.0
+tamil nadu,bitter gourd,5000.0
+tamil nadu,coconut,3500.0
+tamil nadu,raddish,3000.0
+tamil nadu,guava,5000.0
+madhya pradesh,wheat,2100.0
+madhya pradesh,maize,1600.0
+madhya pradesh,soybean,4500.0
+madhya pradesh,wheat,2200.0
+madhya pradesh,soybean,3999.0
+madhya pradesh,wheat,2170.0
+madhya pradesh,chickpea,7300.0
+madhya pradesh,wheat,2150.0
+madhya pradesh,wheat,2500.0
+madhya pradesh,rice,4120.0
+madhya pradesh,wheat,2250.0
+madhya pradesh,rice,1600.0
+gujarat,methi leaves,3500.0
+gujarat,banana,1750.0
+gujarat,potato,950.0
+gujarat,carrot,1250.0
+gujarat,cucumber,1650.0
+gujarat,green chilli,3000.0
+gujarat,grapes,7000.0
+telangana,brinjal,700.0
+telangana,capsicum,4750.0
+telangana,potato,1750.0
+telangana,sapota,2200.0
+kerala,cucumber,4300.0
+west bengal,bitter gourd,3200.0
+west bengal,onion,1000.0
+haryana,potato,600.0
+tamil nadu,brinjal,2250.0
+tamil nadu,beans,3850.0
+tamil nadu,cabbage,2250.0
+tamil nadu,ridge gourd,2750.0
+andhra pradesh,tomato,1000.0
+uttarakhand,potato,900.0
+uttarakhand,cauliflower,1400.0
+uttarakhand,orange,2200.0
+uttarakhand,grapes,3500.0
+uttarakhand,green chilli,2800.0
+odisha,brinjal,3500.0
+punjab,carrot,800.0
+punjab,spinach,1126.0
+west bengal,maize,2200.0
+west bengal,rice,3925.0
+tamil nadu,grapes,8500.0
+tamil nadu,brinjal,3300.0
+tamil nadu,water melon,2200.0
+tamil nadu,bitter gourd,4100.0
+tamil nadu,beans,7000.0
+tamil nadu,carrot,4100.0
+tamil nadu,beetroot,4100.0
+tamil nadu,mango,3750.0
+tamil nadu,muskmelon,3300.0
+haryana,pumpkin,1500.0
+haryana,tomato,1800.0
+haryana,green chilli,3200.0
+uttar pradesh,cauliflower,2200.0
+uttar pradesh,water melon,2700.0
+uttar pradesh,bottle gourd,1600.0
+haryana,banana,3900.0
+haryana,spinach,900.0
+haryana,onion,1100.0
+haryana,muskmelon,2800.0
+tamil nadu,brinjal,2750.0
+tamil nadu,papaya,3750.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,green chilli,4750.0
+tamil nadu,banana,3600.0
+tamil nadu,snakeguard,3200.0
+tamil nadu,cucumber,3250.0
+tamil nadu,raddish,3250.0
+tamil nadu,drumstick,3250.0
+kerala,bitter gourd,7600.0
+kerala,brinjal,3400.0
+kerala,potato,3600.0
+kerala,banana,6800.0
+kerala,cucumber,1800.0
+kerala,onion,2000.0
+kerala,green chilli,8000.0
+kerala,potato,3200.0
+kerala,banana,4400.0
+kerala,bitter gourd,6000.0
+kerala,brinjal,4500.0
+kerala,onion,2600.0
+tripura,ridge gourd,6000.0
+haryana,potato,700.0
+rajasthan,maize,2500.0
+punjab,raddish,700.0
+himachal pradesh,cabbage,800.0
+west bengal,tomato,1200.0
+west bengal,green chilli,6700.0
+tamil nadu,onion,2650.0
+tamil nadu,bitter gourd,3000.0
+tamil nadu,groundnut,5750.0
+tamil nadu,mango,3300.0
+tamil nadu,banana,3800.0
+tamil nadu,banana,2100.0
+tamil nadu,raddish,2800.0
+tamil nadu,banana,3900.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,sapota,3750.0
+tamil nadu,papaya,2200.0
+tamil nadu,green chilli,4150.0
+tamil nadu,raddish,2600.0
+tamil nadu,onion,2250.0
+haryana,bottle gourd,1500.0
+haryana,cucumber,1500.0
+haryana,raddish,600.0
+tamil nadu,bitter gourd,2600.0
+odisha,onion,1800.0
+odisha,tomato,1000.0
+tamil nadu,banana,2800.0
+tamil nadu,tomato,1900.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,bottle gourd,1100.0
+tamil nadu,pumpkin,1700.0
+tamil nadu,green chilli,4750.0
+tamil nadu,cabbage,1900.0
+tamil nadu,maize,4750.0
+tamil nadu,onion,2650.0
+tamil nadu,brinjal,1750.0
+tamil nadu,tomato,2000.0
+tamil nadu,beans,6900.0
+tamil nadu,ginger,7300.0
+tamil nadu,capsicum,4750.0
+tamil nadu,mango,4750.0
+telangana,maize,2350.0
+tamil nadu,brinjal,3200.0
+tamil nadu,tomato,1800.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,bottle gourd,1800.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,onion,2800.0
+tamil nadu,coriander leaves,3600.0
+tamil nadu,tomato,1800.0
+tamil nadu,green chilli,4250.0
+tamil nadu,mint,3800.0
+tamil nadu,potato,3750.0
+tamil nadu,banana,3000.0
+tamil nadu,beans,7300.0
+tamil nadu,snakeguard,3200.0
+tamil nadu,cucumber,2750.0
+tamil nadu,banana,6500.0
+tamil nadu,bottle gourd,2250.0
+tamil nadu,cabbage,2000.0
+tamil nadu,cucumber,3200.0
+tamil nadu,potato,3250.0
+tamil nadu,papaya,3250.0
+tamil nadu,ginger,6000.0
+tamil nadu,coconut,4900.0
+tamil nadu,onion,3250.0
+tamil nadu,banana,5000.0
+tamil nadu,papaya,3250.0
+tamil nadu,bottle gourd,1350.0
+tamil nadu,cucumber,4050.0
+tamil nadu,capsicum,5750.0
+chandigarh,cabbage,400.0
+tamil nadu,cauliflower,3250.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,ginger,7750.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,beetroot,5750.0
+tamil nadu,sapota,4250.0
+tamil nadu,coconut,5000.0
+tamil nadu,guava,5750.0
+tamil nadu,onion,3000.0
+tamil nadu,banana,7000.0
+tamil nadu,brinjal,2750.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,capsicum,6000.0
+tamil nadu,coconut,6000.0
+tamil nadu,potato,3500.0
+tamil nadu,papaya,4250.0
+tamil nadu,drumstick,3000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,banana,2500.0
+tamil nadu,snakeguard,2500.0
+tamil nadu,drumstick,4000.0
+tamil nadu,onion,2250.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,banana,3000.0
+tamil nadu,ginger,8000.0
+tamil nadu,cabbage,2500.0
+tamil nadu,ridge gourd,5000.0
+tamil nadu,onion,2500.0
+tamil nadu,potato,2700.0
+tamil nadu,green peas,8300.0
+tamil nadu,sapota,3450.0
+tamil nadu,bottle gourd,1450.0
+tamil nadu,banana,2900.0
+tamil nadu,beans,7800.0
+tamil nadu,cabbage,2300.0
+tamil nadu,capsicum,5850.0
+tamil nadu,guava,4850.0
+tamil nadu,muskmelon,2700.0
+tamil nadu,maize,2500.0
+tamil nadu,coriander leaves,4850.0
+tamil nadu,papaya,2900.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,coconut,7750.0
+tamil nadu,snakeguard,2900.0
+tamil nadu,banana,4250.0
+tamil nadu,onion,2350.0
+tamil nadu,brinjal,1800.0
+tamil nadu,green peas,6800.0
+tamil nadu,ridge gourd,3350.0
+tamil nadu,capsicum,5900.0
+tamil nadu,onion,3350.0
+tamil nadu,onion,2300.0
+tamil nadu,brinjal,1000.0
+tamil nadu,green peas,8400.0
+tamil nadu,papaya,3200.0
+tamil nadu,snakeguard,2000.0
+tamil nadu,beetroot,3200.0
+tamil nadu,cucumber,3650.0
+tamil nadu,tomato,2200.0
+tamil nadu,groundnut,7500.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,coconut,5750.0
+tamil nadu,sweet potato,4500.0
+tamil nadu,cabbage,2750.0
+tamil nadu,ridge gourd,4500.0
+tamil nadu,drumstick,5500.0
+tamil nadu,mango,7500.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,beetroot,4800.0
+tamil nadu,coriander leaves,4200.0
+tamil nadu,tomato,1500.0
+tamil nadu,bitter gourd,3100.0
+tamil nadu,bottle gourd,1350.0
+tamil nadu,snakeguard,3600.0
+tamil nadu,mint,3350.0
+tamil nadu,banana,2600.0
+tamil nadu,potato,3000.0
+tamil nadu,pumpkin,1400.0
+tamil nadu,green chilli,3750.0
+tamil nadu,potato,2600.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,tomato,1150.0
+tamil nadu,groundnut,7000.0
+tamil nadu,banana,3000.0
+tamil nadu,cucumber,2500.0
+tamil nadu,onion,2750.0
+tamil nadu,sapota,3750.0
+tamil nadu,banana,1750.0
+tamil nadu,grapes,7000.0
+tamil nadu,onion,2500.0
+tamil nadu,potato,2500.0
+tamil nadu,green chilli,4250.0
+tamil nadu,banana,3000.0
+tamil nadu,sweet potato,3000.0
+tamil nadu,drumstick,4000.0
+tamil nadu,mint,3000.0
+tamil nadu,banana,5750.0
+tamil nadu,potato,2750.0
+tamil nadu,cucumber,4500.0
+tamil nadu,mint,3750.0
+tamil nadu,potato,3700.0
+tamil nadu,beans,7500.0
+tamil nadu,sapota,3750.0
+tamil nadu,water melon,1750.0
+tamil nadu,tomato,1650.0
+tamil nadu,bitter gourd,3750.0
+tamil nadu,bottle gourd,1350.0
+tamil nadu,green chilli,4750.0
+tamil nadu,brinjal,2500.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,tomato,1750.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,mint,3750.0
+tamil nadu,beans,6500.0
+tamil nadu,brinjal,2250.0
+tamil nadu,sapota,6500.0
+tamil nadu,carrot,2250.0
+tamil nadu,cabbage,900.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,raddish,2250.0
+tamil nadu,muskmelon,3250.0
+tamil nadu,brinjal,1200.0
+tamil nadu,coriander leaves,2200.0
+tamil nadu,tur,4250.0
+tamil nadu,sapota,2800.0
+tamil nadu,beans,4750.0
+tamil nadu,ginger,7500.0
+tamil nadu,carrot,4750.0
+tamil nadu,raddish,900.0
+tamil nadu,onion,3250.0
+tamil nadu,mint,2200.0
+tamil nadu,papaya,3750.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,carrot,3500.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,tur,4500.0
+tamil nadu,papaya,3500.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,green chilli,5500.0
+tamil nadu,carrot,2250.0
+tamil nadu,drumstick,3250.0
+tamil nadu,onion,3500.0
+tamil nadu,potato,2750.0
+tamil nadu,bitter gourd,3300.0
+tamil nadu,sweet potato,3300.0
+tamil nadu,cabbage,1750.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,capsicum,5500.0
+tamil nadu,mint,2750.0
+tamil nadu,onion,2900.0
+tamil nadu,potato,2900.0
+tamil nadu,tomato,1900.0
+tamil nadu,cabbage,1800.0
+tamil nadu,raddish,2250.0
+tamil nadu,capsicum,5500.0
+tamil nadu,potato,2800.0
+tamil nadu,carrot,3300.0
+tamil nadu,bitter gourd,3300.0
+tamil nadu,onion,2900.0
+tamil nadu,brinjal,3800.0
+tamil nadu,bottle gourd,2500.0
+tamil nadu,pumpkin,1650.0
+tamil nadu,drumstick,4500.0
+tamil nadu,papaya,3800.0
+tamil nadu,pumpkin,1650.0
+tamil nadu,cucumber,3500.0
+tamil nadu,guava,7500.0
+tamil nadu,brinjal,3500.0
+tamil nadu,beans,7500.0
+tamil nadu,ginger,8500.0
+tamil nadu,mango,4750.0
+tamil nadu,tomato,2500.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,groundnut,5500.0
+tamil nadu,beans,6250.0
+tamil nadu,ginger,6500.0
+tamil nadu,drumstick,6250.0
+tamil nadu,mango,5150.0
+tamil nadu,banana,2750.0
+tamil nadu,brinjal,4500.0
+tamil nadu,groundnut,5750.0
+tamil nadu,bottle gourd,2750.0
+tamil nadu,pumpkin,2100.0
+tamil nadu,ginger,7000.0
+tamil nadu,snakeguard,4750.0
+tamil nadu,guava,4500.0
+tamil nadu,potato,2650.0
+tamil nadu,tomato,1650.0
+tamil nadu,bitter gourd,4400.0
+tamil nadu,green chilli,4750.0
+tamil nadu,beans,7250.0
+tamil nadu,ginger,6500.0
+tamil nadu,snakeguard,5500.0
+tamil nadu,ridge gourd,5500.0
+tamil nadu,onion,2900.0
+tamil nadu,sapota,3750.0
+tamil nadu,groundnut,6750.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,carrot,5250.0
+tamil nadu,snakeguard,3750.0
+tamil nadu,cucumber,6500.0
+tamil nadu,mango,7500.0
+tamil nadu,papaya,2750.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,mango,7000.0
+tamil nadu,guava,5750.0
+tamil nadu,lemon,7000.0
+tamil nadu,onion,2700.0
+tamil nadu,coriander leaves,3700.0
+tamil nadu,green chilli,5700.0
+tamil nadu,cabbage,2250.0
+tamil nadu,snakeguard,5000.0
+tamil nadu,lemon,7200.0
+tamil nadu,mint,3700.0
+tamil nadu,banana,4250.0
+tamil nadu,potato,3250.0
+tamil nadu,bottle gourd,1650.0
+tamil nadu,beetroot,2750.0
+tamil nadu,cucumber,3500.0
+tamil nadu,banana,4500.0
+tamil nadu,ginger,7750.0
+tamil nadu,coconut,5500.0
+tamil nadu,snakeguard,2600.0
+tamil nadu,beetroot,2800.0
+tamil nadu,cucumber,5800.0
+tamil nadu,ridge gourd,4200.0
+tamil nadu,groundnut,5500.0
+tamil nadu,ginger,7500.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,lime,1750.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,banana,4750.0
+tamil nadu,brinjal,4250.0
+tamil nadu,papaya,2750.0
+tamil nadu,green chilli,2750.0
+tamil nadu,coconut,3750.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,bottle gourd,1400.0
+tamil nadu,potato,3650.0
+tamil nadu,banana,2900.0
+tamil nadu,coconut,5900.0
+tamil nadu,cabbage,2250.0
+tamil nadu,beetroot,4250.0
+tamil nadu,ridge gourd,5250.0
+tamil nadu,cauliflower,3900.0
+tamil nadu,bottle gourd,1650.0
+tamil nadu,pumpkin,1650.0
+tamil nadu,green chilli,4750.0
+tamil nadu,banana,3100.0
+tamil nadu,cabbage,2250.0
+tamil nadu,snakeguard,4750.0
+tamil nadu,beetroot,4650.0
+tamil nadu,drumstick,3750.0
+tamil nadu,sapota,3750.0
+tamil nadu,bitter gourd,3800.0
+tamil nadu,banana,2200.0
+tamil nadu,ginger,7750.0
+tamil nadu,coconut,5250.0
+tamil nadu,lime,3250.0
+tamil nadu,banana,2750.0
+tamil nadu,bottle gourd,1900.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,ginger,7500.0
+tamil nadu,capsicum,7000.0
+tamil nadu,mango,6000.0
+tamil nadu,guava,5500.0
+tamil nadu,beans,6750.0
+tamil nadu,coconut,4750.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,carrot,5750.0
+tamil nadu,mango,6750.0
+tamil nadu,papaya,2750.0
+tamil nadu,tomato,1600.0
+tamil nadu,bitter gourd,3800.0
+tamil nadu,guava,7000.0
+tamil nadu,brinjal,2300.0
+tamil nadu,sweet line,2900.0
+tamil nadu,orange,6900.0
+tamil nadu,coconut,5250.0
+tamil nadu,snakeguard,2700.0
+tamil nadu,papaya,2750.0
+tamil nadu,coconut,4750.0
+tamil nadu,drumstick,3500.0
+tamil nadu,onion,3200.0
+tamil nadu,banana,2200.0
+tamil nadu,potato,2800.0
+tamil nadu,sapota,3750.0
+tamil nadu,bitter gourd,3750.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,cabbage,2750.0
+tamil nadu,raddish,2100.0
+tamil nadu,onion,2500.0
+tamil nadu,coriander leaves,2000.0
+tamil nadu,papaya,2750.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,cucumber,3750.0
+tamil nadu,onion,2900.0
+tamil nadu,bottle gourd,2900.0
+tamil nadu,green chilli,3500.0
+tamil nadu,beans,5700.0
+tamil nadu,coconut,5800.0
+tamil nadu,banana,3750.0
+tamil nadu,brinjal,3500.0
+tamil nadu,papaya,4250.0
+tamil nadu,pumpkin,2100.0
+tamil nadu,drumstick,4750.0
+tamil nadu,mango,4250.0
+tamil nadu,onion,4200.0
+tamil nadu,cauliflower,3300.0
+tamil nadu,brinjal,3800.0
+tamil nadu,tomato,2200.0
+tamil nadu,bitter gourd,3500.0
+tamil nadu,snakeguard,3300.0
+tamil nadu,ridge gourd,4750.0
+tamil nadu,raddish,2700.0
+tamil nadu,guava,8000.0
+tamil nadu,onion,4250.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,tomato,2350.0
+tamil nadu,bitter gourd,3750.0
+tamil nadu,pumpkin,2100.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,banana,3500.0
+tamil nadu,onion,2750.0
+tamil nadu,sapota,4750.0
+tamil nadu,carrot,3750.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,potato,2400.0
+tamil nadu,cauliflower,4000.0
+tamil nadu,green peas,8000.0
+tamil nadu,sweet line,7000.0
+tamil nadu,banana,4000.0
+tamil nadu,ginger,8000.0
+tamil nadu,coconut,6000.0
+tamil nadu,sweet potato,3600.0
+tamil nadu,cabbage,2400.0
+tamil nadu,raddish,2400.0
+tamil nadu,capsicum,7000.0
+tamil nadu,banana,3500.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,carrot,4800.0
+tamil nadu,snakeguard,3500.0
+tamil nadu,beetroot,3500.0
+tamil nadu,mango,7300.0
+tamil nadu,raddish,2400.0
+tamil nadu,banana,2750.0
+tamil nadu,green peas,4800.0
+tamil nadu,papaya,3250.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,green chilli,3500.0
+tamil nadu,beans,6700.0
+tamil nadu,coconut,4700.0
+tamil nadu,capsicum,5500.0
+tamil nadu,mango,3900.0
+tamil nadu,muskmelon,6000.0
+tamil nadu,onion,3150.0
+tamil nadu,onion,2500.0
+tamil nadu,potato,2400.0
+tamil nadu,brinjal,1650.0
+tamil nadu,banana,2750.0
+tamil nadu,beans,6600.0
+tamil nadu,mango,4500.0
+tamil nadu,potato,2400.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,bottle gourd,1000.0
+tamil nadu,pumpkin,1550.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,banana,3000.0
+tamil nadu,coconut,4800.0
+tamil nadu,beetroot,2000.0
+tamil nadu,raddish,1500.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,green chilli,4200.0
+tamil nadu,drumstick,3900.0
+tamil nadu,onion,2250.0
+tamil nadu,brinjal,2300.0
+tamil nadu,carrot,3100.0
+tamil nadu,drumstick,3000.0
+tamil nadu,guava,7000.0
+tamil nadu,onion,3800.0
+tamil nadu,brinjal,2500.0
+tamil nadu,tomato,2700.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,carrot,3100.0
+tamil nadu,cucumber,4000.0
+tamil nadu,pumpkin,1300.0
+tamil nadu,onion,3800.0
+tamil nadu,onion,3750.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,tomato,2400.0
+tamil nadu,bottle gourd,2250.0
+tamil nadu,banana,2600.0
+tamil nadu,cabbage,1300.0
+tamil nadu,snakeguard,1400.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,drumstick,2850.0
+tamil nadu,onion,2500.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,green chilli,5000.0
+tamil nadu,coconut,6000.0
+tamil nadu,lemon,7000.0
+tamil nadu,potato,2500.0
+tamil nadu,green chilli,5000.0
+tamil nadu,carrot,4000.0
+tamil nadu,cabbage,3000.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,ridge gourd,5000.0
+tamil nadu,raddish,3000.0
+tamil nadu,onion,2500.0
+tamil nadu,bottle gourd,4000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,banana,4000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,banana,3500.0
+tamil nadu,sweet potato,4000.0
+tamil nadu,raddish,3000.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,sapota,5000.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,ginger,7000.0
+tamil nadu,cabbage,2000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,raddish,2000.0
+tamil nadu,drumstick,3600.0
+tamil nadu,brinjal,3200.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,tomato,1600.0
+tamil nadu,pumpkin,2200.0
+tamil nadu,green chilli,3400.0
+tamil nadu,coconut,4000.0
+tamil nadu,cabbage,2000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,onion,4000.0
+tamil nadu,banana,4000.0
+tamil nadu,green chilli,3600.0
+tamil nadu,snakeguard,2300.0
+tamil nadu,ridge gourd,4400.0
+tamil nadu,lime,2600.0
+tamil nadu,mint,4000.0
+tamil nadu,onion,2750.0
+tamil nadu,brinjal,4250.0
+tamil nadu,groundnut,7500.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,green chilli,2750.0
+tamil nadu,banana,3750.0
+tamil nadu,beans,7500.0
+tamil nadu,cabbage,1750.0
+tamil nadu,raddish,1750.0
+tamil nadu,drumstick,5500.0
+tamil nadu,muskmelon,2250.0
+tamil nadu,onion,3750.0
+tamil nadu,banana,1800.0
+tamil nadu,banana,4600.0
+tamil nadu,onion,2250.0
+tamil nadu,brinjal,2750.0
+tamil nadu,tomato,1350.0
+tamil nadu,groundnut,4600.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,onion,2250.0
+tamil nadu,sapota,4500.0
+tamil nadu,bitter gourd,3850.0
+tamil nadu,carrot,2750.0
+tamil nadu,beetroot,2750.0
+tamil nadu,potato,3300.0
+tamil nadu,green chilli,4600.0
+tamil nadu,banana,1350.0
+tamil nadu,beetroot,2750.0
+tamil nadu,maize,2250.0
+tamil nadu,papaya,3500.0
+tamil nadu,bitter gourd,3900.0
+tamil nadu,carrot,2750.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,drumstick,6500.0
+tamil nadu,banana,5000.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,brinjal,3500.0
+tamil nadu,water melon,2000.0
+tamil nadu,banana,3000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,capsicum,5400.0
+tamil nadu,drumstick,3500.0
+tamil nadu,bitter gourd,3800.0
+tamil nadu,coconut,6000.0
+tamil nadu,carrot,5000.0
+tamil nadu,cabbage,2000.0
+tamil nadu,coriander leaves,2750.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,beans,7250.0
+tamil nadu,ridge gourd,3300.0
+tamil nadu,capsicum,5250.0
+tamil nadu,mango,4250.0
+tamil nadu,onion,2750.0
+tamil nadu,potato,2750.0
+tamil nadu,brinjal,2000.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,tomato,2000.0
+tamil nadu,green chilli,3500.0
+tamil nadu,beans,7500.0
+tamil nadu,ginger,8000.0
+tamil nadu,sweet potato,4000.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,raddish,2500.0
+tamil nadu,capsicum,5500.0
+tamil nadu,drumstick,4000.0
+tamil nadu,potato,3000.0
+tamil nadu,tomato,1800.0
+tamil nadu,banana,3000.0
+tamil nadu,ginger,8000.0
+tamil nadu,sweet potato,4000.0
+tamil nadu,carrot,4600.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,drumstick,4000.0
+tamil nadu,banana,2500.0
+tamil nadu,banana,5000.0
+tamil nadu,potato,2600.0
+tamil nadu,brinjal,2200.0
+tamil nadu,carrot,4000.0
+tamil nadu,drumstick,3500.0
+tamil nadu,onion,3600.0
+tamil nadu,banana,3500.0
+tamil nadu,onion,2500.0
+tamil nadu,potato,3000.0
+tamil nadu,sapota,3000.0
+tamil nadu,papaya,3000.0
+tamil nadu,bitter gourd,2400.0
+tamil nadu,ginger,8000.0
+tamil nadu,carrot,3000.0
+tamil nadu,ridge gourd,2750.0
+tamil nadu,banana,4500.0
+tamil nadu,coriander leaves,3500.0
+tamil nadu,tomato,1500.0
+tamil nadu,bitter gourd,2500.0
+tamil nadu,groundnut,7500.0
+tamil nadu,sweet potato,3000.0
+tamil nadu,beetroot,2400.0
+tamil nadu,capsicum,4000.0
+tamil nadu,maize,2500.0
+tamil nadu,guava,5000.0
+tamil nadu,potato,3000.0
+tamil nadu,coriander leaves,5000.0
+tamil nadu,tomato,1500.0
+tamil nadu,beans,6000.0
+tamil nadu,ginger,7000.0
+tamil nadu,potato,2750.0
+tamil nadu,beans,7500.0
+tamil nadu,coconut,5750.0
+tamil nadu,carrot,4750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,onion,2750.0
+tamil nadu,brinjal,3250.0
+tamil nadu,sapota,3300.0
+tamil nadu,tomato,1750.0
+tamil nadu,onion,3250.0
+tamil nadu,onion,2900.0
+tamil nadu,coconut,6100.0
+tamil nadu,carrot,4550.0
+tamil nadu,banana,4350.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,sapota,2850.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,guava,5750.0
+tamil nadu,banana,3750.0
+tamil nadu,bottle gourd,1350.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,potato,2750.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,green chilli,4750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,beetroot,2750.0
+tamil nadu,guava,4750.0
+tamil nadu,potato,2250.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,beans,7250.0
+tamil nadu,cabbage,4050.0
+tamil nadu,drumstick,3600.0
+tamil nadu,onion,2750.0
+tamil nadu,potato,3250.0
+tamil nadu,green chilli,4250.0
+tamil nadu,carrot,5250.0
+tamil nadu,brinjal,4500.0
+tamil nadu,tomato,2250.0
+tamil nadu,coconut,5750.0
+tamil nadu,snakeguard,3250.0
+tamil nadu,mint,2750.0
+tamil nadu,bottle gourd,2750.0
+tamil nadu,ginger,6500.0
+tamil nadu,sweet potato,4500.0
+tamil nadu,snakeguard,3750.0
+tamil nadu,cucumber,3750.0
+tamil nadu,cauliflower,2500.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,bottle gourd,2500.0
+tamil nadu,lemon,8500.0
+tamil nadu,mint,2500.0
+tamil nadu,bitter gourd,2750.0
+tamil nadu,bottle gourd,3000.0
+tamil nadu,pumpkin,2500.0
+tamil nadu,ginger,7000.0
+tamil nadu,banana,7500.0
+tamil nadu,pineapple,2750.0
+tamil nadu,coconut,5750.0
+tamil nadu,cabbage,2250.0
+tamil nadu,drumstick,5500.0
+tamil nadu,mint,2750.0
+tamil nadu,cauliflower,1750.0
+tamil nadu,brinjal,4500.0
+tamil nadu,sapota,3750.0
+tamil nadu,papaya,3750.0
+tamil nadu,water melon,1750.0
+tamil nadu,groundnut,7500.0
+tamil nadu,beans,7500.0
+tamil nadu,coconut,5750.0
+tamil nadu,cabbage,2250.0
+tamil nadu,beetroot,3750.0
+tamil nadu,ridge gourd,4500.0
+tamil nadu,mint,2750.0
+tamil nadu,maize,3250.0
+tamil nadu,banana,4500.0
+tamil nadu,coconut,5000.0
+tamil nadu,cucumber,2750.0
+tamil nadu,drumstick,4000.0
+tamil nadu,mango,5000.0
+tamil nadu,guava,6000.0
+tamil nadu,onion,5000.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,sweet line,4000.0
+tamil nadu,tomato,1450.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,cauliflower,2850.0
+tamil nadu,tomato,1650.0
+tamil nadu,bottle gourd,1650.0
+tamil nadu,ginger,6500.0
+tamil nadu,cucumber,3750.0
+tamil nadu,drumstick,2750.0
+tamil nadu,mint,2000.0
+tamil nadu,cauliflower,2500.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,ginger,6500.0
+tamil nadu,beetroot,3500.0
+tamil nadu,mango,4500.0
+tamil nadu,tomato,1750.0
+tamil nadu,bitter gourd,5000.0
+tamil nadu,green chilli,5000.0
+tamil nadu,beans,8500.0
+tamil nadu,ginger,7500.0
+tamil nadu,cucumber,4750.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,mint,5750.0
+tamil nadu,potato,3750.0
+tamil nadu,ginger,6500.0
+tamil nadu,carrot,4250.0
+tamil nadu,beetroot,4250.0
+tamil nadu,cucumber,3750.0
+tamil nadu,drumstick,2750.0
+tamil nadu,onion,2750.0
+tamil nadu,papaya,2750.0
+tamil nadu,tomato,2000.0
+tamil nadu,ridge gourd,4750.0
+tamil nadu,mint,2750.0
+tamil nadu,banana,4500.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,coconut,2750.0
+tamil nadu,brinjal,3000.0
+tamil nadu,tomato,1500.0
+tamil nadu,groundnut,6000.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,beans,6000.0
+tamil nadu,ridge gourd,3000.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,banana,2500.0
+tamil nadu,snakeguard,2000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,mango,6000.0
+tamil nadu,lime,4000.0
+tamil nadu,tomato,1500.0
+tamil nadu,raddish,3500.0
+tamil nadu,potato,3500.0
+tamil nadu,coriander leaves,6000.0
+tamil nadu,papaya,2000.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,banana,4000.0
+tamil nadu,sapota,4000.0
+tamil nadu,green chilli,5000.0
+tamil nadu,coconut,2750.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,green chilli,4750.0
+tamil nadu,mango,6750.0
+madhya pradesh,wheat,2300.0
+madhya pradesh,gram,5020.0
+tamil nadu,banana,3750.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,bottle gourd,1400.0
+tamil nadu,green chilli,4250.0
+tamil nadu,banana,5750.0
+tamil nadu,cucumber,1900.0
+tamil nadu,raddish,3750.0
+tamil nadu,lime,3750.0
+madhya pradesh,rice,2000.0
+tamil nadu,onion,2750.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,banana,2750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,raddish,2250.0
+madhya pradesh,wheat,1835.0
+tamil nadu,banana,5000.0
+tamil nadu,pineapple,6000.0
+tamil nadu,green peas,4650.0
+tamil nadu,sapota,3250.0
+tamil nadu,banana,3000.0
+tamil nadu,ginger,6500.0
+tamil nadu,cabbage,1500.0
+tamil nadu,raddish,1750.0
+tamil nadu,guava,3750.0
+tamil nadu,onion,3650.0
+tamil nadu,cucumber,3750.0
+tamil nadu,ridge gourd,3800.0
+tamil nadu,raddish,2200.0
+tamil nadu,mango,5500.0
+tamil nadu,guava,5500.0
+tamil nadu,muskmelon,3250.0
+tamil nadu,onion,3200.0
+madhya pradesh,wheat,2160.0
+tamil nadu,potato,3000.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,brinjal,1250.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,beans,6250.0
+tamil nadu,ginger,7500.0
+tamil nadu,coconut,4750.0
+tamil nadu,snakeguard,2400.0
+tamil nadu,raddish,1350.0
+tamil nadu,guava,5750.0
+tamil nadu,onion,2450.0
+tamil nadu,potato,2400.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,papaya,3250.0
+tamil nadu,tomato,1600.0
+tamil nadu,bitter gourd,2600.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,green chilli,3750.0
+tamil nadu,beans,5400.0
+tamil nadu,ginger,6400.0
+tamil nadu,coconut,4800.0
+tamil nadu,carrot,2950.0
+tamil nadu,ridge gourd,2900.0
+tamil nadu,onion,3200.0
+maharashtra,potato,700.0
+maharashtra,cucumber,800.0
+maharashtra,cabbage,400.0
+tamil nadu,cauliflower,2500.0
+tamil nadu,brinjal,2000.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,beans,5000.0
+tamil nadu,coconut,5000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,guava,5000.0
+madhya pradesh,urad,8650.0
+madhya pradesh,garlic,4100.0
+madhya pradesh,wheat,2175.0
+tamil nadu,banana,4750.0
+tamil nadu,onion,2400.0
+tamil nadu,brinjal,1750.0
+tamil nadu,pumpkin,1300.0
+tamil nadu,beans,7750.0
+tamil nadu,ginger,7750.0
+tamil nadu,cabbage,2500.0
+tamil nadu,maize,3250.0
+tamil nadu,carrot,4000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,lemon,8000.0
+tamil nadu,banana,5250.0
+tamil nadu,onion,2650.0
+tamil nadu,coconut,5250.0
+tamil nadu,beans,6750.0
+tamil nadu,ginger,7250.0
+tamil nadu,turnip,2750.0
+tamil nadu,brinjal,1700.0
+tamil nadu,turnip,2900.0
+tamil nadu,green peas,5500.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,beans,5500.0
+tamil nadu,ginger,7500.0
+tamil nadu,ridge gourd,4750.0
+tamil nadu,drumstick,3750.0
+himachal pradesh,onion,2000.0
+himachal pradesh,tomato,2100.0
+himachal pradesh,potato,1000.0
+himachal pradesh,bottle gourd,3400.0
+himachal pradesh,coriander leaves,3800.0
+uttarakhand,potato,1200.0
+haryana,cauliflower,1100.0
+haryana,peas,1350.0
+kerala,bitter gourd,4600.0
+kerala,carrot,7600.0
+kerala,drumstick,8200.0
+kerala,tomato,2100.0
+kerala,onion,2300.0
+kerala,bitter gourd,5000.0
+kerala,cucumber,2100.0
+uttarakhand,rice,2000.0
+uttarakhand,brinjal,650.0
+uttarakhand,onion,3000.0
+uttarakhand,potato,1000.0
+gujarat,cotton,7400.0
+west bengal,onion,1800.0
+tamil nadu,banana,4750.0
+tamil nadu,onion,2500.0
+tamil nadu,cabbage,2400.0
+tamil nadu,cucumber,3900.0
+tamil nadu,drumstick,3400.0
+tamil nadu,mint,4750.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,brinjal,2250.0
+tamil nadu,tomato,1300.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,banana,5000.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,papaya,3650.0
+tamil nadu,bitter gourd,3000.0
+tamil nadu,cabbage,1500.0
+tamil nadu,beetroot,2200.0
+tamil nadu,raddish,1500.0
+tamil nadu,guava,3750.0
+tamil nadu,green chilli,5000.0
+tamil nadu,ginger,8000.0
+tamil nadu,cabbage,2500.0
+tamil nadu,ridge gourd,3000.0
+tamil nadu,guava,3250.0
+tamil nadu,tomato,2000.0
+tamil nadu,raddish,3500.0
+tamil nadu,banana,7750.0
+tamil nadu,sapota,3750.0
+tamil nadu,papaya,2750.0
+tamil nadu,green chilli,5750.0
+tamil nadu,carrot,4750.0
+tamil nadu,cabbage,2750.0
+tamil nadu,beetroot,3750.0
+tamil nadu,cucumber,3750.0
+tamil nadu,ridge gourd,3500.0
+tamil nadu,onion,3200.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,bottle gourd,750.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,cucumber,7000.0
+tamil nadu,drumstick,2750.0
+maharashtra,sweet line,1400.0
+maharashtra,potato,800.0
+maharashtra,bitter gourd,2000.0
+maharashtra,capsicum,2200.0
+maharashtra,drumstick,1850.0
+maharashtra,tomato,800.0
+maharashtra,coriander leaves,2500.0
+maharashtra,orange,6000.0
+maharashtra,beetroot,2500.0
+maharashtra,carrot,3000.0
+maharashtra,guar,7500.0
+maharashtra,bitter gourd,3500.0
+maharashtra,capsicum,4000.0
+maharashtra,peas,3750.0
+maharashtra,onion,900.0
+uttar pradesh,banana,2200.0
+tripura,brinjal,2700.0
+tripura,cabbage,1300.0
+west bengal,green chilli,5500.0
+west bengal,papaya,1800.0
+west bengal,cabbage,2100.0
+west bengal,cabbage,2100.0
+west bengal,potato,1600.0
+west bengal,tomato,2100.0
+tamil nadu,cauliflower,3200.0
+tamil nadu,brinjal,3800.0
+tamil nadu,coriander leaves,5700.0
+tamil nadu,coconut,5100.0
+tamil nadu,drumstick,3000.0
+tamil nadu,onion,3100.0
+tamil nadu,mint,3800.0
+tamil nadu,onion,2500.0
+tamil nadu,brinjal,3500.0
+tamil nadu,bottle gourd,1350.0
+tamil nadu,green chilli,2250.0
+tamil nadu,coconut,3500.0
+tamil nadu,potato,4000.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,green chilli,4750.0
+tamil nadu,carrot,5000.0
+tamil nadu,potato,3250.0
+tamil nadu,tomato,1500.0
+tamil nadu,pumpkin,2350.0
+tamil nadu,coconut,4750.0
+tamil nadu,banana,3000.0
+tamil nadu,banana,3250.0
+tamil nadu,coconut,4750.0
+tamil nadu,cabbage,1750.0
+tamil nadu,guava,4750.0
+tamil nadu,mint,4250.0
+tamil nadu,grapes,5750.0
+tamil nadu,onion,2500.0
+tamil nadu,papaya,2750.0
+tamil nadu,banana,2250.0
+tamil nadu,beans,6000.0
+tamil nadu,coconut,5750.0
+tamil nadu,cabbage,2650.0
+tamil nadu,beetroot,5000.0
+tamil nadu,capsicum,6000.0
+tamil nadu,bitter gourd,4250.0
+tamil nadu,pumpkin,1650.0
+tamil nadu,cucumber,5000.0
+tamil nadu,potato,2500.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,sweet line,6000.0
+tamil nadu,green chilli,4500.0
+tamil nadu,cabbage,2000.0
+tamil nadu,lemon,8000.0
+tamil nadu,potato,3300.0
+tamil nadu,cauliflower,3600.0
+tamil nadu,brinjal,3000.0
+tamil nadu,carrot,4200.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,cabbage,2800.0
+tamil nadu,capsicum,5800.0
+tamil nadu,drumstick,4000.0
+tamil nadu,maize,3800.0
+tamil nadu,brinjal,3500.0
+tamil nadu,banana,3000.0
+madhya pradesh,chickpea,7700.0
+madhya pradesh,gram,5000.0
+madhya pradesh,wheat,2100.0
+madhya pradesh,cotton,7000.0
+madhya pradesh,cotton,7200.0
+madhya pradesh,maize,1450.0
+madhya pradesh,chickpea,7500.0
+madhya pradesh,wheat,2501.0
+madhya pradesh,wheat,2290.0
+madhya pradesh,wheat,2206.0
+madhya pradesh,mustard,6300.0
+madhya pradesh,soybean,4995.0
+madhya pradesh,wheat,2150.0
+madhya pradesh,wheat,2250.0
+gujarat,potato,1200.0
+gujarat,brinjal,2000.0
+gujarat,capsicum,3750.0
+gujarat,sapota,1125.0
+gujarat,brinjal,1350.0
+gujarat,papaya,1000.0
+karnataka,tur,7854.0
+telangana,peas,4750.0
+telangana,green chilli,1400.0
+telangana,tomato,550.0
+telangana,water melon,1000.0
+kerala,banana,3800.0
+west bengal,tomato,700.0
+haryana,onion,800.0
+kerala,bitter gourd,6500.0
+kerala,banana,6000.0
+tamil nadu,onion,2250.0
+tamil nadu,potato,3300.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,coconut,4500.0
+tamil nadu,carrot,2750.0
+tamil nadu,cucumber,2750.0
+tamil nadu,brinjal,3000.0
+tamil nadu,raddish,2400.0
+uttarakhand,onion,1400.0
+uttarakhand,cucumber,1800.0
+uttarakhand,banana,1200.0
+haryana,grapes,8000.0
+rajasthan,tomato,1100.0
+punjab,bottle gourd,2000.0
+punjab,cabbage,800.0
+punjab,raddish,784.0
+west bengal,green chilli,5200.0
+tamil nadu,banana,2850.0
+tamil nadu,onion,1950.0
+tamil nadu,papaya,3300.0
+tamil nadu,tomato,2200.0
+tamil nadu,green chilli,3900.0
+tamil nadu,coconut,5000.0
+tamil nadu,cucumber,2300.0
+tamil nadu,ridge gourd,4300.0
+haryana,onion,2000.0
+haryana,carrot,1400.0
+haryana,cucumber,1800.0
+haryana,bottle gourd,1500.0
+uttar pradesh,pumpkin,1200.0
+uttar pradesh,raddish,1600.0
+haryana,water melon,2400.0
+haryana,tomato,1800.0
+haryana,pumpkin,1800.0
+haryana,cabbage,400.0
+haryana,potato,1100.0
+haryana,onion,1500.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,coriander leaves,5250.0
+tamil nadu,bottle gourd,2250.0
+tamil nadu,cabbage,1750.0
+tamil nadu,capsicum,5600.0
+tamil nadu,guava,6250.0
+tamil nadu,mint,3750.0
+tamil nadu,maize,4250.0
+kerala,onion,3200.0
+kerala,banana,3200.0
+kerala,ginger,7000.0
+kerala,drumstick,4200.0
+kerala,snakeguard,4500.0
+kerala,banana,2400.0
+kerala,bottle gourd,1300.0
+kerala,carrot,4000.0
+kerala,capsicum,6000.0
+kerala,banana,3000.0
+kerala,carrot,5200.0
+kerala,onion,4700.0
+kerala,beetroot,5000.0
+tripura,cauliflower,3000.0
+tripura,cabbage,1000.0
+himachal pradesh,tomato,2300.0
+tamil nadu,tomato,1500.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,ginger,6650.0
+tamil nadu,capsicum,5300.0
+tamil nadu,mint,3750.0
+tamil nadu,brinjal,4250.0
+tamil nadu,bottle gourd,1300.0
+tamil nadu,pumpkin,2650.0
+tamil nadu,beans,7250.0
+tamil nadu,cabbage,2000.0
+tamil nadu,drumstick,4250.0
+tamil nadu,guava,5250.0
+tamil nadu,onion,2250.0
+haryana,potato,500.0
+haryana,garlic,8000.0
+haryana,carrot,1500.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,coconut,4000.0
+odisha,cabbage,2000.0
+odisha,pumpkin,1500.0
+odisha,snakeguard,4200.0
+tamil nadu,banana,3750.0
+tamil nadu,onion,2650.0
+tamil nadu,potato,2800.0
+tamil nadu,cauliflower,2800.0
+tamil nadu,brinjal,4750.0
+tamil nadu,papaya,2800.0
+tamil nadu,snakeguard,4750.0
+tamil nadu,papaya,3500.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,green chilli,3250.0
+tamil nadu,guava,5500.0
+tamil nadu,onion,3000.0
+tamil nadu,banana,5600.0
+tamil nadu,green chilli,4200.0
+tamil nadu,carrot,5000.0
+tamil nadu,mint,3800.0
+tamil nadu,brinjal,3400.0
+tamil nadu,coconut,4750.0
+tamil nadu,snakeguard,3400.0
+tamil nadu,banana,6750.0
+tamil nadu,cauliflower,3200.0
+tamil nadu,coriander leaves,5250.0
+tamil nadu,sapota,3750.0
+tamil nadu,papaya,3400.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,coconut,5000.0
+tamil nadu,onion,3000.0
+tamil nadu,mint,3250.0
+tamil nadu,brinjal,3850.0
+tamil nadu,beans,7750.0
+tamil nadu,raddish,2650.0
+tamil nadu,turnip,3750.0
+tamil nadu,onion,2300.0
+tamil nadu,beans,8250.0
+tamil nadu,mint,3750.0
+uttar pradesh,wheat,2586.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,sweet potato,2600.0
+tamil nadu,cabbage,1800.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,drumstick,2200.0
+tamil nadu,mango,5500.0
+tamil nadu,mint,3250.0
+chandigarh,ginger,4500.0
+chandigarh,cucumber,2000.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,tomato,1750.0
+tamil nadu,coconut,5250.0
+tamil nadu,carrot,5750.0
+tamil nadu,raddish,1750.0
+tamil nadu,onion,3250.0
+tamil nadu,maize,3750.0
+tamil nadu,banana,7500.0
+tamil nadu,brinjal,3250.0
+tamil nadu,papaya,3750.0
+tamil nadu,cucumber,3250.0
+tamil nadu,mango,4250.0
+tamil nadu,coriander leaves,2500.0
+tamil nadu,groundnut,6500.0
+tamil nadu,banana,3000.0
+tamil nadu,sweet potato,3000.0
+tamil nadu,carrot,3000.0
+tamil nadu,drumstick,4000.0
+tamil nadu,mango,5000.0
+tamil nadu,brinjal,2750.0
+tamil nadu,lemon,8000.0
+tamil nadu,onion,3500.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,carrot,4000.0
+tamil nadu,onion,3500.0
+tamil nadu,mint,4000.0
+tamil nadu,potato,3500.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,coconut,6000.0
+tamil nadu,carrot,4000.0
+tamil nadu,ridge gourd,5000.0
+tamil nadu,raddish,2000.0
+tamil nadu,banana,8000.0
+tamil nadu,potato,2500.0
+tamil nadu,tomato,2000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,carrot,3000.0
+tamil nadu,beetroot,2500.0
+tamil nadu,onion,3250.0
+tamil nadu,mint,3000.0
+tamil nadu,brinjal,950.0
+tamil nadu,coriander leaves,7750.0
+tamil nadu,papaya,3300.0
+tamil nadu,water melon,1900.0
+tamil nadu,groundnut,6600.0
+tamil nadu,pumpkin,950.0
+tamil nadu,coconut,6600.0
+tamil nadu,sweet potato,1150.0
+tamil nadu,cucumber,3700.0
+tamil nadu,onion,2900.0
+tamil nadu,potato,2900.0
+tamil nadu,sweet potato,2900.0
+tamil nadu,carrot,3900.0
+tamil nadu,beetroot,3400.0
+tamil nadu,ridge gourd,3900.0
+tamil nadu,drumstick,3900.0
+tamil nadu,tomato,1550.0
+tamil nadu,banana,2250.0
+tamil nadu,coconut,6250.0
+tamil nadu,guava,4750.0
+tamil nadu,banana,2750.0
+tamil nadu,tomato,1400.0
+tamil nadu,bitter gourd,2500.0
+tamil nadu,coconut,6500.0
+tamil nadu,carrot,3400.0
+tamil nadu,cabbage,2200.0
+tamil nadu,raddish,1000.0
+tamil nadu,onion,3300.0
+tamil nadu,cauliflower,4500.0
+tamil nadu,papaya,3500.0
+tamil nadu,bitter gourd,4500.0
+tamil nadu,banana,1750.0
+tamil nadu,beans,8500.0
+tamil nadu,guava,3500.0
+tamil nadu,onion,3800.0
+tamil nadu,onion,3300.0
+tamil nadu,potato,3800.0
+tamil nadu,bitter gourd,3800.0
+tamil nadu,sweet potato,4500.0
+tamil nadu,carrot,5500.0
+tamil nadu,ridge gourd,4700.0
+tamil nadu,raddish,3500.0
+tamil nadu,lemon,7000.0
+tamil nadu,sapota,3250.0
+tamil nadu,papaya,2400.0
+tamil nadu,green chilli,3600.0
+tamil nadu,coconut,4200.0
+tamil nadu,onion,2250.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,tomato,1900.0
+tamil nadu,carrot,4900.0
+tamil nadu,cabbage,1300.0
+tamil nadu,raddish,2500.0
+tamil nadu,maize,4350.0
+tamil nadu,cauliflower,1750.0
+tamil nadu,ginger,6250.0
+tamil nadu,ridge gourd,3000.0
+tamil nadu,water melon,1500.0
+tamil nadu,bitter gourd,2500.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,sweet potato,3500.0
+tamil nadu,raddish,2750.0
+tamil nadu,cabbage,1750.0
+tamil nadu,lemon,7750.0
+tamil nadu,coriander leaves,5000.0
+tamil nadu,bottle gourd,2500.0
+tamil nadu,cabbage,2250.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,onion,3100.0
+tamil nadu,sapota,4750.0
+tamil nadu,coconut,6250.0
+tamil nadu,carrot,3800.0
+tamil nadu,snakeguard,2200.0
+tamil nadu,raddish,2200.0
+tamil nadu,drumstick,2750.0
+tamil nadu,guava,4500.0
+tamil nadu,onion,3250.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,green chilli,3700.0
+tamil nadu,onion,3250.0
+tamil nadu,mint,3700.0
+tamil nadu,banana,4750.0
+tamil nadu,sweet potato,3250.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,raddish,1900.0
+tamil nadu,onion,3250.0
+tamil nadu,drumstick,2750.0
+tamil nadu,onion,3250.0
+tamil nadu,orange,7500.0
+tamil nadu,green peas,7500.0
+tamil nadu,water melon,2750.0
+tamil nadu,tomato,2250.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,banana,4500.0
+tamil nadu,ginger,6500.0
+tamil nadu,cucumber,1750.0
+tamil nadu,ridge gourd,3500.0
+tamil nadu,mint,2750.0
+tamil nadu,potato,2200.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,coconut,5750.0
+tamil nadu,capsicum,5250.0
+tamil nadu,maize,2750.0
+tamil nadu,potato,2750.0
+tamil nadu,snakeguard,2100.0
+tamil nadu,beetroot,2250.0
+tamil nadu,raddish,2250.0
+tamil nadu,onion,4250.0
+tamil nadu,onion,2250.0
+tamil nadu,banana,3500.0
+tamil nadu,ginger,6500.0
+tamil nadu,cabbage,750.0
+tamil nadu,mint,2500.0
+tamil nadu,onion,2750.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,groundnut,5500.0
+tamil nadu,pumpkin,1650.0
+tamil nadu,carrot,3300.0
+tamil nadu,snakeguard,3300.0
+tamil nadu,maize,3000.0
+tamil nadu,banana,4500.0
+tamil nadu,pineapple,6500.0
+tamil nadu,sweet line,7500.0
+tamil nadu,pumpkin,1650.0
+tamil nadu,sweet potato,3300.0
+tamil nadu,mango,4750.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,bitter gourd,3300.0
+tamil nadu,green chilli,3300.0
+tamil nadu,ginger,8500.0
+tamil nadu,beetroot,3300.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,sapota,4500.0
+tamil nadu,bitter gourd,3500.0
+tamil nadu,coconut,5600.0
+tamil nadu,raddish,2250.0
+tamil nadu,sapota,4500.0
+tamil nadu,ridge gourd,4350.0
+tamil nadu,onion,3900.0
+tamil nadu,sweet line,7500.0
+tamil nadu,bottle gourd,2600.0
+tamil nadu,coconut,5600.0
+tamil nadu,snakeguard,3300.0
+tamil nadu,ridge gourd,4350.0
+tamil nadu,capsicum,5500.0
+tamil nadu,guava,7500.0
+tamil nadu,banana,6750.0
+tamil nadu,brinjal,5000.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,sapota,4500.0
+tamil nadu,green chilli,6250.0
+tamil nadu,coconut,5750.0
+tamil nadu,sweet potato,6400.0
+tamil nadu,carrot,6250.0
+tamil nadu,drumstick,5750.0
+tamil nadu,brinjal,2750.0
+tamil nadu,sapota,3500.0
+tamil nadu,banana,2250.0
+tamil nadu,carrot,5300.0
+tamil nadu,cucumber,6750.0
+tamil nadu,mango,4750.0
+tamil nadu,onion,2600.0
+tamil nadu,pumpkin,1700.0
+tamil nadu,banana,2900.0
+tamil nadu,potato,2750.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,pumpkin,1600.0
+tamil nadu,beans,6500.0
+tamil nadu,beetroot,4250.0
+tamil nadu,onion,3000.0
+tamil nadu,mint,4250.0
+tamil nadu,potato,2700.0
+tamil nadu,banana,2600.0
+tamil nadu,ridge gourd,5700.0
+tamil nadu,mango,5500.0
+tamil nadu,guava,5500.0
+tamil nadu,cauliflower,3250.0
+tamil nadu,green peas,6750.0
+tamil nadu,tomato,2200.0
+tamil nadu,pumpkin,1650.0
+tamil nadu,ginger,7250.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,mango,5750.0
+tamil nadu,guava,7500.0
+tamil nadu,turnip,2250.0
+tamil nadu,potato,2700.0
+tamil nadu,cauliflower,3500.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,green peas,7300.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,banana,3500.0
+tamil nadu,beans,7300.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,banana,4500.0
+tamil nadu,tomato,1750.0
+tamil nadu,bitter gourd,2750.0
+tamil nadu,cabbage,1750.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,raddish,1750.0
+tamil nadu,onion,4250.0
+tamil nadu,banana,3250.0
+tamil nadu,banana,4750.0
+tamil nadu,raddish,2250.0
+tamil nadu,tomato,1750.0
+tamil nadu,bitter gourd,2750.0
+tamil nadu,coriander leaves,5500.0
+tamil nadu,pumpkin,1400.0
+tamil nadu,banana,2750.0
+tamil nadu,coconut,3650.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,tomato,2100.0
+tamil nadu,beans,6750.0
+tamil nadu,snakeguard,4250.0
+tamil nadu,mint,5900.0
+tamil nadu,tomato,2250.0
+tamil nadu,beans,8250.0
+tamil nadu,capsicum,6750.0
+tamil nadu,drumstick,3500.0
+tamil nadu,guava,5500.0
+tamil nadu,onion,2750.0
+tamil nadu,brinjal,2300.0
+tamil nadu,beans,8000.0
+tamil nadu,coconut,5250.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,carrot,5750.0
+tamil nadu,snakeguard,2900.0
+tamil nadu,raddish,2200.0
+tamil nadu,onion,4500.0
+tamil nadu,potato,2750.0
+tamil nadu,brinjal,2250.0
+tamil nadu,water melon,1800.0
+tamil nadu,tomato,1400.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,beetroot,4750.0
+tamil nadu,capsicum,6250.0
+tamil nadu,onion,3000.0
+tamil nadu,banana,7000.0
+tamil nadu,brinjal,3000.0
+tamil nadu,green chilli,4100.0
+tamil nadu,carrot,5750.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,bitter gourd,3700.0
+tamil nadu,groundnut,6750.0
+tamil nadu,bottle gourd,1900.0
+tamil nadu,banana,1500.0
+tamil nadu,ginger,7800.0
+tamil nadu,beetroot,5900.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,onion,1900.0
+tamil nadu,onion,2800.0
+tamil nadu,coriander leaves,1700.0
+tamil nadu,bitter gourd,3750.0
+tamil nadu,green chilli,4200.0
+tamil nadu,beans,8250.0
+tamil nadu,beetroot,4750.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,capsicum,6750.0
+tamil nadu,onion,2800.0
+tamil nadu,coriander leaves,2250.0
+tamil nadu,groundnut,6250.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,snakeguard,2650.0
+tamil nadu,beetroot,2800.0
+tamil nadu,drumstick,3750.0
+tamil nadu,onion,3200.0
+tamil nadu,cauliflower,2500.0
+tamil nadu,green chilli,4250.0
+tamil nadu,coconut,4500.0
+tamil nadu,carrot,5500.0
+tamil nadu,raddish,2000.0
+tamil nadu,mint,2750.0
+tamil nadu,cauliflower,2400.0
+tamil nadu,coriander leaves,4400.0
+tamil nadu,ginger,8700.0
+tamil nadu,carrot,3500.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,sapota,4700.0
+tamil nadu,ginger,8700.0
+tamil nadu,snakeguard,3200.0
+tamil nadu,onion,3000.0
+tamil nadu,mint,3250.0
+tamil nadu,potato,3350.0
+tamil nadu,papaya,4250.0
+tamil nadu,bottle gourd,2750.0
+tamil nadu,banana,2750.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,potato,3250.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,brinjal,3250.0
+tamil nadu,papaya,3750.0
+tamil nadu,cabbage,2000.0
+tamil nadu,raddish,2500.0
+tamil nadu,banana,6750.0
+tamil nadu,brinjal,4000.0
+tamil nadu,sapota,6000.0
+tamil nadu,carrot,5400.0
+tamil nadu,beetroot,3800.0
+tamil nadu,drumstick,3400.0
+tamil nadu,mango,6000.0
+tamil nadu,onion,3600.0
+tamil nadu,coconut,6000.0
+tamil nadu,banana,6500.0
+tamil nadu,banana,4000.0
+tamil nadu,mango,6000.0
+tamil nadu,tomato,1450.0
+tamil nadu,bitter gourd,2550.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,cabbage,1650.0
+tamil nadu,raddish,1500.0
+tamil nadu,banana,4500.0
+tamil nadu,papaya,3500.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,ginger,6400.0
+tamil nadu,snakeguard,2000.0
+tamil nadu,cucumber,1500.0
+tamil nadu,capsicum,5500.0
+tamil nadu,drumstick,3250.0
+tamil nadu,banana,5000.0
+tamil nadu,banana,3000.0
+tamil nadu,carrot,3600.0
+tamil nadu,cabbage,1500.0
+tamil nadu,bottle gourd,1000.0
+tamil nadu,ridge gourd,3000.0
+tamil nadu,mint,2500.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,green peas,5000.0
+tamil nadu,pumpkin,1300.0
+tamil nadu,potato,2100.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,green peas,6250.0
+tamil nadu,sapota,5500.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,beetroot,2850.0
+tamil nadu,cucumber,4000.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,capsicum,5250.0
+tamil nadu,mango,4000.0
+tamil nadu,onion,3700.0
+tamil nadu,potato,2100.0
+tamil nadu,cauliflower,3650.0
+tamil nadu,green chilli,3000.0
+tamil nadu,sweet potato,2250.0
+tamil nadu,snakeguard,1600.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,mango,4000.0
+tamil nadu,mint,4300.0
+tamil nadu,green chilli,2400.0
+tamil nadu,banana,2750.0
+tamil nadu,banana,5500.0
+tamil nadu,potato,1850.0
+tamil nadu,brinjal,2750.0
+tamil nadu,cucumber,3250.0
+tamil nadu,mint,4300.0
+tamil nadu,tomato,2500.0
+tamil nadu,banana,4000.0
+tamil nadu,potato,4000.0
+tamil nadu,mint,4000.0
+tamil nadu,water melon,1200.0
+tamil nadu,bottle gourd,3500.0
+tamil nadu,banana,4000.0
+tamil nadu,raddish,3500.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,groundnut,6000.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,cucumber,6000.0
+tamil nadu,lime,3000.0
+tamil nadu,banana,4000.0
+tamil nadu,onion,3000.0
+tamil nadu,bitter gourd,3000.0
+tamil nadu,pumpkin,2400.0
+tamil nadu,green chilli,3600.0
+tamil nadu,lime,2600.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,raddish,2400.0
+tamil nadu,mint,3500.0
+tamil nadu,onion,3500.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,green chilli,5000.0
+tamil nadu,lime,3000.0
+tamil nadu,onion,3000.0
+tamil nadu,potato,3200.0
+tamil nadu,bitter gourd,3000.0
+tamil nadu,ginger,7000.0
+tamil nadu,potato,3250.0
+tamil nadu,ginger,7750.0
+tamil nadu,snakeguard,3250.0
+tamil nadu,beetroot,2750.0
+tamil nadu,brinjal,2700.0
+tamil nadu,sapota,4500.0
+tamil nadu,bitter gourd,2700.0
+tamil nadu,carrot,2750.0
+tamil nadu,beetroot,2700.0
+tamil nadu,guava,5500.0
+tamil nadu,carrot,2750.0
+tamil nadu,lemon,7000.0
+tamil nadu,potato,3300.0
+tamil nadu,brinjal,2250.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,green chilli,4600.0
+tamil nadu,banana,1750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,raddish,1800.0
+tamil nadu,drumstick,4600.0
+tamil nadu,mint,3500.0
+tamil nadu,onion,1800.0
+tamil nadu,brinjal,2750.0
+tamil nadu,coriander leaves,3650.0
+tamil nadu,coconut,4600.0
+tamil nadu,sweet potato,3650.0
+tamil nadu,carrot,3650.0
+tamil nadu,ridge gourd,3300.0
+tamil nadu,drumstick,5500.0
+tamil nadu,guava,4600.0
+tamil nadu,onion,3300.0
+tamil nadu,potato,2750.0
+tamil nadu,green chilli,4500.0
+tamil nadu,beetroot,2750.0
+tamil nadu,raddish,1800.0
+tamil nadu,mango,4500.0
+tamil nadu,brinjal,3300.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,bottle gourd,1600.0
+tamil nadu,green chilli,3600.0
+tamil nadu,cabbage,2600.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,ridge gourd,3800.0
+tamil nadu,onion,4000.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,green peas,7000.0
+tamil nadu,sapota,5000.0
+tamil nadu,snakeguard,2800.0
+tamil nadu,mango,5500.0
+tamil nadu,mint,3000.0
+tamil nadu,brinjal,1750.0
+tamil nadu,tomato,1800.0
+tamil nadu,banana,2500.0
+tamil nadu,ginger,7500.0
+tamil nadu,sweet potato,3300.0
+tamil nadu,cabbage,2250.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,raddish,2300.0
+tamil nadu,drumstick,3500.0
+tamil nadu,green peas,7000.0
+tamil nadu,bitter gourd,3600.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,coconut,6000.0
+tamil nadu,cabbage,2500.0
+tamil nadu,beetroot,2600.0
+tamil nadu,mint,3000.0
+tamil nadu,pumpkin,1600.0
+tamil nadu,mango,5000.0
+tamil nadu,guava,7000.0
+tamil nadu,onion,3000.0
+tamil nadu,cauliflower,4000.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,bitter gourd,3600.0
+tamil nadu,green chilli,3500.0
+tamil nadu,ginger,7600.0
+tamil nadu,beetroot,2600.0
+tamil nadu,ridge gourd,2600.0
+tamil nadu,mint,3000.0
+tamil nadu,brinjal,2500.0
+tamil nadu,coriander leaves,5000.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,coconut,4000.0
+tamil nadu,sweet potato,3000.0
+tamil nadu,beetroot,3600.0
+tamil nadu,drumstick,4000.0
+tamil nadu,brinjal,2000.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,beans,4300.0
+tamil nadu,ridge gourd,2500.0
+tamil nadu,raddish,1500.0
+tamil nadu,banana,7000.0
+tamil nadu,onion,3000.0
+tamil nadu,brinjal,3000.0
+tamil nadu,papaya,4000.0
+tamil nadu,water melon,1500.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,green chilli,4000.0
+tamil nadu,sweet potato,4000.0
+tamil nadu,carrot,3000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,cucumber,6000.0
+tamil nadu,onion,4000.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,green chilli,4000.0
+tamil nadu,coconut,6000.0
+tamil nadu,cabbage,2500.0
+tamil nadu,cucumber,4000.0
+tamil nadu,onion,2250.0
+tamil nadu,brinjal,3750.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,green peas,5500.0
+tamil nadu,papaya,3250.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,ginger,7750.0
+tamil nadu,cabbage,2750.0
+tamil nadu,banana,3750.0
+tamil nadu,potato,2250.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,banana,3250.0
+tamil nadu,coconut,5050.0
+tamil nadu,guava,3750.0
+tamil nadu,potato,4550.0
+tamil nadu,tomato,1900.0
+tamil nadu,beetroot,3050.0
+tamil nadu,onion,3900.0
+tamil nadu,brinjal,2850.0
+tamil nadu,coconut,6350.0
+tamil nadu,ridge gourd,3850.0
+tamil nadu,drumstick,3850.0
+tamil nadu,mint,3850.0
+tamil nadu,potato,3750.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,tomato,1750.0
+tamil nadu,pumpkin,2250.0
+tamil nadu,ginger,7750.0
+tamil nadu,carrot,4750.0
+tamil nadu,ridge gourd,5750.0
+tamil nadu,raddish,2750.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,papaya,3150.0
+tamil nadu,banana,3150.0
+tamil nadu,ginger,6750.0
+tamil nadu,coconut,5050.0
+tamil nadu,carrot,4050.0
+tamil nadu,onion,3150.0
+tamil nadu,pineapple,3750.0
+tamil nadu,brinjal,4750.0
+tamil nadu,ginger,8500.0
+tamil nadu,papaya,3750.0
+tamil nadu,bitter gourd,4250.0
+tamil nadu,banana,3750.0
+tamil nadu,raddish,3000.0
+tamil nadu,maize,3250.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,bitter gourd,5500.0
+tamil nadu,green chilli,4750.0
+tamil nadu,banana,3750.0
+tamil nadu,coconut,6500.0
+tamil nadu,carrot,3750.0
+tamil nadu,beetroot,3750.0
+tamil nadu,ridge gourd,5500.0
+tamil nadu,raddish,3250.0
+tamil nadu,capsicum,4750.0
+tamil nadu,onion,4500.0
+tamil nadu,pumpkin,2250.0
+tamil nadu,green chilli,4000.0
+tamil nadu,banana,3500.0
+tamil nadu,tomato,2000.0
+tamil nadu,carrot,2500.0
+tamil nadu,ridge gourd,3500.0
+tamil nadu,lemon,5500.0
+tamil nadu,brinjal,4500.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,water melon,1900.0
+tamil nadu,tomato,2250.0
+tamil nadu,groundnut,7500.0
+tamil nadu,bottle gourd,3250.0
+tamil nadu,snakeguard,3250.0
+tamil nadu,capsicum,5500.0
+tamil nadu,muskmelon,2750.0
+tamil nadu,onion,4500.0
+tamil nadu,banana,3750.0
+tamil nadu,ginger,6500.0
+tamil nadu,raddish,3250.0
+tamil nadu,drumstick,5500.0
+tamil nadu,onion,4500.0
+tamil nadu,potato,2200.0
+tamil nadu,brinjal,1500.0
+tamil nadu,green peas,6000.0
+tamil nadu,tomato,1800.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,groundnut,6500.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,snakeguard,2650.0
+tamil nadu,onion,2400.0
+tamil nadu,banana,4500.0
+tamil nadu,beetroot,2800.0
+tamil nadu,mint,2000.0
+tamil nadu,maize,3250.0
+tamil nadu,banana,3750.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,banana,2750.0
+tamil nadu,beans,7250.0
+tamil nadu,carrot,4250.0
+tamil nadu,bitter gourd,4500.0
+tamil nadu,onion,2650.0
+tamil nadu,brinjal,4000.0
+tamil nadu,coriander leaves,4650.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,cabbage,2750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,raddish,2250.0
+tamil nadu,drumstick,2750.0
+tamil nadu,onion,2250.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,beans,7250.0
+tamil nadu,snakeguard,2200.0
+tamil nadu,guava,4750.0
+tamil nadu,bitter gourd,4500.0
+tamil nadu,green chilli,4500.0
+tamil nadu,raddish,2650.0
+tamil nadu,potato,3250.0
+tamil nadu,brinjal,2500.0
+tamil nadu,sapota,2750.0
+tamil nadu,tomato,1250.0
+tamil nadu,green chilli,4500.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,bitter gourd,3000.0
+tamil nadu,snakeguard,2000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,mango,6000.0
+tamil nadu,lemon,4000.0
+tamil nadu,brinjal,3000.0
+tamil nadu,coriander leaves,5000.0
+tamil nadu,bottle gourd,1000.0
+tamil nadu,sweet potato,3500.0
+tamil nadu,onion,3500.0
+tamil nadu,mint,4000.0
+tamil nadu,papaya,3250.0
+tamil nadu,drumstick,4000.0
+tamil nadu,onion,3000.0
+tamil nadu,banana,5000.0
+tamil nadu,green peas,5000.0
+tamil nadu,groundnut,8000.0
+tamil nadu,pumpkin,2500.0
+tamil nadu,mango,6000.0
+tamil nadu,mint,3000.0
+tamil nadu,brinjal,3500.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,pumpkin,3000.0
+tamil nadu,guava,5000.0
+tamil nadu,onion,2500.0
+tamil nadu,orange,8500.0
+tamil nadu,banana,2750.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,cucumber,4750.0
+tamil nadu,raddish,2750.0
+tamil nadu,guava,3750.0
+madhya pradesh,tur,7746.4
+madhya pradesh,wheat,2311.0
+madhya pradesh,wheat,2250.0
+tamil nadu,onion,2900.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,tomato,1700.0
+tamil nadu,beans,8250.0
+tamil nadu,cabbage,3250.0
+madhya pradesh,maize,1300.0
+tamil nadu,brinjal,3750.0
+tamil nadu,tomato,1750.0
+tamil nadu,drumstick,3750.0
+madhya pradesh,maize,1400.0
+madhya pradesh,maize,1200.0
+tamil nadu,cauliflower,1750.0
+tamil nadu,papaya,3650.0
+tamil nadu,groundnut,6250.0
+tamil nadu,orange,8000.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,green chilli,3500.0
+tamil nadu,coconut,3250.0
+tamil nadu,sweet potato,3250.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,drumstick,3250.0
+tamil nadu,mango,5500.0
+tamil nadu,lemon,8500.0
+tamil nadu,sapota,3750.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,banana,2650.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,cabbage,2250.0
+tamil nadu,snakeguard,2900.0
+tamil nadu,maize,3250.0
+tamil nadu,papaya,2750.0
+tamil nadu,pumpkin,1350.0
+tamil nadu,banana,2200.0
+tamil nadu,ridge gourd,2750.0
+tamil nadu,capsicum,6500.0
+tamil nadu,banana,4500.0
+tamil nadu,cabbage,1650.0
+maharashtra,cauliflower,800.0
+maharashtra,brinjal,1100.0
+madhya pradesh,wheat,2300.0
+madhya pradesh,maize,1500.0
+madhya pradesh,wheat,2150.0
+tamil nadu,green chilli,5000.0
+tamil nadu,cabbage,2500.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,cucumber,4000.0
+tamil nadu,potato,2650.0
+tamil nadu,cauliflower,3250.0
+tamil nadu,sapota,3750.0
+tamil nadu,tomato,1400.0
+tamil nadu,bitter gourd,2750.0
+tamil nadu,banana,2250.0
+tamil nadu,coconut,6250.0
+tamil nadu,raddish,1750.0
+tamil nadu,beans,6000.0
+tamil nadu,banana,5500.0
+tamil nadu,coconut,6000.0
+tamil nadu,snakeguard,2500.0
+tamil nadu,raddish,2000.0
+tamil nadu,drumstick,3000.0
+tamil nadu,tomato,2200.0
+tamil nadu,bottle gourd,1650.0
+tamil nadu,pumpkin,2300.0
+tamil nadu,banana,4750.0
+tamil nadu,snakeguard,2800.0
+tamil nadu,cucumber,4800.0
+tamil nadu,drumstick,2800.0
+tamil nadu,turnip,2350.0
+tamil nadu,onion,3200.0
+tamil nadu,potato,3750.0
+tamil nadu,tomato,2200.0
+tamil nadu,banana,4250.0
+tamil nadu,carrot,2750.0
+tamil nadu,cabbage,1650.0
+tamil nadu,snakeguard,2650.0
+tamil nadu,banana,4750.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,green chilli,3750.0
+tamil nadu,coconut,4700.0
+tamil nadu,raddish,1350.0
+tamil nadu,potato,2250.0
+tamil nadu,tomato,1750.0
+tamil nadu,coconut,5000.0
+tamil nadu,raddish,2750.0
+tamil nadu,mango,4750.0
+tamil nadu,mint,3250.0
+himachal pradesh,ginger,7800.0
+himachal pradesh,turnip,1900.0
+himachal pradesh,bitter gourd,7800.0
+uttarakhand,onion,1100.0
+uttarakhand,brinjal,1500.0
+haryana,guava,5000.0
+haryana,ginger,5500.0
+haryana,bottle gourd,1350.0
+haryana,lemon,7000.0
+haryana,methi leaves,1000.0
+kerala,ginger,8200.0
+kerala,banana,4300.0
+uttarakhand,cauliflower,487.5
+uttarakhand,raddish,276.66
+uttarakhand,carrot,750.0
+uttarakhand,cauliflower,600.0
+uttarakhand,banana,1000.0
+madhya pradesh,maize,1845.0
+tamil nadu,coconut,6250.0
+tamil nadu,sweet potato,1900.0
+tamil nadu,onion,3300.0
+tamil nadu,potato,2900.0
+tamil nadu,coriander leaves,2250.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,banana,2200.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,sweet potato,3250.0
+tamil nadu,drumstick,3500.0
+tamil nadu,maize,2000.0
+tamil nadu,banana,5000.0
+tamil nadu,brinjal,2250.0
+tamil nadu,coriander leaves,5000.0
+tamil nadu,papaya,3250.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,sweet potato,3000.0
+tamil nadu,cucumber,3000.0
+tamil nadu,drumstick,4000.0
+tamil nadu,mint,4000.0
+tamil nadu,maize,3000.0
+tamil nadu,banana,3000.0
+tamil nadu,brinjal,3500.0
+tamil nadu,pumpkin,2500.0
+tamil nadu,green chilli,5000.0
+tamil nadu,beans,6000.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,ridge gourd,5000.0
+tamil nadu,lemon,6000.0
+tamil nadu,onion,3750.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,drumstick,3750.0
+tamil nadu,mango,5750.0
+tamil nadu,mint,4750.0
+tamil nadu,potato,2900.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,water melon,1650.0
+tamil nadu,banana,2900.0
+tamil nadu,ginger,7750.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,mango,5500.0
+tamil nadu,lemon,5750.0
+tamil nadu,tomato,1900.0
+tamil nadu,sweet potato,3250.0
+maharashtra,sapota,1300.0
+maharashtra,ginger,3100.0
+maharashtra,mango,3750.0
+maharashtra,cucumber,800.0
+maharashtra,brinjal,750.0
+maharashtra,green chilli,5250.0
+maharashtra,rice,1982.0
+maharashtra,cucumber,1750.0
+maharashtra,tomato,750.0
+maharashtra,green chilli,4500.0
+uttar pradesh,brinjal,1300.0
+uttar pradesh,cauliflower,1000.0
+west bengal,potato,700.0
+west bengal,carrot,3700.0
+west bengal,french beans,5700.0
+tamil nadu,banana,7000.0
+tamil nadu,green peas,6250.0
+tamil nadu,bitter gourd,4400.0
+tamil nadu,sweet potato,3350.0
+tamil nadu,carrot,4400.0
+tamil nadu,snakeguard,3250.0
+tamil nadu,ridge gourd,2750.0
+tamil nadu,mango,4250.0
+tamil nadu,banana,3750.0
+tamil nadu,bottle gourd,3250.0
+tamil nadu,banana,3250.0
+tamil nadu,ginger,8000.0
+tamil nadu,coconut,3500.0
+tamil nadu,cabbage,3000.0
+tamil nadu,raddish,2750.0
+tamil nadu,mango,7500.0
+tamil nadu,lime,3750.0
+tamil nadu,onion,3750.0
+tamil nadu,mint,4250.0
+tamil nadu,banana,3350.0
+tamil nadu,green chilli,3650.0
+tamil nadu,banana,1900.0
+tamil nadu,cabbage,2650.0
+tamil nadu,beetroot,3500.0
+tamil nadu,lemon,4750.0
+tamil nadu,cauliflower,2500.0
+tamil nadu,tomato,1750.0
+tamil nadu,bitter gourd,5750.0
+tamil nadu,beans,7500.0
+tamil nadu,ginger,6750.0
+tamil nadu,raddish,3400.0
+tamil nadu,potato,3650.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,green chilli,4250.0
+tamil nadu,drumstick,2000.0
+tamil nadu,mango,7000.0
+tamil nadu,lime,2750.0
+tamil nadu,banana,5000.0
+tamil nadu,brinjal,4000.0
+tamil nadu,bottle gourd,2400.0
+tamil nadu,mango,7000.0
+tamil nadu,banana,7500.0
+tamil nadu,onion,2750.0
+tamil nadu,cabbage,2250.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,guava,5500.0
+tamil nadu,banana,5500.0
+tamil nadu,onion,2500.0
+tamil nadu,brinjal,2250.0
+tamil nadu,groundnut,7000.0
+tamil nadu,banana,3000.0
+tamil nadu,beans,5500.0
+tamil nadu,coconut,3500.0
+tamil nadu,beetroot,2800.0
+tamil nadu,drumstick,4000.0
+tamil nadu,guava,4500.0
+tamil nadu,onion,2700.0
+tamil nadu,papaya,4000.0
+tamil nadu,snakeguard,3300.0
+tamil nadu,beetroot,3000.0
+tamil nadu,raddish,2400.0
+tamil nadu,drumstick,6000.0
+tamil nadu,mint,4200.0
+tamil nadu,onion,2250.0
+tamil nadu,coconut,6000.0
+tamil nadu,sweet potato,4000.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,cucumber,3750.0
+tamil nadu,mango,7000.0
+tamil nadu,mint,2000.0
+tamil nadu,banana,3500.0
+tamil nadu,green chilli,5000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,mango,8000.0
+tamil nadu,onion,2500.0
+madhya pradesh,wheat,2200.0
+madhya pradesh,maize,1500.0
+madhya pradesh,wheat,2260.0
+gujarat,guar,5500.0
+gujarat,cauliflower,2250.0
+gujarat,carrot,2250.0
+gujarat,sweet line,3750.0
+gujarat,coriander leaves,3500.0
+gujarat,cabbage,575.0
+gujarat,sweet potato,1000.0
+gujarat,orange,8500.0
+gujarat,pomegranate,4750.0
+gujarat,sapota,1500.0
+karnataka,maize,1737.0
+telangana,beetroot,1800.0
+telangana,cabbage,900.0
+telangana,ridge gourd,2750.0
+telangana,bitter gourd,900.0
+telangana,carrot,2200.0
+telangana,french beans,2250.0
+telangana,grapes,7000.0
+west bengal,green chilli,6000.0
+west bengal,mustard,6100.0
+west bengal,rice,3190.0
+kerala,brinjal,3500.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,banana,1750.0
+tamil nadu,mango,4500.0
+andhra pradesh,tomato,1050.0
+tamil nadu,onion,2700.0
+tamil nadu,banana,4000.0
+tamil nadu,coconut,6500.0
+tamil nadu,snakeguard,3300.0
+uttarakhand,tomato,1200.0
+tamil nadu,carrot,2500.0
+rajasthan,onion,1300.0
+rajasthan,mustard,6200.0
+rajasthan,potato,900.0
+odisha,tomato,900.0
+odisha,potato,1500.0
+punjab,pumpkin,1500.0
+punjab,brinjal,987.0
+west bengal,rice,2320.0
+west bengal,garlic,5800.0
+west bengal,onion,750.0
+west bengal,potato,640.0
+tamil nadu,coriander leaves,5250.0
+tamil nadu,green peas,6250.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,cabbage,1500.0
+tamil nadu,drumstick,2750.0
+tamil nadu,guava,4750.0
+tamil nadu,mint,3250.0
+haryana,peas,2000.0
+haryana,cabbage,1400.0
+uttar pradesh,ginger,6200.0
+uttar pradesh,potato,1300.0
+haryana,potato,700.0
+haryana,cauliflower,2000.0
+haryana,tomato,2000.0
+andhra pradesh,rice,2369.0
+kerala,cucumber,2500.0
+tamil nadu,banana,7500.0
+tamil nadu,onion,2000.0
+tamil nadu,coconut,5000.0
+tamil nadu,sweet potato,3250.0
+tamil nadu,mango,4250.0
+tamil nadu,onion,3000.0
+kerala,banana,7200.0
+kerala,cabbage,5100.0
+kerala,cucumber,2100.0
+kerala,snakeguard,3800.0
+kerala,banana,6300.0
+kerala,tomato,3000.0
+kerala,bitter gourd,5000.0
+kerala,cauliflower,4000.0
+kerala,cabbage,3000.0
+tripura,brinjal,2000.0
+tripura,bitter gourd,5000.0
+haryana,banana,2500.0
+himachal pradesh,cauliflower,2500.0
+himachal pradesh,spinach,700.0
+himachal pradesh,onion,1800.0
+tamil nadu,potato,3250.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,green chilli,3400.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,snakeguard,3400.0
+tamil nadu,beetroot,4250.0
+tamil nadu,raddish,2100.0
+tamil nadu,onion,2250.0
+tamil nadu,tomato,1650.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,sweet potato,4250.0
+tamil nadu,carrot,5650.0
+tamil nadu,snakeguard,4750.0
+tamil nadu,ridge gourd,5750.0
+tamil nadu,potato,3200.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,water melon,2250.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,beans,6750.0
+tamil nadu,coconut,4250.0
+tamil nadu,carrot,4600.0
+tamil nadu,cabbage,2250.0
+tamil nadu,snakeguard,3300.0
+tamil nadu,beetroot,3750.0
+tamil nadu,ridge gourd,4200.0
+tamil nadu,mint,4250.0
+tamil nadu,maize,2600.0
+haryana,tomato,1000.0
+haryana,peas,1500.0
+haryana,pumpkin,1500.0
+haryana,tinda,1500.0
+haryana,green chilli,7000.0
+tamil nadu,tomato,1800.0
+tamil nadu,mango,6000.0
+odisha,ridge gourd,5800.0
+tamil nadu,coriander leaves,5700.0
+tamil nadu,sweet line,3250.0
+tamil nadu,ginger,6600.0
+tamil nadu,carrot,5150.0
+tamil nadu,raddish,2200.0
+tamil nadu,drumstick,2250.0
+tamil nadu,mango,6600.0
+tamil nadu,mint,3750.0
+tamil nadu,banana,4500.0
+tamil nadu,potato,4250.0
+tamil nadu,coriander leaves,2500.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,beetroot,2250.0
+tamil nadu,mint,2500.0
+tamil nadu,onion,3250.0
+tamil nadu,bottle gourd,2200.0
+tamil nadu,ginger,7750.0
+tamil nadu,cabbage,3000.0
+tamil nadu,pineapple,6750.0
+tamil nadu,sweet line,5500.0
+tamil nadu,green chilli,4200.0
+tamil nadu,cabbage,1500.0
+tamil nadu,ridge gourd,4400.0
+tamil nadu,raddish,2250.0
+tamil nadu,capsicum,4750.0
+tamil nadu,mango,4300.0
+tamil nadu,guava,4750.0
+tamil nadu,muskmelon,3300.0
+tamil nadu,maize,3750.0
+tamil nadu,potato,3700.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,green peas,6250.0
+tamil nadu,papaya,3400.0
+tamil nadu,green chilli,4400.0
+tamil nadu,coconut,5000.0
+tamil nadu,beetroot,4050.0
+tamil nadu,drumstick,3000.0
+tamil nadu,brinjal,2250.0
+tamil nadu,coriander leaves,5500.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,pumpkin,2250.0
+tamil nadu,green chilli,4750.0
+tamil nadu,onion,2250.0
+tamil nadu,ginger,6500.0
+tamil nadu,coconut,4750.0
+tamil nadu,carrot,4750.0
+tamil nadu,turnip,2750.0
+chandigarh,capsicum,3000.0
+chandigarh,peas,2000.0
+chandigarh,carrot,1200.0
+chandigarh,green chilli,6000.0
+tamil nadu,onion,2750.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,drumstick,2750.0
+tamil nadu,mint,3750.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,bitter gourd,4250.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,banana,3600.0
+tamil nadu,drumstick,3250.0
+tamil nadu,mint,3750.0
+tamil nadu,potato,3750.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,ridge gourd,6500.0
+tamil nadu,banana,4000.0
+tamil nadu,onion,2500.0
+tamil nadu,tomato,1500.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,onion,2500.0
+tamil nadu,coriander leaves,5000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,banana,2500.0
+tamil nadu,coconut,5750.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,raddish,2250.0
+tamil nadu,tomato,2000.0
+tamil nadu,green chilli,4000.0
+tamil nadu,beans,6000.0
+tamil nadu,mango,6000.0
+tamil nadu,lemon,8000.0
+tamil nadu,onion,3000.0
+tamil nadu,drumstick,3500.0
+tamil nadu,tomato,1550.0
+tamil nadu,ginger,8400.0
+tamil nadu,beetroot,3300.0
+tamil nadu,ridge gourd,3300.0
+tamil nadu,mango,6850.0
+tamil nadu,beans,5850.0
+tamil nadu,banana,4850.0
+tamil nadu,sapota,4850.0
+tamil nadu,bottle gourd,1900.0
+tamil nadu,cucumber,3400.0
+tamil nadu,capsicum,5850.0
+tamil nadu,onion,3400.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,coriander leaves,6750.0
+tamil nadu,sapota,3250.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,ginger,7750.0
+tamil nadu,sweet potato,2200.0
+tamil nadu,carrot,2900.0
+tamil nadu,snakeguard,1650.0
+tamil nadu,beetroot,2800.0
+tamil nadu,drumstick,3800.0
+tamil nadu,mango,7250.0
+tamil nadu,cauliflower,3000.0
+tamil nadu,sapota,3600.0
+tamil nadu,ginger,8300.0
+tamil nadu,capsicum,6000.0
+tamil nadu,maize,3000.0
+tamil nadu,green peas,6500.0
+tamil nadu,beetroot,4500.0
+tamil nadu,banana,4500.0
+tamil nadu,brinjal,3500.0
+tamil nadu,coriander leaves,3300.0
+tamil nadu,papaya,2750.0
+tamil nadu,green chilli,4500.0
+tamil nadu,coconut,5500.0
+tamil nadu,cabbage,2800.0
+tamil nadu,banana,3250.0
+tamil nadu,sweet potato,3800.0
+tamil nadu,mint,3250.0
+tamil nadu,bitter gourd,3350.0
+tamil nadu,banana,3350.0
+tamil nadu,drumstick,1900.0
+tamil nadu,onion,2800.0
+tamil nadu,bottle gourd,700.0
+tamil nadu,banana,3250.0
+tamil nadu,beans,5200.0
+tamil nadu,coconut,4400.0
+tamil nadu,carrot,4500.0
+tamil nadu,snakeguard,2700.0
+tamil nadu,beetroot,2200.0
+tamil nadu,onion,2250.0
+tamil nadu,banana,5000.0
+tamil nadu,carrot,3000.0
+tamil nadu,capsicum,4250.0
+tamil nadu,mango,4250.0
+tamil nadu,banana,5750.0
+tamil nadu,potato,3750.0
+tamil nadu,coriander leaves,2750.0
+tamil nadu,papaya,4750.0
+tamil nadu,tomato,1750.0
+tamil nadu,bitter gourd,3750.0
+tamil nadu,green chilli,2250.0
+tamil nadu,ginger,6750.0
+tamil nadu,coconut,4750.0
+tamil nadu,cucumber,3750.0
+tamil nadu,raddish,1750.0
+tamil nadu,orange,6000.0
+tamil nadu,cauliflower,2000.0
+tamil nadu,sapota,4000.0
+tamil nadu,tomato,1600.0
+tamil nadu,coconut,4500.0
+tamil nadu,carrot,3000.0
+tamil nadu,cucumber,3000.0
+tamil nadu,guava,4000.0
+tamil nadu,onion,4000.0
+tamil nadu,banana,3750.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,tomato,1750.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,ridge gourd,3300.0
+tamil nadu,mango,5500.0
+tamil nadu,turnip,4500.0
+tamil nadu,maize,3750.0
+tamil nadu,onion,2700.0
+tamil nadu,coriander leaves,5600.0
+tamil nadu,beetroot,5500.0
+tamil nadu,raddish,1750.0
+tamil nadu,brinjal,3500.0
+tamil nadu,lime,3750.0
+tamil nadu,guava,4750.0
+tamil nadu,coconut,5250.0
+tamil nadu,mango,6750.0
+tamil nadu,onion,2250.0
+tamil nadu,potato,2250.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,coconut,5500.0
+tamil nadu,sweet potato,4250.0
+tamil nadu,capsicum,2750.0
+tamil nadu,onion,2250.0
+tamil nadu,ridge gourd,1800.0
+tamil nadu,mango,5500.0
+tamil nadu,cauliflower,1750.0
+tamil nadu,coconut,5750.0
+tamil nadu,brinjal,2250.0
+tamil nadu,green peas,7500.0
+tamil nadu,beetroot,2250.0
+tamil nadu,raddish,1750.0
+tamil nadu,sweet line,7500.0
+tamil nadu,tomato,1900.0
+tamil nadu,bottle gourd,2400.0
+tamil nadu,green chilli,3300.0
+tamil nadu,banana,2250.0
+tamil nadu,coconut,5400.0
+tamil nadu,raddish,2250.0
+tamil nadu,drumstick,4500.0
+tamil nadu,onion,3750.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,coconut,5600.0
+tamil nadu,cucumber,3500.0
+tamil nadu,ridge gourd,4350.0
+tamil nadu,guava,7500.0
+tamil nadu,banana,3500.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,brinjal,3250.0
+tamil nadu,green peas,5250.0
+tamil nadu,banana,1750.0
+tamil nadu,cabbage,1750.0
+tamil nadu,mango,4250.0
+tamil nadu,brinjal,3250.0
+tamil nadu,tomato,1900.0
+tamil nadu,coconut,5600.0
+tamil nadu,snakeguard,3300.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,onion,3750.0
+tamil nadu,papaya,3800.0
+tamil nadu,green chilli,3300.0
+tamil nadu,snakeguard,2600.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,tomato,1900.0
+tamil nadu,bitter gourd,3500.0
+tamil nadu,onion,2750.0
+tamil nadu,pumpkin,1650.0
+tamil nadu,green chilli,3300.0
+tamil nadu,sweet potato,3300.0
+tamil nadu,cauliflower,4500.0
+tamil nadu,bottle gourd,3250.0
+tamil nadu,banana,2750.0
+tamil nadu,cucumber,6400.0
+tamil nadu,raddish,3500.0
+tamil nadu,guava,5500.0
+tamil nadu,mint,3500.0
+tamil nadu,onion,2750.0
+tamil nadu,potato,3800.0
+tamil nadu,papaya,2750.0
+tamil nadu,bitter gourd,5250.0
+tamil nadu,green chilli,5750.0
+tamil nadu,coconut,3750.0
+tamil nadu,sweet potato,5750.0
+tamil nadu,beetroot,3800.0
+tamil nadu,raddish,3800.0
+tamil nadu,onion,5750.0
+tamil nadu,coriander leaves,5500.0
+tamil nadu,beetroot,5250.0
+tamil nadu,raddish,2250.0
+tamil nadu,papaya,3250.0
+tamil nadu,water melon,1750.0
+tamil nadu,green chilli,5250.0
+tamil nadu,beans,6500.0
+tamil nadu,ginger,6500.0
+tamil nadu,drumstick,2800.0
+tamil nadu,onion,2950.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,sapota,3750.0
+tamil nadu,lime,3250.0
+tamil nadu,papaya,2700.0
+tamil nadu,raddish,2700.0
+tamil nadu,green chilli,3750.0
+tamil nadu,banana,4250.0
+tamil nadu,beans,6750.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,carrot,2750.0
+tamil nadu,raddish,2250.0
+tamil nadu,mint,4750.0
+tamil nadu,groundnut,7500.0
+tamil nadu,green chilli,4000.0
+tamil nadu,capsicum,6000.0
+tamil nadu,mango,4600.0
+tamil nadu,mint,3000.0
+tamil nadu,maize,4500.0
+tamil nadu,green peas,6500.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,beans,7250.0
+tamil nadu,coconut,3500.0
+tamil nadu,carrot,4750.0
+tamil nadu,beetroot,2750.0
+tamil nadu,cucumber,4500.0
+tamil nadu,capsicum,5500.0
+tamil nadu,drumstick,3500.0
+tamil nadu,mango,5500.0
+tamil nadu,mint,4500.0
+tamil nadu,brinjal,3250.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,onion,2750.0
+tamil nadu,potato,3750.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,pumpkin,1250.0
+tamil nadu,drumstick,3750.0
+tamil nadu,banana,5500.0
+tamil nadu,papaya,3650.0
+tamil nadu,drumstick,3650.0
+tamil nadu,banana,4900.0
+tamil nadu,bitter gourd,5750.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,raddish,3250.0
+tamil nadu,potato,3750.0
+tamil nadu,soybean,8500.0
+tamil nadu,carrot,4750.0
+tamil nadu,ridge gourd,5650.0
+tamil nadu,onion,3250.0
+tamil nadu,banana,2900.0
+tamil nadu,grapes,7500.0
+tamil nadu,onion,2800.0
+tamil nadu,brinjal,2200.0
+tamil nadu,coriander leaves,3200.0
+tamil nadu,sweet line,3250.0
+tamil nadu,tomato,1100.0
+tamil nadu,green chilli,3900.0
+tamil nadu,beetroot,5750.0
+tamil nadu,cucumber,3750.0
+tamil nadu,ridge gourd,3900.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,beetroot,5250.0
+tamil nadu,lime,3750.0
+tamil nadu,muskmelon,2750.0
+tamil nadu,maize,3000.0
+tamil nadu,green peas,8500.0
+tamil nadu,sapota,3750.0
+tamil nadu,green chilli,4750.0
+tamil nadu,ginger,7750.0
+tamil nadu,raddish,1800.0
+tamil nadu,lemon,4750.0
+tamil nadu,mint,2750.0
+tamil nadu,coriander leaves,2750.0
+tamil nadu,sapota,3750.0
+tamil nadu,bottle gourd,1650.0
+tamil nadu,raddish,2200.0
+tamil nadu,sweet potato,3900.0
+tamil nadu,cabbage,3300.0
+tamil nadu,drumstick,3900.0
+tamil nadu,lime,3350.0
+tamil nadu,guava,5500.0
+tamil nadu,muskmelon,2900.0
+tamil nadu,banana,4250.0
+tamil nadu,potato,2750.0
+tamil nadu,tomato,1400.0
+tamil nadu,carrot,5750.0
+tamil nadu,snakeguard,2900.0
+tamil nadu,raddish,2300.0
+tamil nadu,guava,4500.0
+tamil nadu,coconut,3800.0
+tamil nadu,lemon,5750.0
+tamil nadu,potato,3250.0
+tamil nadu,brinjal,2750.0
+tamil nadu,sapota,2750.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,beetroot,4500.0
+tamil nadu,mango,3500.0
+tamil nadu,onion,2750.0
+tamil nadu,bitter gourd,3700.0
+tamil nadu,cabbage,2000.0
+tamil nadu,ridge gourd,3900.0
+tamil nadu,mango,3900.0
+tamil nadu,guava,7700.0
+tamil nadu,potato,3200.0
+tamil nadu,tomato,2000.0
+tamil nadu,bitter gourd,3500.0
+tamil nadu,cabbage,2200.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,raddish,2400.0
+tamil nadu,potato,3200.0
+tamil nadu,papaya,4200.0
+tamil nadu,pumpkin,2100.0
+tamil nadu,banana,3300.0
+tamil nadu,carrot,3500.0
+tamil nadu,beetroot,3500.0
+tamil nadu,banana,4000.0
+tamil nadu,onion,2750.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,sapota,4950.0
+tamil nadu,cabbage,2250.0
+tamil nadu,drumstick,4950.0
+tamil nadu,mango,4250.0
+tamil nadu,onion,4250.0
+tamil nadu,tomato,1900.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,banana,2750.0
+tamil nadu,drumstick,4750.0
+tamil nadu,mint,3000.0
+tamil nadu,papaya,5000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,snakeguard,2900.0
+tamil nadu,mint,3500.0
+tamil nadu,onion,2850.0
+tamil nadu,potato,3000.0
+tamil nadu,coriander leaves,3200.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,carrot,5400.0
+tamil nadu,onion,3600.0
+tamil nadu,water melon,2500.0
+tamil nadu,maize,5000.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,tomato,1650.0
+tamil nadu,bitter gourd,2650.0
+tamil nadu,pumpkin,1600.0
+tamil nadu,green chilli,3750.0
+tamil nadu,onion,2500.0
+tamil nadu,ginger,6400.0
+tamil nadu,coconut,4800.0
+tamil nadu,beetroot,2000.0
+tamil nadu,lemon,8000.0
+tamil nadu,cabbage,1500.0
+tamil nadu,snakeguard,2000.0
+tamil nadu,brinjal,1800.0
+tamil nadu,banana,3100.0
+tamil nadu,beans,5400.0
+tamil nadu,snakeguard,2000.0
+tamil nadu,capsicum,5400.0
+tamil nadu,mango,5400.0
+tamil nadu,onion,3200.0
+tamil nadu,cauliflower,3700.0
+tamil nadu,papaya,4250.0
+tamil nadu,green chilli,3000.0
+tamil nadu,sweet potato,2250.0
+tamil nadu,snakeguard,1600.0
+tamil nadu,pumpkin,1300.0
+tamil nadu,onion,2250.0
+tamil nadu,papaya,4250.0
+tamil nadu,cabbage,1500.0
+tamil nadu,raddish,2750.0
+tamil nadu,brinjal,2900.0
+tamil nadu,tomato,2700.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,coconut,5250.0
+tamil nadu,carrot,3400.0
+tamil nadu,onion,3750.0
+tamil nadu,banana,7000.0
+tamil nadu,brinjal,3000.0
+tamil nadu,tomato,2000.0
+tamil nadu,bottle gourd,4000.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,coconut,6000.0
+tamil nadu,capsicum,5000.0
+tamil nadu,sapota,5000.0
+tamil nadu,papaya,5000.0
+tamil nadu,green chilli,5000.0
+tamil nadu,green chilli,5000.0
+tamil nadu,banana,4000.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,sapota,4000.0
+tamil nadu,green chilli,6000.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,mango,4000.0
+tamil nadu,pineapple,8000.0
+tamil nadu,cauliflower,5000.0
+tamil nadu,sweet line,6000.0
+tamil nadu,tomato,1800.0
+tamil nadu,beans,6400.0
+tamil nadu,carrot,3800.0
+tamil nadu,snakeguard,2300.0
+tamil nadu,guava,5000.0
+tamil nadu,onion,3400.0
+tamil nadu,potato,3500.0
+tamil nadu,brinjal,4000.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,coconut,5000.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,mango,6000.0
+tamil nadu,mint,4000.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,pumpkin,2400.0
+tamil nadu,banana,4000.0
+tamil nadu,coconut,4000.0
+tamil nadu,carrot,3800.0
+tamil nadu,beetroot,3000.0
+tamil nadu,raddish,2000.0
+tamil nadu,onion,4400.0
+tamil nadu,pumpkin,2750.0
+tamil nadu,banana,3250.0
+tamil nadu,carrot,4750.0
+tamil nadu,raddish,3250.0
+tamil nadu,onion,4250.0
+tamil nadu,mint,3750.0
+tamil nadu,onion,2250.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,papaya,3750.0
+tamil nadu,tomato,1650.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,potato,2750.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,green chilli,4600.0
+tamil nadu,beans,4400.0
+tamil nadu,sweet potato,3650.0
+tamil nadu,mango,7000.0
+tamil nadu,guava,4600.0
+tamil nadu,onion,3650.0
+tamil nadu,papaya,3500.0
+tamil nadu,tomato,900.0
+tamil nadu,bottle gourd,1800.0
+tamil nadu,coconut,4500.0
+tamil nadu,sweet potato,3650.0
+tamil nadu,cabbage,2250.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,sapota,3650.0
+tamil nadu,tomato,900.0
+tamil nadu,bitter gourd,3650.0
+tamil nadu,groundnut,7500.0
+tamil nadu,bottle gourd,1800.0
+tamil nadu,beans,4600.0
+tamil nadu,raddish,1800.0
+tamil nadu,lemon,7500.0
+tamil nadu,mint,3750.0
+tamil nadu,banana,5500.0
+tamil nadu,sapota,3750.0
+tamil nadu,green chilli,3750.0
+tamil nadu,banana,4750.0
+tamil nadu,mint,3750.0
+tamil nadu,pineapple,8000.0
+tamil nadu,potato,3000.0
+tamil nadu,beans,7000.0
+tamil nadu,ginger,8000.0
+tamil nadu,coconut,6000.0
+tamil nadu,cauliflower,4000.0
+tamil nadu,brinjal,2000.0
+tamil nadu,papaya,4000.0
+tamil nadu,green chilli,6000.0
+tamil nadu,ridge gourd,3300.0
+tamil nadu,onion,2500.0
+tamil nadu,potato,2750.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,green peas,5500.0
+tamil nadu,bitter gourd,3300.0
+tamil nadu,green chilli,3250.0
+tamil nadu,coconut,6250.0
+tamil nadu,guava,4500.0
+tamil nadu,banana,2500.0
+tamil nadu,mango,5500.0
+tamil nadu,onion,4000.0
+tamil nadu,onion,2750.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,raddish,2600.0
+tamil nadu,mint,3000.0
+tamil nadu,tomato,2000.0
+tamil nadu,pumpkin,1600.0
+tamil nadu,raddish,2500.0
+tamil nadu,groundnut,6600.0
+tamil nadu,bottle gourd,1400.0
+tamil nadu,cabbage,2400.0
+tamil nadu,raddish,1800.0
+tamil nadu,lime,4000.0
+tamil nadu,onion,2400.0
+tamil nadu,potato,2000.0
+tamil nadu,cauliflower,1650.0
+tamil nadu,papaya,4000.0
+tamil nadu,water melon,2000.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,drumstick,3000.0
+tamil nadu,mint,4000.0
+tamil nadu,potato,3000.0
+tamil nadu,coriander leaves,6000.0
+tamil nadu,sapota,6000.0
+tamil nadu,banana,3000.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,banana,5000.0
+tamil nadu,brinjal,3000.0
+tamil nadu,papaya,4000.0
+tamil nadu,banana,5000.0
+tamil nadu,mango,4000.0
+tamil nadu,banana,3750.0
+tamil nadu,green chilli,4750.0
+tamil nadu,beetroot,2750.0
+tamil nadu,cucumber,5500.0
+tamil nadu,raddish,2750.0
+tamil nadu,drumstick,4750.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,green chilli,4750.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,raddish,3250.0
+tamil nadu,turnip,5500.0
+tamil nadu,bitter gourd,5600.0
+tamil nadu,banana,2900.0
+tamil nadu,potato,2850.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,beans,4750.0
+tamil nadu,ginger,7750.0
+tamil nadu,cabbage,1900.0
+tamil nadu,onion,2750.0
+tamil nadu,papaya,2750.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,coconut,5750.0
+tamil nadu,cauliflower,3250.0
+tamil nadu,brinjal,3750.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,green peas,5750.0
+tamil nadu,sapota,3750.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,tomato,1800.0
+tamil nadu,bitter gourd,4500.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,beetroot,2550.0
+tamil nadu,raddish,3150.0
+tamil nadu,banana,3750.0
+tamil nadu,tomato,2650.0
+tamil nadu,banana,5500.0
+tamil nadu,beans,8000.0
+tamil nadu,coconut,4900.0
+tamil nadu,beetroot,3650.0
+tamil nadu,raddish,3750.0
+tamil nadu,guava,6500.0
+tamil nadu,groundnut,7500.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,cabbage,2250.0
+tamil nadu,cucumber,3750.0
+tamil nadu,onion,4500.0
+tamil nadu,onion,2750.0
+tamil nadu,beans,5500.0
+tamil nadu,drumstick,5500.0
+tamil nadu,potato,2250.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,sweet potato,4500.0
+tamil nadu,guava,5000.0
+tamil nadu,onion,4000.0
+tamil nadu,onion,2500.0
+tamil nadu,potato,3000.0
+tamil nadu,onion,2750.0
+tamil nadu,green peas,5500.0
+tamil nadu,sapota,3750.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,beans,7500.0
+tamil nadu,carrot,5500.0
+tamil nadu,ridge gourd,4500.0
+tamil nadu,maize,3250.0
+tamil nadu,pineapple,3250.0
+tamil nadu,onion,2750.0
+tamil nadu,potato,2750.0
+tamil nadu,sweet line,6500.0
+tamil nadu,tomato,2250.0
+tamil nadu,bottle gourd,3250.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,muskmelon,2750.0
+tamil nadu,onion,2200.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,tur,4250.0
+tamil nadu,ridge gourd,3500.0
+tamil nadu,cauliflower,3000.0
+tamil nadu,green peas,6000.0
+tamil nadu,sapota,4000.0
+tamil nadu,papaya,4000.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,ginger,7500.0
+tamil nadu,coconut,4500.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,cucumber,3000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,drumstick,5000.0
+tamil nadu,onion,4000.0
+tamil nadu,papaya,2750.0
+tamil nadu,green chilli,4300.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,onion,2750.0
+tamil nadu,banana,6450.0
+tamil nadu,green chilli,4500.0
+tamil nadu,beans,7500.0
+tamil nadu,coconut,3500.0
+tamil nadu,ridge gourd,2750.0
+tamil nadu,raddish,2500.0
+tamil nadu,drumstick,2750.0
+tamil nadu,potato,4750.0
+tamil nadu,guava,4750.0
+tamil nadu,brinjal,2250.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,papaya,2750.0
+tamil nadu,bottle gourd,1650.0
+tamil nadu,coconut,4650.0
+tamil nadu,sweet potato,4750.0
+tamil nadu,mango,4750.0
+tamil nadu,muskmelon,2750.0
+tamil nadu,maize,1900.0
+tamil nadu,banana,3750.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,brinjal,3750.0
+tamil nadu,banana,2750.0
+tamil nadu,beetroot,2200.0
+tamil nadu,drumstick,3250.0
+tamil nadu,onion,2750.0
+tamil nadu,papaya,2750.0
+tamil nadu,carrot,4500.0
+tamil nadu,drumstick,3500.0
+tamil nadu,guava,3500.0
+tamil nadu,lemon,5000.0
+tamil nadu,onion,3250.0
+tamil nadu,mint,2500.0
+tamil nadu,banana,4000.0
+tamil nadu,potato,2500.0
+tamil nadu,banana,3000.0
+tamil nadu,coconut,2500.0
+tamil nadu,raddish,2000.0
+tamil nadu,drumstick,4000.0
+tamil nadu,guava,6000.0
+tamil nadu,muskmelon,3000.0
+tamil nadu,mint,2000.0
+tamil nadu,maize,2000.0
+tamil nadu,banana,5000.0
+tamil nadu,sapota,5000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,green chilli,4000.0
+tamil nadu,beans,8000.0
+tamil nadu,coconut,5500.0
+tamil nadu,cabbage,2000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,capsicum,6000.0
+tamil nadu,coriander leaves,6000.0
+tamil nadu,banana,3250.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,brinjal,4000.0
+tamil nadu,tomato,1500.0
+tamil nadu,banana,3000.0
+tamil nadu,beans,7000.0
+tamil nadu,sweet potato,3000.0
+tamil nadu,cabbage,3000.0
+tamil nadu,beetroot,4000.0
+tamil nadu,potato,3500.0
+tamil nadu,papaya,2500.0
+tamil nadu,water melon,2500.0
+tamil nadu,tomato,1750.0
+tamil nadu,mango,8000.0
+tamil nadu,green peas,6750.0
+tamil nadu,papaya,4750.0
+tamil nadu,coconut,6750.0
+tamil nadu,carrot,5750.0
+tamil nadu,onion,3750.0
+madhya pradesh,wheat,2111.0
+madhya pradesh,maize,1700.0
+madhya pradesh,maize,1660.0
+tamil nadu,potato,3400.0
+tamil nadu,onion,4550.0
+tamil nadu,mint,5750.0
+tamil nadu,banana,7500.0
+tamil nadu,green chilli,3750.0
+tamil nadu,onion,3750.0
+tamil nadu,mint,4750.0
+madhya pradesh,wheat,2100.0
+madhya pradesh,rice,1640.0
+tamil nadu,potato,2150.0
+tamil nadu,water melon,2000.0
+tamil nadu,sweet line,6000.0
+tamil nadu,tomato,1600.0
+tamil nadu,bitter gourd,2250.0
+tamil nadu,beetroot,2400.0
+tamil nadu,cucumber,2500.0
+tamil nadu,mint,2500.0
+tamil nadu,orange,8500.0
+tamil nadu,onion,2750.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,beetroot,4750.0
+tamil nadu,lemon,7500.0
+tamil nadu,onion,2750.0
+tamil nadu,coriander leaves,3250.0
+tamil nadu,sapota,3750.0
+tamil nadu,tomato,1350.0
+tamil nadu,green chilli,3750.0
+tamil nadu,mint,2750.0
+tamil nadu,drumstick,2850.0
+maharashtra,sapota,2000.0
+maharashtra,garlic,5500.0
+maharashtra,capsicum,1800.0
+maharashtra,tomato,800.0
+maharashtra,green chilli,5000.0
+madhya pradesh,gram,5100.0
+madhya pradesh,wheat,2150.0
+tamil nadu,banana,4000.0
+tamil nadu,potato,3600.0
+tamil nadu,green peas,5000.0
+tamil nadu,sapota,4000.0
+tamil nadu,carrot,3500.0
+tamil nadu,raddish,2000.0
+tamil nadu,capsicum,5000.0
+tamil nadu,lemon,6000.0
+madhya pradesh,wheat,2151.0
+tamil nadu,green peas,7500.0
+tamil nadu,bottle gourd,1100.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,cucumber,3250.0
+tamil nadu,ridge gourd,3300.0
+tamil nadu,drumstick,2750.0
+tamil nadu,onion,3250.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,banana,2500.0
+tamil nadu,mint,4000.0
+tamil nadu,brinjal,2650.0
+tamil nadu,coriander leaves,6500.0
+tamil nadu,cabbage,1650.0
+tamil nadu,banana,4500.0
+tamil nadu,onion,2650.0
+tamil nadu,brinjal,2250.0
+tamil nadu,bottle gourd,1650.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,coconut,5750.0
+tamil nadu,drumstick,2750.0
+tamil nadu,onion,3200.0
+tamil nadu,green peas,4700.0
+tamil nadu,beans,5300.0
+tamil nadu,snakeguard,1900.0
+tamil nadu,beetroot,1900.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,sapota,3750.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,bottle gourd,1350.0
+tamil nadu,banana,2750.0
+tamil nadu,cabbage,2250.0
+himachal pradesh,cabbage,1100.0
+himachal pradesh,brinjal,3600.0
+himachal pradesh,green chilli,6200.0
+himachal pradesh,capsicum,4800.0
+himachal pradesh,banana,3500.0
+uttarakhand,peas,2000.0
+uttarakhand,pumpkin,700.0
+uttarakhand,cucumber,1200.0
+uttarakhand,green chilli,2800.0
+uttarakhand,carrot,900.0
+haryana,sapota,3000.0
+haryana,water melon,1900.0
+haryana,beetroot,2250.0
+haryana,brinjal,1750.0
+haryana,potato,600.0
+haryana,pomegranate,8000.0
+haryana,onion,1200.0
+haryana,spinach,1100.0
+odisha,cabbage,2200.0
+odisha,tomato,1300.0
+kerala,beetroot,4100.0
+kerala,brinjal,3200.0
+kerala,bottle gourd,1800.0
+kerala,coconut,5500.0
+kerala,pineapple,8200.0
+kerala,pumpkin,1700.0
+uttarakhand,brinjal,600.0
+uttarakhand,bottle gourd,675.0
+uttarakhand,tomato,1600.0
+uttarakhand,bottle gourd,700.0
+uttarakhand,cucumber,650.0
+west bengal,rice,3700.0
+west bengal,mustard,6400.0
+west bengal,brinjal,1000.0
+tamil nadu,beans,7750.0
+tamil nadu,cauliflower,2900.0
+tamil nadu,ginger,8250.0
+tamil nadu,carrot,3300.0
+tamil nadu,ridge gourd,3400.0
+tamil nadu,papaya,2750.0
+tamil nadu,green chilli,3750.0
+tamil nadu,ginger,7750.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,lemon,4500.0
+tamil nadu,potato,2100.0
+tamil nadu,tomato,1600.0
+tamil nadu,pumpkin,1600.0
+tamil nadu,green chilli,3500.0
+tamil nadu,banana,3000.0
+tamil nadu,coconut,3250.0
+tamil nadu,carrot,1600.0
+tamil nadu,onion,3750.0
+tamil nadu,onion,2500.0
+tamil nadu,potato,3000.0
+tamil nadu,banana,4000.0
+tamil nadu,carrot,3000.0
+tamil nadu,beetroot,3600.0
+tamil nadu,raddish,2000.0
+tamil nadu,onion,3500.0
+tamil nadu,papaya,3000.0
+tamil nadu,banana,3000.0
+tamil nadu,drumstick,8000.0
+tamil nadu,coconut,3750.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,lime,1750.0
+tamil nadu,banana,4000.0
+tamil nadu,onion,2750.0
+tamil nadu,brinjal,1900.0
+tamil nadu,tomato,1200.0
+tamil nadu,groundnut,7000.0
+tamil nadu,coconut,5000.0
+tamil nadu,snakeguard,2900.0
+tamil nadu,banana,5500.0
+tamil nadu,onion,2750.0
+tamil nadu,brinjal,1900.0
+tamil nadu,sapota,3750.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,coconut,5250.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,raddish,1750.0
+tamil nadu,onion,3250.0
+maharashtra,guava,1050.0
+maharashtra,bottle gourd,800.0
+maharashtra,coriander leaves,500.0
+maharashtra,spinach,550.0
+maharashtra,tomato,1000.0
+maharashtra,green chilli,5000.0
+maharashtra,sapota,3500.0
+maharashtra,water melon,1000.0
+maharashtra,sweet line,5000.0
+maharashtra,cauliflower,1000.0
+maharashtra,beans,4500.0
+maharashtra,cabbage,750.0
+maharashtra,drumstick,7000.0
+maharashtra,ridge gourd,3500.0
+maharashtra,brinjal,3500.0
+maharashtra,ginger,4500.0
+maharashtra,potato,1500.0
+maharashtra,cucumber,1800.0
+maharashtra,cabbage,650.0
+uttar pradesh,potato,600.0
+tripura,papaya,1800.0
+tripura,banana,1700.0
+tripura,cauliflower,2300.0
+tamil nadu,green chilli,4300.0
+tamil nadu,capsicum,5250.0
+tamil nadu,banana,6500.0
+tamil nadu,potato,3750.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,bitter gourd,2800.0
+tamil nadu,mint,4700.0
+tamil nadu,onion,2750.0
+tamil nadu,cauliflower,5000.0
+tamil nadu,onion,2900.0
+tamil nadu,brinjal,4500.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,raddish,2900.0
+tamil nadu,drumstick,5650.0
+tamil nadu,mango,3750.0
+tamil nadu,potato,2750.0
+tamil nadu,brinjal,5250.0
+tamil nadu,papaya,2750.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,pumpkin,1400.0
+tamil nadu,brinjal,2000.0
+tamil nadu,green peas,8000.0
+tamil nadu,tomato,1300.0
+tamil nadu,onion,3600.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,bitter gourd,3000.0
+tamil nadu,pumpkin,2400.0
+tamil nadu,banana,3500.0
+tamil nadu,coconut,5000.0
+tamil nadu,lime,3000.0
+tamil nadu,guava,6000.0
+tamil nadu,potato,2750.0
+tamil nadu,brinjal,2300.0
+tamil nadu,papaya,2750.0
+tamil nadu,water melon,1650.0
+tamil nadu,ginger,7500.0
+tamil nadu,carrot,5750.0
+tamil nadu,beetroot,5500.0
+tamil nadu,muskmelon,3250.0
+tamil nadu,mint,4500.0
+tamil nadu,orange,8000.0
+tamil nadu,tomato,2000.0
+tamil nadu,ginger,6800.0
+tamil nadu,snakeguard,3500.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,capsicum,5000.0
+tamil nadu,mango,6000.0
+tamil nadu,muskmelon,4000.0
+tamil nadu,banana,4000.0
+tamil nadu,coriander leaves,4200.0
+tamil nadu,tomato,2000.0
+tamil nadu,banana,4000.0
+tamil nadu,capsicum,8000.0
+tamil nadu,mango,6000.0
+tamil nadu,guava,8000.0
+tamil nadu,sapota,6000.0
+tamil nadu,tomato,1200.0
+tamil nadu,groundnut,7000.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,ridge gourd,3500.0
+tamil nadu,guava,6000.0
+tamil nadu,tomato,1750.0
+madhya pradesh,wheat,2150.0
+madhya pradesh,wheat,2210.0
+madhya pradesh,wheat,2071.0
+madhya pradesh,wheat,2300.0
+madhya pradesh,wheat,2400.0
+madhya pradesh,gram,5011.0
+madhya pradesh,wheat,2200.0
+madhya pradesh,wheat,2605.0
+madhya pradesh,mustard,6600.0
+madhya pradesh,wheat,2180.0
+madhya pradesh,wheat,2201.0
+gujarat,banana,2150.0
+gujarat,cabbage,1750.0
+gujarat,bitter gourd,3250.0
+gujarat,green chilli,5000.0
+gujarat,bitter gourd,2500.0
+gujarat,lemon,7000.0
+gujarat,cauliflower,800.0
+gujarat,tomato,750.0
+gujarat,sweet line,3250.0
+karnataka,gram,5200.0
+west bengal,potato,1100.0
+tamil nadu,banana,4500.0
+tamil nadu,papaya,3600.0
+tamil nadu,tomato,1350.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,raddish,1750.0
+tamil nadu,drumstick,4500.0
+tamil nadu,lemon,7250.0
+tamil nadu,onion,4500.0
+tamil nadu,mint,3600.0
+tamil nadu,pumpkin,2400.0
+tamil nadu,onion,3600.0
+uttarakhand,peas,2200.0
+telangana,rice,2389.0
+telangana,rice,2369.0
+rajasthan,tomato,1500.0
+rajasthan,onion,1500.0
+odisha,cucumber,3500.0
+punjab,cauliflower,986.0
+tamil nadu,banana,6750.0
+tamil nadu,pineapple,6500.0
+tamil nadu,cauliflower,3100.0
+tamil nadu,sapota,3750.0
+tamil nadu,raddish,2250.0
+tamil nadu,maize,3750.0
+haryana,cauliflower,1200.0
+haryana,brinjal,1400.0
+haryana,raddish,1000.0
+haryana,spinach,800.0
+kerala,cucumber,6000.0
+uttar pradesh,lemon,7200.0
+uttar pradesh,onion,1600.0
+haryana,brinjal,1900.0
+haryana,bitter gourd,4800.0
+haryana,cauliflower,900.0
+haryana,sapota,4800.0
+haryana,cucumber,1300.0
+haryana,bottle gourd,1850.0
+haryana,bottle gourd,1500.0
+haryana,pumpkin,1500.0
+haryana,potato,550.0
+tamil nadu,potato,4000.0
+tamil nadu,green peas,6750.0
+tamil nadu,tomato,2000.0
+tamil nadu,bitter gourd,4600.0
+tamil nadu,beans,8000.0
+kerala,cauliflower,5600.0
+kerala,pumpkin,2600.0
+kerala,beetroot,3400.0
+kerala,bottle gourd,2500.0
+kerala,lemon,7600.0
+kerala,potato,3000.0
+kerala,green chilli,5000.0
+kerala,coconut,6000.0
+kerala,cucumber,4500.0
+kerala,banana,2200.0
+haryana,tomato,2050.0
+punjab,green chilli,4000.0
+west bengal,banana,2100.0
+west bengal,rice,4900.0
+west bengal,potato,760.0
+tamil nadu,banana,2200.0
+tamil nadu,cauliflower,1900.0
+tamil nadu,papaya,2500.0
+tamil nadu,sweet line,5250.0
+tamil nadu,cucumber,4750.0
+tamil nadu,guava,5250.0
+tamil nadu,muskmelon,1900.0
+tamil nadu,onion,3250.0
+tamil nadu,potato,3800.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,coconut,4750.0
+tamil nadu,beetroot,4650.0
+tamil nadu,mint,3650.0
+tamil nadu,onion,2600.0
+tamil nadu,brinjal,3300.0
+tamil nadu,bitter gourd,3750.0
+tamil nadu,banana,3250.0
+tamil nadu,ginger,6750.0
+tamil nadu,lemon,7750.0
+tamil nadu,turnip,5200.0
+haryana,onion,1000.0
+haryana,capsicum,5000.0
+haryana,cauliflower,600.0
+odisha,cucumber,3900.0
+odisha,potato,1100.0
+odisha,banana,2700.0
+tamil nadu,beetroot,4750.0
+tamil nadu,cucumber,7500.0
+tamil nadu,cauliflower,3000.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,coconut,6000.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,cabbage,1800.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,raddish,1800.0
+tamil nadu,onion,2250.0
+tamil nadu,ginger,7700.0
+tamil nadu,coconut,5600.0
+tamil nadu,beetroot,3700.0
+tamil nadu,raddish,2250.0
+tamil nadu,raddish,2800.0
+tamil nadu,onion,3800.0
+tamil nadu,orange,8000.0
+tamil nadu,brinjal,2500.0
+tamil nadu,green peas,6250.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,sweet potato,2300.0
+tamil nadu,beetroot,4200.0
+tamil nadu,drumstick,2750.0
+tamil nadu,turnip,3600.0
+tamil nadu,onion,2000.0
+tamil nadu,cauliflower,3200.0
+tamil nadu,sapota,3750.0
+tamil nadu,tomato,2000.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,banana,3250.0
+tamil nadu,carrot,4500.0
+tamil nadu,ridge gourd,4650.0
+tamil nadu,mango,6750.0
+tamil nadu,guava,5750.0
+tamil nadu,onion,3000.0
+tamil nadu,mint,3750.0
+tamil nadu,banana,7500.0
+tamil nadu,sapota,3750.0
+tamil nadu,tomato,1850.0
+tamil nadu,cabbage,2250.0
+tamil nadu,snakeguard,3250.0
+tamil nadu,beetroot,3500.0
+tamil nadu,ridge gourd,4750.0
+tamil nadu,drumstick,2750.0
+uttar pradesh,rice,2372.0
+tamil nadu,potato,2600.0
+tamil nadu,water melon,2200.0
+tamil nadu,tomato,1800.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,groundnut,7500.0
+tamil nadu,green chilli,3750.0
+tamil nadu,guava,5500.0
+tamil nadu,onion,2750.0
+uttar pradesh,rice,2550.0
+chandigarh,lemon,8000.0
+chandigarh,tomato,1200.0
+chandigarh,potato,200.0
+chandigarh,cauliflower,1500.0
+chandigarh,pumpkin,1300.0
+tamil nadu,papaya,3250.0
+tamil nadu,water melon,1750.0
+tamil nadu,beans,7750.0
+tamil nadu,cucumber,7750.0
+tamil nadu,mango,6750.0
+tamil nadu,guava,5750.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,papaya,4000.0
+tamil nadu,bitter gourd,4500.0
+tamil nadu,beans,5000.0
+tamil nadu,coconut,5500.0
+tamil nadu,raddish,2500.0
+tamil nadu,guava,4500.0
+tamil nadu,brinjal,3000.0
+tamil nadu,green chilli,3500.0
+tamil nadu,beans,6000.0
+tamil nadu,cabbage,2500.0
+tamil nadu,onion,2250.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,green chilli,4000.0
+tamil nadu,coconut,6500.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,raddish,2500.0
+tamil nadu,mango,5500.0
+tamil nadu,banana,3900.0
+tamil nadu,bitter gourd,2450.0
+tamil nadu,snakeguard,1450.0
+tamil nadu,raddish,950.0
+tamil nadu,onion,3300.0
+tamil nadu,mint,6850.0
+tamil nadu,brinjal,2450.0
+tamil nadu,green peas,5850.0
+tamil nadu,bitter gourd,3700.0
+tamil nadu,banana,2450.0
+tamil nadu,cabbage,2900.0
+tamil nadu,raddish,1900.0
+tamil nadu,guava,4850.0
+tamil nadu,papaya,2800.0
+tamil nadu,groundnut,6750.0
+tamil nadu,pumpkin,1350.0
+tamil nadu,green chilli,4350.0
+tamil nadu,mint,5750.0
+tamil nadu,maize,2900.0
+tamil nadu,potato,2650.0
+tamil nadu,coriander leaves,7500.0
+tamil nadu,groundnut,6800.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,green chilli,4000.0
+tamil nadu,sweet potato,2000.0
+tamil nadu,ridge gourd,3400.0
+tamil nadu,drumstick,3500.0
+tamil nadu,mango,6500.0
+tamil nadu,mint,6500.0
+tamil nadu,coriander leaves,3300.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,ginger,8500.0
+tamil nadu,snakeguard,3500.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,banana,2800.0
+tamil nadu,beans,7500.0
+tamil nadu,ginger,8500.0
+tamil nadu,drumstick,4500.0
+tamil nadu,banana,2200.0
+tamil nadu,raddish,2100.0
+tamil nadu,banana,3250.0
+tamil nadu,brinjal,3500.0
+tamil nadu,coriander leaves,4350.0
+tamil nadu,green chilli,3700.0
+tamil nadu,ginger,7350.0
+tamil nadu,snakeguard,3350.0
+tamil nadu,beetroot,4350.0
+tamil nadu,onion,2600.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,papaya,2200.0
+tamil nadu,tomato,1400.0
+tamil nadu,cabbage,1100.0
+tamil nadu,raddish,2300.0
+tamil nadu,drumstick,2250.0
+tamil nadu,guava,5250.0
+tamil nadu,onion,2150.0
+tamil nadu,brinjal,2150.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,green chilli,2750.0
+tamil nadu,ginger,7000.0
+tamil nadu,snakeguard,2500.0
+tamil nadu,muskmelon,2750.0
+tamil nadu,onion,3500.0
+tamil nadu,mint,3000.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,brinjal,3750.0
+tamil nadu,beans,4250.0
+tamil nadu,carrot,3750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,beetroot,3250.0
+tamil nadu,drumstick,6750.0
+tamil nadu,onion,4750.0
+tamil nadu,papaya,3000.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,raddish,2750.0
+tamil nadu,lemon,6000.0
+tamil nadu,papaya,2750.0
+tamil nadu,bitter gourd,3300.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,green chilli,3750.0
+tamil nadu,beans,6750.0
+tamil nadu,ginger,7750.0
+tamil nadu,cabbage,1400.0
+tamil nadu,banana,4600.0
+tamil nadu,brinjal,1750.0
+tamil nadu,tomato,1700.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,banana,3700.0
+tamil nadu,coconut,5150.0
+tamil nadu,cabbage,2700.0
+tamil nadu,drumstick,2700.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,drumstick,2750.0
+tamil nadu,mint,3750.0
+tamil nadu,banana,5500.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,bottle gourd,750.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,raddish,1750.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,groundnut,7500.0
+tamil nadu,green chilli,5500.0
+tamil nadu,beetroot,2250.0
+tamil nadu,drumstick,3250.0
+tamil nadu,onion,3500.0
+tamil nadu,banana,7250.0
+tamil nadu,groundnut,6250.0
+tamil nadu,green chilli,4750.0
+tamil nadu,banana,2800.0
+tamil nadu,beetroot,2750.0
+tamil nadu,banana,7000.0
+tamil nadu,onion,2250.0
+tamil nadu,brinjal,2250.0
+tamil nadu,tomato,1750.0
+tamil nadu,bitter gourd,2750.0
+tamil nadu,beans,5750.0
+tamil nadu,sweet potato,3500.0
+tamil nadu,drumstick,2750.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,sweet potato,4250.0
+tamil nadu,cucumber,2500.0
+tamil nadu,ridge gourd,3500.0
+tamil nadu,brinjal,3500.0
+tamil nadu,green peas,5500.0
+tamil nadu,ginger,8500.0
+tamil nadu,beetroot,3300.0
+tamil nadu,mango,5250.0
+tamil nadu,turnip,3300.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,green peas,5500.0
+tamil nadu,sapota,4500.0
+tamil nadu,papaya,3800.0
+tamil nadu,bitter gourd,3500.0
+tamil nadu,green chilli,3400.0
+tamil nadu,banana,2200.0
+tamil nadu,ginger,8500.0
+tamil nadu,carrot,3300.0
+tamil nadu,snakeguard,3200.0
+tamil nadu,beetroot,3300.0
+tamil nadu,onion,3900.0
+tamil nadu,tomato,1900.0
+tamil nadu,bottle gourd,2600.0
+tamil nadu,pumpkin,1650.0
+tamil nadu,beans,5500.0
+tamil nadu,coconut,5600.0
+tamil nadu,snakeguard,3300.0
+tamil nadu,raddish,2250.0
+tamil nadu,capsicum,5500.0
+tamil nadu,drumstick,4500.0
+tamil nadu,onion,3900.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,bottle gourd,2700.0
+tamil nadu,mint,2750.0
+tamil nadu,tomato,1900.0
+tamil nadu,ridge gourd,4350.0
+tamil nadu,banana,3500.0
+tamil nadu,onion,2900.0
+tamil nadu,brinjal,3250.0
+tamil nadu,green chilli,3300.0
+tamil nadu,coconut,5600.0
+tamil nadu,drumstick,4500.0
+tamil nadu,mango,3750.0
+tamil nadu,lime,2750.0
+tamil nadu,mint,2750.0
+tamil nadu,banana,3300.0
+tamil nadu,potato,2750.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,green peas,5500.0
+tamil nadu,carrot,3300.0
+tamil nadu,cabbage,1800.0
+tamil nadu,onion,3750.0
+tamil nadu,mint,2250.0
+tamil nadu,papaya,3400.0
+tamil nadu,cabbage,3400.0
+tamil nadu,snakeguard,3500.0
+tamil nadu,beetroot,4250.0
+tamil nadu,capsicum,5000.0
+tamil nadu,lemon,8500.0
+tamil nadu,banana,4500.0
+tamil nadu,cauliflower,5000.0
+tamil nadu,coriander leaves,3800.0
+tamil nadu,tomato,2100.0
+tamil nadu,carrot,5750.0
+tamil nadu,cabbage,2750.0
+tamil nadu,lime,3750.0
+tamil nadu,mint,4250.0
+tamil nadu,banana,2750.0
+tamil nadu,pineapple,4750.0
+tamil nadu,sweet line,3250.0
+tamil nadu,bottle gourd,1000.0
+tamil nadu,pumpkin,1350.0
+tamil nadu,coconut,4750.0
+tamil nadu,capsicum,5500.0
+tamil nadu,lemon,7250.0
+tamil nadu,coriander leaves,5800.0
+tamil nadu,cabbage,1900.0
+tamil nadu,beetroot,4000.0
+tamil nadu,ridge gourd,5400.0
+tamil nadu,mint,3800.0
+tamil nadu,maize,2250.0
+tamil nadu,brinjal,5250.0
+tamil nadu,tomato,1600.0
+tamil nadu,bitter gourd,5250.0
+tamil nadu,coconut,4750.0
+tamil nadu,raddish,2250.0
+tamil nadu,tomato,1500.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,beans,8200.0
+tamil nadu,coconut,4500.0
+tamil nadu,sweet potato,4600.0
+tamil nadu,carrot,5700.0
+tamil nadu,drumstick,2600.0
+tamil nadu,onion,2650.0
+tamil nadu,coriander leaves,7500.0
+tamil nadu,sweet line,6750.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,cabbage,1350.0
+tamil nadu,snakeguard,2650.0
+tamil nadu,drumstick,2750.0
+tamil nadu,onion,3200.0
+tamil nadu,brinjal,2400.0
+tamil nadu,pumpkin,1600.0
+tamil nadu,carrot,4600.0
+tamil nadu,cabbage,2200.0
+tamil nadu,drumstick,2800.0
+tamil nadu,onion,3000.0
+tamil nadu,brinjal,4500.0
+tamil nadu,coriander leaves,5500.0
+tamil nadu,papaya,3500.0
+tamil nadu,green chilli,2750.0
+tamil nadu,sweet potato,4250.0
+tamil nadu,guava,7500.0
+tamil nadu,onion,2750.0
+tamil nadu,papaya,2750.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,green chilli,3250.0
+tamil nadu,onion,3750.0
+tamil nadu,raddish,2250.0
+tamil nadu,onion,3750.0
+tamil nadu,brinjal,4600.0
+tamil nadu,snakeguard,2300.0
+tamil nadu,mango,3650.0
+tamil nadu,guava,7350.0
+tamil nadu,onion,4250.0
+tamil nadu,onion,2650.0
+tamil nadu,bottle gourd,1650.0
+tamil nadu,drumstick,4900.0
+tamil nadu,onion,3250.0
+tamil nadu,onion,2750.0
+tamil nadu,coriander leaves,5650.0
+tamil nadu,tomato,2250.0
+tamil nadu,beans,6250.0
+tamil nadu,raddish,2750.0
+tamil nadu,orange,7500.0
+tamil nadu,banana,4750.0
+tamil nadu,groundnut,6500.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,carrot,5750.0
+tamil nadu,cabbage,3200.0
+tamil nadu,snakeguard,2700.0
+tamil nadu,raddish,2200.0
+tamil nadu,mint,2900.0
+tamil nadu,maize,3250.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,papaya,3250.0
+tamil nadu,sweet line,3250.0
+tamil nadu,tomato,1450.0
+tamil nadu,green chilli,4000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,mint,2750.0
+tamil nadu,cauliflower,2800.0
+tamil nadu,papaya,2750.0
+tamil nadu,groundnut,5750.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,banana,1750.0
+tamil nadu,cabbage,2250.0
+tamil nadu,cucumber,4750.0
+tamil nadu,guava,5500.0
+tamil nadu,beans,8000.0
+tamil nadu,onion,2750.0
+tamil nadu,potato,4100.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,banana,2750.0
+tamil nadu,coconut,6000.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,snakeguard,2800.0
+tamil nadu,cucumber,5500.0
+tamil nadu,drumstick,4000.0
+tamil nadu,onion,3200.0
+tamil nadu,potato,2900.0
+tamil nadu,coriander leaves,1700.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,green chilli,3700.0
+tamil nadu,cucumber,7000.0
+tamil nadu,raddish,2200.0
+tamil nadu,mango,6800.0
+tamil nadu,lemon,6800.0
+tamil nadu,sapota,3750.0
+tamil nadu,bottle gourd,1900.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,lemon,5500.0
+tamil nadu,brinjal,2250.0
+tamil nadu,tomato,1400.0
+tamil nadu,green chilli,4200.0
+tamil nadu,ginger,7750.0
+tamil nadu,ridge gourd,3800.0
+tamil nadu,tomato,1600.0
+tamil nadu,banana,2250.0
+tamil nadu,beans,7000.0
+tamil nadu,ginger,8000.0
+tamil nadu,cabbage,2000.0
+tamil nadu,drumstick,4000.0
+tamil nadu,guava,4500.0
+tamil nadu,potato,3200.0
+tamil nadu,brinjal,3400.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,snakeguard,3400.0
+tamil nadu,onion,4100.0
+tamil nadu,cauliflower,2400.0
+tamil nadu,bottle gourd,2900.0
+tamil nadu,green chilli,3750.0
+tamil nadu,beans,5800.0
+tamil nadu,carrot,3500.0
+tamil nadu,banana,3800.0
+tamil nadu,bottle gourd,2850.0
+tamil nadu,drumstick,4750.0
+tamil nadu,mango,4500.0
+tamil nadu,green chilli,3750.0
+tamil nadu,beans,5950.0
+tamil nadu,carrot,3750.0
+tamil nadu,beetroot,3750.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,guava,7950.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,beans,6000.0
+tamil nadu,coconut,5500.0
+tamil nadu,snakeguard,3100.0
+tamil nadu,guava,7750.0
+tamil nadu,coriander leaves,3500.0
+tamil nadu,water melon,2000.0
+tamil nadu,tomato,1800.0
+tamil nadu,bottle gourd,1600.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,green chilli,3800.0
+tamil nadu,beans,7000.0
+tamil nadu,ridge gourd,3600.0
+tamil nadu,lime,4000.0
+tamil nadu,cauliflower,4400.0
+tamil nadu,tomato,2200.0
+tamil nadu,pumpkin,2600.0
+tamil nadu,green chilli,4400.0
+tamil nadu,raddish,3000.0
+tamil nadu,capsicum,6000.0
+tamil nadu,drumstick,4600.0
+tamil nadu,mint,3200.0
+tamil nadu,potato,2400.0
+tamil nadu,beans,7000.0
+tamil nadu,coconut,6000.0
+tamil nadu,snakeguard,2700.0
+tamil nadu,banana,5500.0
+tamil nadu,pineapple,8000.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,sweet line,7000.0
+tamil nadu,sweet potato,2650.0
+tamil nadu,snakeguard,1750.0
+tamil nadu,beetroot,1900.0
+tamil nadu,ridge gourd,2900.0
+tamil nadu,green peas,5000.0
+tamil nadu,carrot,3500.0
+tamil nadu,beetroot,2000.0
+tamil nadu,cauliflower,2000.0
+tamil nadu,brinjal,1800.0
+tamil nadu,tomato,1700.0
+tamil nadu,bitter gourd,2600.0
+tamil nadu,green chilli,4100.0
+tamil nadu,raddish,1600.0
+tamil nadu,drumstick,3200.0
+tamil nadu,onion,3200.0
+tamil nadu,banana,6500.0
+tamil nadu,potato,2400.0
+tamil nadu,papaya,3000.0
+tamil nadu,tomato,1700.0
+tamil nadu,bitter gourd,2500.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,sweet potato,2800.0
+tamil nadu,onion,3500.0
+tamil nadu,onion,2500.0
+tamil nadu,potato,2400.0
+tamil nadu,tomato,1600.0
+tamil nadu,carrot,3500.0
+tamil nadu,cabbage,1500.0
+tamil nadu,sweet line,6500.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,banana,2750.0
+tamil nadu,cabbage,1500.0
+tamil nadu,mint,4400.0
+tamil nadu,green chilli,3000.0
+tamil nadu,brinjal,2250.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,sapota,5500.0
+tamil nadu,tomato,2700.0
+tamil nadu,banana,2900.0
+tamil nadu,beans,6300.0
+tamil nadu,ginger,6750.0
+tamil nadu,coconut,5450.0
+tamil nadu,beetroot,2250.0
+tamil nadu,guava,7000.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,green peas,6250.0
+tamil nadu,pumpkin,1200.0
+tamil nadu,green chilli,3250.0
+tamil nadu,banana,4000.0
+tamil nadu,onion,4000.0
+tamil nadu,green chilli,4000.0
+tamil nadu,onion,2500.0
+tamil nadu,bottle gourd,4000.0
+tamil nadu,banana,4000.0
+tamil nadu,cucumber,4000.0
+tamil nadu,onion,2500.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,papaya,3500.0
+tamil nadu,coconut,5000.0
+tamil nadu,drumstick,5000.0
+tamil nadu,banana,4000.0
+tamil nadu,coconut,4000.0
+tamil nadu,ridge gourd,4400.0
+tamil nadu,onion,4400.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,banana,4000.0
+tamil nadu,mango,5400.0
+tamil nadu,tomato,2000.0
+tamil nadu,banana,4000.0
+tamil nadu,brinjal,2400.0
+tamil nadu,tomato,1800.0
+tamil nadu,beans,6400.0
+tamil nadu,mango,4700.0
+tamil nadu,banana,3250.0
+tamil nadu,coriander leaves,4250.0
+tamil nadu,sapota,5250.0
+tamil nadu,coconut,7750.0
+tamil nadu,capsicum,5250.0
+tamil nadu,drumstick,4750.0
+tamil nadu,banana,4500.0
+tamil nadu,water melon,1750.0
+tamil nadu,coconut,4500.0
+tamil nadu,cucumber,3750.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,capsicum,5500.0
+tamil nadu,mango,6500.0
+tamil nadu,mint,2750.0
+tamil nadu,maize,2750.0
+tamil nadu,papaya,2750.0
+tamil nadu,bottle gourd,1800.0
+tamil nadu,ginger,7700.0
+tamil nadu,coconut,4600.0
+tamil nadu,cabbage,2200.0
+tamil nadu,cucumber,1800.0
+tamil nadu,ridge gourd,3300.0
+tamil nadu,drumstick,4600.0
+tamil nadu,maize,1800.0
+tamil nadu,banana,4500.0
+tamil nadu,beans,3850.0
+tamil nadu,ridge gourd,2750.0
+tamil nadu,guava,4500.0
+tamil nadu,lemon,7500.0
+tamil nadu,onion,4500.0
+tamil nadu,banana,4600.0
+tamil nadu,mango,5500.0
+tamil nadu,mint,3650.0
+tamil nadu,banana,4500.0
+tamil nadu,onion,2250.0
+tamil nadu,brinjal,2250.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,tomato,900.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,ridge gourd,2750.0
+tamil nadu,papaya,3750.0
+tamil nadu,tomato,1500.0
+tamil nadu,cucumber,3750.0
+tamil nadu,mango,6600.0
+tamil nadu,lime,4500.0
+tamil nadu,guava,5500.0
+tamil nadu,onion,3300.0
+tamil nadu,onion,2750.0
+tamil nadu,green peas,7000.0
+tamil nadu,sapota,5500.0
+tamil nadu,papaya,4000.0
+tamil nadu,groundnut,7000.0
+tamil nadu,carrot,4600.0
+tamil nadu,cucumber,4600.0
+tamil nadu,raddish,2600.0
+tamil nadu,mango,5600.0
+tamil nadu,banana,4500.0
+tamil nadu,grapes,8000.0
+tamil nadu,onion,2750.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,banana,3000.0
+tamil nadu,guava,8000.0
+tamil nadu,banana,4500.0
+tamil nadu,papaya,3750.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,carrot,4250.0
+tamil nadu,lime,4000.0
+tamil nadu,maize,2750.0
+tamil nadu,banana,5000.0
+tamil nadu,pumpkin,1600.0
+tamil nadu,carrot,4800.0
+tamil nadu,banana,4500.0
+tamil nadu,brinjal,4000.0
+tamil nadu,papaya,4000.0
+tamil nadu,bitter gourd,3600.0
+tamil nadu,bottle gourd,1800.0
+tamil nadu,green chilli,3400.0
+tamil nadu,beans,7000.0
+tamil nadu,coconut,6500.0
+tamil nadu,beetroot,2600.0
+tamil nadu,cucumber,4000.0
+tamil nadu,ridge gourd,3600.0
+tamil nadu,onion,4000.0
+tamil nadu,coconut,6500.0
+tamil nadu,cabbage,2200.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,mango,5000.0
+tamil nadu,guava,6000.0
+tamil nadu,beans,6600.0
+tamil nadu,snakeguard,3600.0
+tamil nadu,cucumber,3000.0
+tamil nadu,mango,6600.0
+tamil nadu,guava,3000.0
+tamil nadu,mint,4000.0
+tamil nadu,green peas,7000.0
+tamil nadu,sapota,3500.0
+tamil nadu,carrot,2200.0
+tamil nadu,cabbage,1800.0
+tamil nadu,snakeguard,2400.0
+tamil nadu,guava,4500.0
+tamil nadu,tomato,1500.0
+tamil nadu,beans,5000.0
+tamil nadu,ginger,7000.0
+tamil nadu,coconut,6000.0
+tamil nadu,ridge gourd,6000.0
+tamil nadu,raddish,2500.0
+tamil nadu,drumstick,4000.0
+tamil nadu,mango,4000.0
+tamil nadu,muskmelon,5000.0
+tamil nadu,mint,4000.0
+tamil nadu,sapota,6000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,raddish,2500.0
+tamil nadu,guava,6000.0
+tamil nadu,onion,5000.0
+tamil nadu,mint,4000.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,sapota,3750.0
+tamil nadu,tomato,1900.0
+tamil nadu,banana,3250.0
+tamil nadu,ridge gourd,5750.0
+tamil nadu,mango,7750.0
+tamil nadu,onion,3250.0
+tamil nadu,mint,3250.0
+tamil nadu,papaya,3250.0
+tamil nadu,beans,7750.0
+tamil nadu,ginger,7000.0
+tamil nadu,carrot,3250.0
+tamil nadu,ridge gourd,5500.0
+tamil nadu,mint,3500.0
+tamil nadu,brinjal,3900.0
+tamil nadu,onion,2350.0
+tamil nadu,cauliflower,3850.0
+tamil nadu,papaya,2350.0
+tamil nadu,bottle gourd,850.0
+tamil nadu,green chilli,3850.0
+tamil nadu,banana,3750.0
+tamil nadu,onion,4850.0
+tamil nadu,brinjal,3750.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,sapota,3750.0
+tamil nadu,banana,2750.0
+tamil nadu,carrot,3750.0
+tamil nadu,cabbage,1800.0
+tamil nadu,snakeguard,3750.0
+tamil nadu,onion,3250.0
+tamil nadu,onion,2250.0
+tamil nadu,banana,3250.0
+tamil nadu,beans,7750.0
+tamil nadu,sapota,3300.0
+tamil nadu,ridge gourd,5500.0
+tamil nadu,mint,3600.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,pumpkin,1350.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,cucumber,1900.0
+tamil nadu,mango,5750.0
+tamil nadu,banana,7500.0
+tamil nadu,potato,2750.0
+tamil nadu,cauliflower,1900.0
+tamil nadu,water melon,1750.0
+tamil nadu,green chilli,4500.0
+tamil nadu,ginger,6500.0
+tamil nadu,sweet potato,4500.0
+tamil nadu,beetroot,3750.0
+tamil nadu,capsicum,5500.0
+tamil nadu,drumstick,5500.0
+tamil nadu,mango,6000.0
+tamil nadu,coriander leaves,5500.0
+tamil nadu,banana,4500.0
+tamil nadu,onion,2250.0
+tamil nadu,papaya,4000.0
+tamil nadu,banana,3000.0
+tamil nadu,ginger,6500.0
+tamil nadu,coconut,5000.0
+tamil nadu,brinjal,2750.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,raddish,2500.0
+tamil nadu,mint,2250.0
+tamil nadu,green chilli,4500.0
+tamil nadu,onion,2500.0
+tamil nadu,potato,2750.0
+tamil nadu,papaya,3750.0
+tamil nadu,ginger,6500.0
+tamil nadu,raddish,3000.0
+tamil nadu,mango,7000.0
+tamil nadu,guava,5500.0
+tamil nadu,banana,3750.0
+tamil nadu,coriander leaves,5500.0
+tamil nadu,cucumber,3750.0
+tamil nadu,beans,4500.0
+tamil nadu,sapota,4500.0
+tamil nadu,green chilli,5500.0
+tamil nadu,sweet potato,3500.0
+tamil nadu,carrot,2400.0
+tamil nadu,cabbage,1500.0
+tamil nadu,raddish,2250.0
+tamil nadu,capsicum,5000.0
+tamil nadu,muskmelon,4000.0
+tamil nadu,mint,2000.0
+tamil nadu,maize,3000.0
+tamil nadu,banana,5500.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,sweet potato,4000.0
+tamil nadu,carrot,2400.0
+tamil nadu,raddish,2000.0
+tamil nadu,capsicum,5000.0
+tamil nadu,muskmelon,4000.0
+tamil nadu,brinjal,2250.0
+tamil nadu,sapota,3750.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,beetroot,2750.0
+tamil nadu,raddish,2750.0
+tamil nadu,cabbage,1750.0
+tamil nadu,cucumber,2750.0
+tamil nadu,guava,4500.0
+tamil nadu,onion,2750.0
+tamil nadu,banana,3750.0
+tamil nadu,sapota,3750.0
+tamil nadu,banana,2750.0
+tamil nadu,coconut,4750.0
+tamil nadu,banana,5500.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,sapota,3750.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,banana,2750.0
+tamil nadu,raddish,2400.0
+tamil nadu,bottle gourd,1600.0
+tamil nadu,onion,3250.0
+tamil nadu,banana,2750.0
+tamil nadu,beans,4500.0
+tamil nadu,ginger,7500.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,beetroot,3500.0
+tamil nadu,mango,8000.0
+tamil nadu,onion,2500.0
+tamil nadu,coriander leaves,4000.0
+tamil nadu,tur,5000.0
+tamil nadu,pumpkin,3000.0
+tamil nadu,ginger,8000.0
+tamil nadu,cabbage,2000.0
+tamil nadu,cucumber,3000.0
+tamil nadu,onion,3500.0
+tamil nadu,papaya,3000.0
+tamil nadu,drumstick,4000.0
+tamil nadu,onion,3000.0
+tamil nadu,brinjal,4000.0
+tamil nadu,bottle gourd,1000.0
+tamil nadu,green chilli,5000.0
+tamil nadu,sweet potato,3500.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,guava,5000.0
+tamil nadu,cauliflower,4000.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,green chilli,5000.0
+tamil nadu,carrot,4000.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,capsicum,8000.0
+tamil nadu,guava,5000.0
+tamil nadu,onion,3500.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,banana,3000.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,cucumber,6000.0
+tamil nadu,raddish,3000.0
+tamil nadu,mint,3000.0
+tamil nadu,maize,3000.0
+tamil nadu,banana,2750.0
+tamil nadu,potato,2750.0
+tamil nadu,brinjal,2750.0
+tamil nadu,sapota,3750.0
+tamil nadu,tomato,1750.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,ridge gourd,4750.0
+tamil nadu,capsicum,7500.0
+tamil nadu,drumstick,3750.0
+tamil nadu,maize,4500.0
+madhya pradesh,wheat,1975.0
+madhya pradesh,wheat,2300.0
+tamil nadu,pineapple,5750.0
+tamil nadu,brinjal,4750.0
+tamil nadu,papaya,4250.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,pumpkin,1400.0
+tamil nadu,coconut,5100.0
+tamil nadu,snakeguard,2900.0
+tamil nadu,beetroot,3550.0
+tamil nadu,drumstick,3750.0
+tamil nadu,mango,3400.0
+tamil nadu,potato,3750.0
+tamil nadu,pumpkin,1750.0
+madhya pradesh,gram,5000.0
+tamil nadu,onion,2100.0
+tamil nadu,maize,2000.0
+tamil nadu,banana,4250.0
+tamil nadu,brinjal,2200.0
+tamil nadu,coriander leaves,3400.0
+tamil nadu,papaya,2750.0
+tamil nadu,water melon,1900.0
+tamil nadu,sweet line,3250.0
+tamil nadu,green chilli,4200.0
+tamil nadu,beans,6750.0
+tamil nadu,ginger,7750.0
+tamil nadu,banana,4250.0
+tamil nadu,water melon,1750.0
+tamil nadu,bottle gourd,1100.0
+tamil nadu,carrot,5250.0
+tamil nadu,cabbage,2250.0
+tamil nadu,beetroot,3750.0
+tamil nadu,cucumber,5500.0
+tamil nadu,drumstick,1750.0
+tamil nadu,maize,3000.0
+tamil nadu,green peas,4800.0
+tamil nadu,pumpkin,1300.0
+tamil nadu,snakeguard,1900.0
+tamil nadu,mint,2500.0
+maharashtra,muskmelon,1100.0
+maharashtra,ginger,4000.0
+maharashtra,bottle gourd,1000.0
+maharashtra,guar,6500.0
+maharashtra,beans,2300.0
+maharashtra,green peas,5000.0
+madhya pradesh,wheat,2175.0
+madhya pradesh,wheat,2010.0
+madhya pradesh,mustard,6000.0
+madhya pradesh,lentil,6650.0
+tamil nadu,coriander leaves,5000.0
+tamil nadu,papaya,4000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,groundnut,6000.0
+tamil nadu,mango,7000.0
+tamil nadu,mint,3000.0
+madhya pradesh,wheat,2100.0
+tamil nadu,green chilli,4200.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,potato,3000.0
+tamil nadu,brinjal,2500.0
+tamil nadu,tomato,1500.0
+tamil nadu,mango,6000.0
+tamil nadu,onion,3500.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,green peas,6500.0
+tamil nadu,green chilli,4000.0
+tamil nadu,beans,6750.0
+tamil nadu,ginger,7750.0
+tamil nadu,beetroot,3350.0
+tamil nadu,ridge gourd,4350.0
+tamil nadu,raddish,2250.0
+tamil nadu,beetroot,2750.0
+tamil nadu,cucumber,3750.0
+tamil nadu,mint,4750.0
+tamil nadu,coriander leaves,2900.0
+tamil nadu,bitter gourd,2400.0
+tamil nadu,pumpkin,1300.0
+tamil nadu,banana,2750.0
+tamil nadu,carrot,2950.0
+tamil nadu,cabbage,1700.0
+tamil nadu,ridge gourd,2900.0
+tamil nadu,onion,2950.0
+tamil nadu,banana,3750.0
+tamil nadu,onion,2750.0
+tamil nadu,papaya,2750.0
+tamil nadu,green chilli,4750.0
+tamil nadu,guava,4750.0
+tamil nadu,onion,3250.0
+kerala,banana,3900.0
+odisha,brinjal,2000.0
+himachal pradesh,peas,2900.0
+himachal pradesh,pumpkin,3300.0
+himachal pradesh,carrot,2600.0
+himachal pradesh,papaya,4800.0
+uttarakhand,tomato,1700.0
+uttarakhand,ginger,2600.0
+haryana,grapes,8000.0
+haryana,muskmelon,2750.0
+haryana,sweet line,3500.0
+haryana,capsicum,3250.0
+haryana,pumpkin,1250.0
+haryana,raddish,1100.0
+haryana,guar,7000.0
+odisha,banana,2000.0
+kerala,cabbage,2600.0
+kerala,cabbage,2400.0
+kerala,carrot,4600.0
+kerala,beetroot,2400.0
+uttarakhand,cucumber,566.66
+andhra pradesh,tomato,900.0
+uttarakhand,bitter gourd,750.0
+madhya pradesh,wheat,2250.0
+uttar pradesh,wheat,2440.0
+west bengal,wheat,3100.0
+west bengal,rice,4600.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,sapota,3400.0
+tamil nadu,papaya,3400.0
+tamil nadu,tomato,1400.0
+tamil nadu,bitter gourd,2900.0
+tamil nadu,bottle gourd,1350.0
+tamil nadu,banana,2900.0
+tamil nadu,snakeguard,1350.0
+tamil nadu,beetroot,3300.0
+tamil nadu,banana,3750.0
+tamil nadu,coconut,4750.0
+tamil nadu,carrot,5750.0
+tamil nadu,raddish,2100.0
+tamil nadu,sapota,3250.0
+tamil nadu,beans,4000.0
+tamil nadu,cucumber,2250.0
+tamil nadu,mint,2500.0
+tamil nadu,tomato,1800.0
+tamil nadu,bitter gourd,2800.0
+tamil nadu,beans,6600.0
+tamil nadu,onion,4600.0
+tamil nadu,bitter gourd,4500.0
+tamil nadu,bottle gourd,3000.0
+tamil nadu,mango,7000.0
+tamil nadu,onion,4000.0
+tamil nadu,bitter gourd,2750.0
+tamil nadu,pumpkin,1250.0
+tamil nadu,onion,3750.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,beans,7250.0
+tamil nadu,guava,5500.0
+tamil nadu,cauliflower,3250.0
+tamil nadu,pumpkin,1850.0
+tamil nadu,beans,7750.0
+tamil nadu,carrot,5750.0
+tamil nadu,cabbage,2750.0
+tamil nadu,guava,5500.0
+maharashtra,papaya,900.0
+maharashtra,muskmelon,1000.0
+maharashtra,cauliflower,950.0
+maharashtra,methi leaves,650.0
+maharashtra,ridge gourd,3000.0
+maharashtra,cauliflower,750.0
+maharashtra,cabbage,600.0
+maharashtra,methi leaves,2500.0
+maharashtra,ginger,2750.0
+maharashtra,bottle gourd,2500.0
+maharashtra,garlic,7500.0
+uttar pradesh,water melon,1200.0
+tripura,bitter gourd,5800.0
+west bengal,brinjal,1500.0
+west bengal,onion,1000.0
+west bengal,pumpkin,2500.0
+west bengal,tomato,1400.0
+west bengal,potato,1600.0
+west bengal,onion,2800.0
+west bengal,ginger,8000.0
+west bengal,onion,2800.0
+tamil nadu,onion,2000.0
+tamil nadu,potato,4000.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,beans,7700.0
+tamil nadu,beetroot,4300.0
+tamil nadu,ridge gourd,4600.0
+tamil nadu,raddish,2600.0
+tamil nadu,guava,5500.0
+tamil nadu,tomato,1800.0
+tamil nadu,pumpkin,1000.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,raddish,1800.0
+tamil nadu,drumstick,3000.0
+tamil nadu,onion,3500.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,beetroot,3000.0
+tamil nadu,ridge gourd,5750.0
+tamil nadu,ginger,6650.0
+tamil nadu,snakeguard,5250.0
+tamil nadu,cucumber,7750.0
+tamil nadu,ridge gourd,5750.0
+tamil nadu,drumstick,2750.0
+tamil nadu,maize,3250.0
+tamil nadu,cauliflower,2000.0
+tamil nadu,coriander leaves,2000.0
+tamil nadu,sapota,4000.0
+tamil nadu,sweet line,2750.0
+tamil nadu,bitter gourd,4250.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,carrot,6100.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,mint,3000.0
+tamil nadu,tomato,2000.0
+tamil nadu,raddish,3000.0
+tamil nadu,cauliflower,1750.0
+tamil nadu,green peas,6250.0
+tamil nadu,sapota,3750.0
+tamil nadu,tomato,2250.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,coconut,5250.0
+tamil nadu,raddish,1850.0
+tamil nadu,capsicum,5500.0
+tamil nadu,mango,6500.0
+tamil nadu,sapota,3500.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,cucumber,2500.0
+tamil nadu,onion,4000.0
+tamil nadu,mint,2500.0
+tamil nadu,ginger,8400.0
+tamil nadu,cucumber,5000.0
+tamil nadu,lime,4000.0
+tamil nadu,banana,5000.0
+tamil nadu,potato,2800.0
+tamil nadu,papaya,4000.0
+tamil nadu,bitter gourd,3000.0
+tamil nadu,green chilli,3250.0
+tamil nadu,ginger,8000.0
+tamil nadu,carrot,3000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,raddish,2000.0
+tamil nadu,onion,3500.0
+tamil nadu,bottle gourd,1500.0
+tamil nadu,pumpkin,2500.0
+tamil nadu,ginger,8000.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,mint,3000.0
+madhya pradesh,wheat,2190.0
+madhya pradesh,gram,5150.0
+madhya pradesh,wheat,2225.0
+madhya pradesh,wheat,2100.0
+madhya pradesh,wheat,2030.0
+madhya pradesh,wheat,2151.0
+madhya pradesh,maize,1683.0
+madhya pradesh,wheat,2000.0
+gujarat,tomato,1500.0
+gujarat,onion,1250.0
+gujarat,bottle gourd,1750.0
+gujarat,papaya,1875.0
+gujarat,guava,2625.0
+gujarat,guar,5950.0
+gujarat,banana,1775.0
+karnataka,groundnut,4996.0
+telangana,cauliflower,900.0
+telangana,cucumber,1400.0
+kerala,bitter gourd,6100.0
+kerala,onion,2300.0
+west bengal,brinjal,1200.0
+west bengal,pumpkin,2000.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,pumpkin,2750.0
+tamil nadu,green chilli,4500.0
+tamil nadu,beetroot,2750.0
+tamil nadu,banana,5500.0
+tamil nadu,potato,3300.0
+tamil nadu,tomato,2000.0
+tamil nadu,bitter gourd,5700.0
+tamil nadu,bottle gourd,2400.0
+tamil nadu,green chilli,4200.0
+tamil nadu,beans,7200.0
+tamil nadu,carrot,4200.0
+tamil nadu,cabbage,2400.0
+tamil nadu,beetroot,3000.0
+uttarakhand,apple,6800.0
+andhra pradesh,tomato,1080.0
+haryana,muskmelon,2000.0
+rajasthan,potato,400.0
+odisha,bitter gourd,3500.0
+odisha,pumpkin,1200.0
+punjab,cauliflower,1000.0
+west bengal,brinjal,1745.0
+tamil nadu,potato,3750.0
+tamil nadu,sweet line,5300.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,ginger,6350.0
+tamil nadu,snakeguard,3200.0
+tamil nadu,capsicum,4750.0
+tamil nadu,onion,3000.0
+haryana,capsicum,1800.0
+haryana,ginger,3000.0
+haryana,potato,600.0
+uttar pradesh,cucumber,1600.0
+uttar pradesh,brinjal,1600.0
+uttar pradesh,garlic,6200.0
+uttar pradesh,green chilli,4200.0
+haryana,peas,1900.0
+haryana,capsicum,1900.0
+haryana,banana,2000.0
+haryana,brinjal,1000.0
+haryana,tomato,1500.0
+tamil nadu,sapota,4250.0
+tamil nadu,ginger,7200.0
+tamil nadu,carrot,4750.0
+tamil nadu,beetroot,4600.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,turnip,4250.0
+kerala,carrot,4300.0
+kerala,banana,3700.0
+kerala,pineapple,5500.0
+kerala,capsicum,6200.0
+kerala,onion,2700.0
+kerala,tomato,3500.0
+kerala,banana,6700.0
+kerala,pumpkin,1900.0
+kerala,onion,4000.0
+kerala,beetroot,3000.0
+kerala,brinjal,4000.0
+kerala,snakeguard,3400.0
+kerala,cabbage,2600.0
+kerala,tomato,3500.0
+gujarat,tur,7300.0
+haryana,onion,1320.0
+punjab,cauliflower,2500.0
+himachal pradesh,potato,800.0
+himachal pradesh,carrot,1800.0
+himachal pradesh,raddish,1300.0
+west bengal,ginger,5800.0
+west bengal,onion,1900.0
+tamil nadu,mango,6500.0
+tamil nadu,brinjal,2850.0
+tamil nadu,coriander leaves,4200.0
+tamil nadu,green peas,8650.0
+tamil nadu,sapota,3250.0
+tamil nadu,banana,3750.0
+tamil nadu,beans,7050.0
+tamil nadu,coconut,4200.0
+tamil nadu,carrot,4250.0
+tamil nadu,cabbage,1400.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,drumstick,2100.0
+madhya pradesh,maize,1800.0
+tamil nadu,coriander leaves,5250.0
+tamil nadu,sapota,3800.0
+tamil nadu,papaya,2350.0
+tamil nadu,green chilli,4750.0
+tamil nadu,ginger,7750.0
+tamil nadu,tomato,1600.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,drumstick,2200.0
+tamil nadu,guava,5200.0
+haryana,cabbage,550.0
+haryana,spinach,700.0
+haryana,ginger,7000.0
+haryana,beetroot,2000.0
+haryana,coriander leaves,1500.0
+tamil nadu,brinjal,2600.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,green chilli,3400.0
+tamil nadu,banana,4000.0
+tamil nadu,snakeguard,2000.0
+tamil nadu,onion,4000.0
+odisha,bitter gourd,4800.0
+odisha,brinjal,2000.0
+tamil nadu,sapota,3750.0
+tamil nadu,beans,7150.0
+tamil nadu,coconut,4750.0
+tamil nadu,sweet potato,4750.0
+tamil nadu,ridge gourd,5150.0
+tamil nadu,guava,6600.0
+tamil nadu,lemon,7150.0
+tamil nadu,onion,2750.0
+tamil nadu,banana,2250.0
+tamil nadu,carrot,4000.0
+tamil nadu,drumstick,3750.0
+tamil nadu,potato,3700.0
+tamil nadu,coriander leaves,4700.0
+tamil nadu,beans,6700.0
+tamil nadu,capsicum,2600.0
+tamil nadu,banana,5800.0
+tamil nadu,potato,3200.0
+tamil nadu,onion,1950.0
+tamil nadu,water melon,2300.0
+tamil nadu,tomato,2300.0
+tamil nadu,bitter gourd,4200.0
+tamil nadu,groundnut,6750.0
+tamil nadu,ginger,6350.0
+tamil nadu,carrot,4200.0
+tamil nadu,sweet line,5750.0
+tamil nadu,bitter gourd,4650.0
+tamil nadu,ginger,7000.0
+tamil nadu,sweet potato,3250.0
+tamil nadu,snakeguard,3250.0
+tamil nadu,capsicum,5250.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,bottle gourd,2250.0
+tamil nadu,banana,3500.0
+tamil nadu,carrot,4750.0
+tamil nadu,raddish,2750.0
+uttar pradesh,rice,2881.0
+tamil nadu,cauliflower,3250.0
+tamil nadu,brinjal,2250.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,green peas,7250.0
+tamil nadu,sapota,4750.0
+tamil nadu,banana,5250.0
+tamil nadu,beans,8250.0
+tamil nadu,beetroot,4250.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,raddish,2600.0
+tamil nadu,maize,4250.0
+chandigarh,bottle gourd,1200.0
+chandigarh,onion,1200.0
+chandigarh,bitter gourd,4500.0
+chandigarh,brinjal,1700.0
+tamil nadu,banana,5500.0
+tamil nadu,potato,3750.0
+tamil nadu,brinjal,2500.0
+tamil nadu,sapota,3750.0
+tamil nadu,bottle gourd,750.0
+tamil nadu,green chilli,3500.0
+tamil nadu,banana,3750.0
+tamil nadu,sweet potato,3250.0
+tamil nadu,cabbage,2750.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,onion,2000.0
+tamil nadu,tomato,1800.0
+tamil nadu,bottle gourd,2250.0
+tamil nadu,green chilli,4750.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,raddish,3250.0
+tamil nadu,onion,2600.0
+tamil nadu,cauliflower,3000.0
+tamil nadu,sapota,4000.0
+tamil nadu,tomato,2000.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,green chilli,3500.0
+tamil nadu,ginger,8000.0
+tamil nadu,cabbage,2500.0
+tamil nadu,lime,4000.0
+tamil nadu,onion,3750.0
+tamil nadu,mint,2500.0
+tamil nadu,banana,2500.0
+tamil nadu,potato,3000.0
+tamil nadu,banana,5500.0
+tamil nadu,tomato,2000.0
+tamil nadu,bottle gourd,2250.0
+tamil nadu,ginger,7000.0
+tamil nadu,snakeguard,3000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,mango,6000.0
+tamil nadu,banana,5500.0
+tamil nadu,brinjal,3000.0
+tamil nadu,papaya,4000.0
+tamil nadu,guava,5000.0
+tamil nadu,beans,6000.0
+tamil nadu,brinjal,2500.0
+tamil nadu,coriander leaves,5000.0
+tamil nadu,cucumber,3000.0
+tamil nadu,cauliflower,2450.0
+tamil nadu,green chilli,3900.0
+tamil nadu,carrot,3300.0
+tamil nadu,drumstick,3900.0
+tamil nadu,cauliflower,2900.0
+tamil nadu,tomato,1550.0
+tamil nadu,groundnut,6350.0
+tamil nadu,green chilli,5850.0
+tamil nadu,mint,3900.0
+tamil nadu,maize,1900.0
+tamil nadu,potato,2750.0
+tamil nadu,bitter gourd,2700.0
+tamil nadu,beans,5800.0
+tamil nadu,cabbage,1800.0
+tamil nadu,cucumber,2800.0
+tamil nadu,raddish,1300.0
+tamil nadu,banana,6500.0
+tamil nadu,beans,7750.0
+tamil nadu,onion,3000.0
+tamil nadu,banana,4500.0
+tamil nadu,potato,3500.0
+tamil nadu,sapota,3500.0
+tamil nadu,green chilli,4500.0
+tamil nadu,carrot,5500.0
+tamil nadu,raddish,3500.0
+tamil nadu,capsicum,6500.0
+tamil nadu,mint,2250.0
+tamil nadu,tomato,1750.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,snakeguard,3500.0
+tamil nadu,onion,3500.0
+tamil nadu,mint,2750.0
+tamil nadu,brinjal,3100.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,ridge gourd,3800.0
+tamil nadu,drumstick,2100.0
+tamil nadu,mango,3400.0
+tamil nadu,guava,5250.0
+tamil nadu,onion,2750.0
+tamil nadu,potato,2900.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,beans,7800.0
+tamil nadu,coconut,4400.0
+tamil nadu,ridge gourd,3700.0
+tamil nadu,brinjal,1600.0
+tamil nadu,bitter gourd,3200.0
+tamil nadu,cucumber,2400.0
+tamil nadu,lemon,6750.0
+tamil nadu,mint,4250.0
+tamil nadu,cauliflower,3000.0
+tamil nadu,papaya,3500.0
+tamil nadu,beans,4250.0
+tamil nadu,coconut,5700.0
+tamil nadu,cabbage,1000.0
+tamil nadu,beetroot,2250.0
+tamil nadu,drumstick,3500.0
+tamil nadu,maize,2500.0
+tamil nadu,bottle gourd,2250.0
+tamil nadu,pumpkin,2250.0
+tamil nadu,ridge gourd,3750.0
+tamil nadu,capsicum,4750.0
+tamil nadu,guava,5750.0
+tamil nadu,banana,4500.0
+tamil nadu,brinjal,2500.0
+tamil nadu,sweet line,6000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,beans,4000.0
+tamil nadu,beetroot,3500.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,brinjal,1800.0
+tamil nadu,green peas,5500.0
+tamil nadu,beetroot,2900.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,ginger,7500.0
+tamil nadu,carrot,5600.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,banana,3250.0
+tamil nadu,papaya,3250.0
+tamil nadu,coconut,5250.0
+tamil nadu,mango,5500.0
+tamil nadu,banana,3750.0
+tamil nadu,green chilli,3500.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,banana,7500.0
+tamil nadu,pineapple,7500.0
+tamil nadu,papaya,3500.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,mango,5500.0
+tamil nadu,guava,7500.0
+tamil nadu,cauliflower,1750.0
+tamil nadu,papaya,2800.0
+tamil nadu,water melon,2200.0
+tamil nadu,tomato,900.0
+tamil nadu,bitter gourd,2200.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,sweet potato,2200.0
+tamil nadu,cabbage,1250.0
+tamil nadu,snakeguard,2400.0
+tamil nadu,drumstick,4500.0
+tamil nadu,guava,5250.0
+tamil nadu,green chilli,5500.0
+tamil nadu,banana,3750.0
+tamil nadu,ginger,7250.0
+tamil nadu,cabbage,900.0
+tamil nadu,cucumber,2250.0
+tamil nadu,capsicum,2750.0
+tamil nadu,mint,2750.0
+tamil nadu,potato,2250.0
+tamil nadu,coriander leaves,5500.0
+tamil nadu,tomato,1250.0
+tamil nadu,beans,5500.0
+tamil nadu,coconut,5500.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,capsicum,3500.0
+tamil nadu,banana,3750.0
+tamil nadu,pineapple,7000.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,sapota,4500.0
+tamil nadu,papaya,3800.0
+tamil nadu,water melon,2000.0
+tamil nadu,beans,5500.0
+tamil nadu,cucumber,7500.0
+tamil nadu,guava,7500.0
+tamil nadu,brinjal,3500.0
+tamil nadu,bottle gourd,2600.0
+tamil nadu,beans,5500.0
+tamil nadu,drumstick,4000.0
+tamil nadu,mint,2750.0
+tamil nadu,onion,2900.0
+tamil nadu,papaya,3800.0
+tamil nadu,sweet line,7500.0
+tamil nadu,guava,7500.0
+tamil nadu,mint,2750.0
+tamil nadu,onion,2750.0
+tamil nadu,green chilli,3300.0
+tamil nadu,banana,2750.0
+tamil nadu,drumstick,4000.0
+tamil nadu,onion,3900.0
+tamil nadu,groundnut,4500.0
+tamil nadu,bottle gourd,2500.0
+tamil nadu,banana,2000.0
+tamil nadu,sweet potato,3300.0
+tamil nadu,snakeguard,3300.0
+tamil nadu,raddish,2250.0
+tamil nadu,sapota,4500.0
+tamil nadu,papaya,3800.0
+tamil nadu,tomato,1750.0
+tamil nadu,bitter gourd,3500.0
+tamil nadu,banana,2200.0
+tamil nadu,beetroot,3400.0
+tamil nadu,cucumber,7000.0
+tamil nadu,raddish,2250.0
+tamil nadu,drumstick,4500.0
+tamil nadu,mango,7250.0
+tamil nadu,onion,3250.0
+tamil nadu,potato,3750.0
+tamil nadu,pumpkin,3500.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,onion,4500.0
+tamil nadu,beans,5750.0
+tamil nadu,cucumber,2750.0
+tamil nadu,ridge gourd,4750.0
+tamil nadu,mango,6750.0
+tamil nadu,onion,2500.0
+tamil nadu,cauliflower,2500.0
+tamil nadu,green peas,7500.0
+tamil nadu,papaya,2750.0
+tamil nadu,water melon,1200.0
+tamil nadu,groundnut,7250.0
+tamil nadu,sweet potato,4750.0
+tamil nadu,cabbage,1650.0
+tamil nadu,drumstick,2250.0
+tamil nadu,lime,3750.0
+tamil nadu,guava,6500.0
+tamil nadu,muskmelon,2650.0
+tamil nadu,mint,3750.0
+tamil nadu,cauliflower,3000.0
+tamil nadu,sweet line,3750.0
+tamil nadu,coconut,5100.0
+tamil nadu,raddish,2400.0
+tamil nadu,guava,5500.0
+tamil nadu,lemon,7250.0
+tamil nadu,banana,3750.0
+tamil nadu,onion,2300.0
+tamil nadu,water melon,1750.0
+tamil nadu,green chilli,5250.0
+tamil nadu,banana,2750.0
+tamil nadu,ginger,7000.0
+tamil nadu,carrot,5250.0
+tamil nadu,cabbage,2250.0
+tamil nadu,snakeguard,4250.0
+tamil nadu,ridge gourd,5250.0
+tamil nadu,drumstick,2750.0
+tamil nadu,groundnut,7500.0
+tamil nadu,bottle gourd,1200.0
+tamil nadu,beetroot,4500.0
+tamil nadu,pineapple,8500.0
+tamil nadu,brinjal,2250.0
+tamil nadu,papaya,4750.0
+tamil nadu,coconut,5250.0
+tamil nadu,capsicum,5750.0
+tamil nadu,onion,2700.0
+tamil nadu,tomato,1650.0
+tamil nadu,raddish,2200.0
+tamil nadu,onion,3500.0
+tamil nadu,potato,3750.0
+tamil nadu,cauliflower,4500.0
+tamil nadu,pumpkin,1250.0
+tamil nadu,banana,2750.0
+tamil nadu,tomato,1750.0
+tamil nadu,pumpkin,1250.0
+tamil nadu,coconut,5500.0
+tamil nadu,sweet potato,4250.0
+tamil nadu,drumstick,3250.0
+tamil nadu,banana,2750.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,onion,3650.0
+tamil nadu,tomato,1850.0
+tamil nadu,bitter gourd,1850.0
+tamil nadu,green chilli,2750.0
+tamil nadu,raddish,2300.0
+tamil nadu,mint,4600.0
+tamil nadu,cauliflower,4750.0
+tamil nadu,brinjal,5250.0
+tamil nadu,coriander leaves,6250.0
+tamil nadu,soybean,8250.0
+tamil nadu,green chilli,4750.0
+tamil nadu,carrot,3750.0
+tamil nadu,mango,5250.0
+tamil nadu,mint,5750.0
+tamil nadu,banana,4750.0
+tamil nadu,brinjal,5500.0
+tamil nadu,bitter gourd,5250.0
+tamil nadu,coconut,5750.0
+tamil nadu,brinjal,5250.0
+tamil nadu,coriander leaves,5750.0
+tamil nadu,papaya,3250.0
+tamil nadu,bottle gourd,1900.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,mango,5500.0
+tamil nadu,muskmelon,2750.0
+tamil nadu,lemon,5500.0
+tamil nadu,banana,4750.0
+tamil nadu,onion,2750.0
+tamil nadu,potato,3250.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,sapota,3500.0
+tamil nadu,groundnut,6500.0
+tamil nadu,cabbage,3200.0
+tamil nadu,cucumber,3500.0
+tamil nadu,drumstick,3500.0
+tamil nadu,banana,4250.0
+tamil nadu,onion,2800.0
+tamil nadu,coriander leaves,3600.0
+tamil nadu,bitter gourd,3900.0
+tamil nadu,snakeguard,2600.0
+tamil nadu,ridge gourd,3800.0
+tamil nadu,drumstick,2750.0
+tamil nadu,muskmelon,2250.0
+tamil nadu,maize,3250.0
+tamil nadu,pumpkin,1900.0
+tamil nadu,ginger,8000.0
+tamil nadu,cabbage,2750.0
+tamil nadu,beetroot,4750.0
+tamil nadu,ridge gourd,3800.0
+tamil nadu,lemon,6500.0
+tamil nadu,mint,3300.0
+tamil nadu,banana,4250.0
+tamil nadu,onion,2900.0
+tamil nadu,sapota,3900.0
+tamil nadu,papaya,2900.0
+tamil nadu,tomato,1500.0
+tamil nadu,beans,8250.0
+tamil nadu,carrot,5900.0
+tamil nadu,capsicum,6750.0
+tamil nadu,mint,2900.0
+tamil nadu,maize,3000.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,brinjal,1900.0
+tamil nadu,banana,2200.0
+tamil nadu,ginger,7750.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,cabbage,2750.0
+tamil nadu,mango,4500.0
+tamil nadu,mint,2750.0
+tamil nadu,banana,4250.0
+tamil nadu,papaya,2750.0
+tamil nadu,water melon,1900.0
+tamil nadu,beans,6750.0
+tamil nadu,carrot,5250.0
+tamil nadu,capsicum,6750.0
+tamil nadu,lime,3250.0
+tamil nadu,guava,5750.0
+tamil nadu,mint,3250.0
+tamil nadu,banana,5500.0
+tamil nadu,green peas,7500.0
+tamil nadu,bitter gourd,3750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,lemon,7000.0
+tamil nadu,banana,4000.0
+tamil nadu,sapota,4700.0
+tamil nadu,papaya,4000.0
+tamil nadu,tomato,2100.0
+tamil nadu,banana,3000.0
+tamil nadu,beetroot,3500.0
+tamil nadu,raddish,2400.0
+tamil nadu,drumstick,4500.0
+tamil nadu,mint,2900.0
+tamil nadu,onion,2750.0
+tamil nadu,banana,2750.0
+tamil nadu,coconut,5500.0
+tamil nadu,beetroot,3600.0
+tamil nadu,guava,7600.0
+tamil nadu,mint,3100.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,green chilli,3800.0
+tamil nadu,beans,6750.0
+tamil nadu,coconut,6000.0
+tamil nadu,cabbage,2200.0
+tamil nadu,capsicum,6500.0
+tamil nadu,brinjal,3750.0
+tamil nadu,coconut,5750.0
+tamil nadu,raddish,2750.0
+tamil nadu,mint,3250.0
+tamil nadu,bitter gourd,3750.0
+tamil nadu,bottle gourd,2250.0
+tamil nadu,green chilli,3750.0
+tamil nadu,beetroot,3250.0
+tamil nadu,onion,4250.0
+tamil nadu,onion,2600.0
+tamil nadu,guava,8000.0
+tamil nadu,brinjal,3500.0
+tamil nadu,bottle gourd,2600.0
+tamil nadu,banana,3000.0
+tamil nadu,beans,7400.0
+tamil nadu,cabbage,2200.0
+tamil nadu,ridge gourd,5600.0
+tamil nadu,onion,4000.0
+tamil nadu,onion,3600.0
+tamil nadu,brinjal,2000.0
+tamil nadu,green chilli,3800.0
+tamil nadu,onion,2450.0
+tamil nadu,potato,2400.0
+tamil nadu,cauliflower,2000.0
+tamil nadu,brinjal,1700.0
+tamil nadu,ginger,6400.0
+tamil nadu,carrot,2950.0
+tamil nadu,drumstick,2500.0
+tamil nadu,mint,2500.0
+tamil nadu,coconut,4800.0
+tamil nadu,sweet potato,3000.0
+tamil nadu,cabbage,1500.0
+tamil nadu,ridge gourd,2500.0
+tamil nadu,raddish,1600.0
+tamil nadu,onion,3100.0
+tamil nadu,mint,2500.0
+tamil nadu,beans,4700.0
+tamil nadu,papaya,3250.0
+tamil nadu,snakeguard,2000.0
+tamil nadu,ridge gourd,3000.0
+tamil nadu,mint,2500.0
+tamil nadu,onion,2500.0
+tamil nadu,cauliflower,2000.0
+tamil nadu,brinjal,1800.0
+tamil nadu,green chilli,4000.0
+tamil nadu,drumstick,3000.0
+tamil nadu,banana,5000.0
+tamil nadu,cauliflower,2000.0
+tamil nadu,bitter gourd,2700.0
+tamil nadu,ginger,6400.0
+tamil nadu,coconut,4800.0
+tamil nadu,beetroot,2000.0
+tamil nadu,raddish,1600.0
+tamil nadu,mint,2500.0
+tamil nadu,tomato,2700.0
+tamil nadu,pumpkin,1300.0
+tamil nadu,beans,6500.0
+tamil nadu,ginger,6750.0
+tamil nadu,coconut,5350.0
+tamil nadu,raddish,2750.0
+tamil nadu,coriander leaves,3900.0
+tamil nadu,coconut,5350.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,pumpkin,1300.0
+tamil nadu,capsicum,5250.0
+tamil nadu,drumstick,3100.0
+tamil nadu,onion,3750.0
+tamil nadu,cauliflower,3400.0
+tamil nadu,papaya,4250.0
+tamil nadu,bitter gourd,2600.0
+tamil nadu,beans,6300.0
+tamil nadu,sweet potato,2250.0
+tamil nadu,beetroot,2250.0
+tamil nadu,raddish,2750.0
+tamil nadu,ridge gourd,4000.0
+tamil nadu,raddish,3000.0
+tamil nadu,raddish,4000.0
+tamil nadu,onion,6000.0
+tamil nadu,brinjal,4000.0
+tamil nadu,coriander leaves,6000.0
+tamil nadu,tomato,2000.0
+tamil nadu,tomato,2000.0
+tamil nadu,brinjal,3000.0
+tamil nadu,tomato,2000.0
+tamil nadu,raddish,3000.0
+tamil nadu,brinjal,4000.0
+tamil nadu,potato,3200.0
+tamil nadu,brinjal,2400.0
+tamil nadu,mango,4700.0
+tamil nadu,mint,4000.0
+tamil nadu,snakeguard,2600.0
+tamil nadu,onion,4000.0
+tamil nadu,bitter gourd,4000.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,cauliflower,5000.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,cabbage,2000.0
+tamil nadu,drumstick,3600.0
+tamil nadu,cauliflower,3250.0
+tamil nadu,papaya,3250.0
+tamil nadu,tomato,2250.0
+tamil nadu,bottle gourd,2750.0
+tamil nadu,green chilli,4750.0
+tamil nadu,beans,7750.0
+tamil nadu,cabbage,2750.0
+tamil nadu,ridge gourd,4750.0
+tamil nadu,guava,5750.0
+tamil nadu,potato,2250.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,green peas,7500.0
+tamil nadu,sweet line,4500.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,snakeguard,2700.0
+tamil nadu,lime,3750.0
+tamil nadu,coriander leaves,4600.0
+tamil nadu,bitter gourd,3650.0
+tamil nadu,beetroot,2750.0
+tamil nadu,raddish,1800.0
+tamil nadu,mint,3650.0
+tamil nadu,mango,6500.0
+tamil nadu,papaya,2750.0
+tamil nadu,pumpkin,2250.0
+tamil nadu,cabbage,2750.0
+tamil nadu,snakeguard,2750.0
+tamil nadu,onion,4500.0
+tamil nadu,bottle gourd,1800.0
+tamil nadu,pumpkin,2750.0
+tamil nadu,banana,1800.0
+tamil nadu,beans,3900.0
+tamil nadu,coconut,4500.0
+tamil nadu,drumstick,4500.0
+tamil nadu,guava,4500.0
+tamil nadu,water melon,1850.0
+tamil nadu,bitter gourd,3300.0
+tamil nadu,groundnut,7500.0
+tamil nadu,beans,7700.0
+tamil nadu,coconut,6600.0
+tamil nadu,raddish,1750.0
+tamil nadu,maize,2750.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,sweet line,6000.0
+tamil nadu,tomato,2000.0
+tamil nadu,pumpkin,1800.0
+tamil nadu,sweet potato,4000.0
+tamil nadu,mint,3000.0
+tamil nadu,maize,3000.0
+tamil nadu,potato,3000.0
+tamil nadu,tomato,2000.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,beans,7000.0
+tamil nadu,ginger,8000.0
+tamil nadu,beetroot,3000.0
+tamil nadu,raddish,2250.0
+tamil nadu,drumstick,3750.0
+tamil nadu,onion,3500.0
+tamil nadu,beetroot,2650.0
+tamil nadu,onion,3000.0
+tamil nadu,mint,2750.0
+tamil nadu,cauliflower,3500.0
+tamil nadu,ridge gourd,3600.0
+tamil nadu,cauliflower,3500.0
+tamil nadu,cabbage,2000.0
+tamil nadu,beans,5500.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,banana,5000.0
+tamil nadu,tomato,1800.0
+tamil nadu,green chilli,4300.0
+tamil nadu,onion,4600.0
+tamil nadu,maize,2400.0
+tamil nadu,green chilli,3600.0
+tamil nadu,banana,3200.0
+tamil nadu,ginger,6500.0
+tamil nadu,coconut,2500.0
+tamil nadu,cucumber,2500.0
+tamil nadu,mango,6000.0
+tamil nadu,muskmelon,4000.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,bitter gourd,4500.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,cabbage,2500.0
+tamil nadu,onion,2250.0
+tamil nadu,bitter gourd,7000.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,carrot,3500.0
+tamil nadu,snakeguard,4000.0
+tamil nadu,ridge gourd,6000.0
+tamil nadu,bottle gourd,1750.0
+tamil nadu,pumpkin,2250.0
+tamil nadu,sweet potato,3750.0
+tamil nadu,guava,4750.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,cabbage,2650.0
+tamil nadu,beetroot,2550.0
+tamil nadu,drumstick,3750.0
+tamil nadu,tomato,2850.0
+tamil nadu,carrot,2350.0
+tamil nadu,snakeguard,1900.0
+tamil nadu,beetroot,3650.0
+tamil nadu,raddish,2350.0
+tamil nadu,tomato,1800.0
+tamil nadu,green chilli,4750.0
+tamil nadu,beetroot,2750.0
+tamil nadu,raddish,2750.0
+tamil nadu,drumstick,3750.0
+tamil nadu,guava,4750.0
+tamil nadu,banana,3750.0
+tamil nadu,papaya,3250.0
+tamil nadu,coconut,5750.0
+tamil nadu,cabbage,2750.0
+tamil nadu,onion,3250.0
+tamil nadu,mint,3250.0
+tamil nadu,banana,3600.0
+tamil nadu,onion,2750.0
+tamil nadu,brinjal,4050.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,green chilli,4500.0
+tamil nadu,guava,3600.0
+tamil nadu,papaya,4750.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,cabbage,2750.0
+tamil nadu,drumstick,3750.0
+tamil nadu,onion,4650.0
+tamil nadu,onion,2750.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,tur,7500.0
+tamil nadu,green peas,5500.0
+tamil nadu,bottle gourd,3250.0
+tamil nadu,beans,7500.0
+tamil nadu,carrot,5500.0
+tamil nadu,ridge gourd,4500.0
+tamil nadu,muskmelon,2750.0
+tamil nadu,potato,3500.0
+tamil nadu,brinjal,3750.0
+tamil nadu,tomato,1750.0
+tamil nadu,cabbage,2250.0
+tamil nadu,brinjal,4000.0
+tamil nadu,water melon,2000.0
+tamil nadu,tomato,1750.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,green chilli,3000.0
+tamil nadu,beans,3000.0
+tamil nadu,coconut,3000.0
+tamil nadu,cauliflower,1900.0
+tamil nadu,sweet line,6500.0
+tamil nadu,bitter gourd,4250.0
+tamil nadu,banana,3750.0
+tamil nadu,sweet potato,4500.0
+tamil nadu,cucumber,3750.0
+tamil nadu,bitter gourd,4250.0
+tamil nadu,green chilli,4500.0
+tamil nadu,sweet potato,4500.0
+tamil nadu,carrot,5500.0
+tamil nadu,snakeguard,3250.0
+tamil nadu,capsicum,5500.0
+tamil nadu,guava,5500.0
+tamil nadu,banana,5500.0
+tamil nadu,cauliflower,3000.0
+tamil nadu,papaya,3500.0
+tamil nadu,water melon,1500.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,ginger,7000.0
+tamil nadu,beetroot,2800.0
+tamil nadu,potato,2400.0
+tamil nadu,brinjal,2000.0
+tamil nadu,green chilli,6000.0
+tamil nadu,beans,4800.0
+tamil nadu,cabbage,2000.0
+tamil nadu,mango,5000.0
+tamil nadu,potato,2750.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,coconut,4300.0
+tamil nadu,cabbage,1750.0
+tamil nadu,ridge gourd,4750.0
+tamil nadu,onion,1750.0
+tamil nadu,potato,2500.0
+tamil nadu,brinjal,4500.0
+tamil nadu,coriander leaves,3500.0
+tamil nadu,papaya,2750.0
+tamil nadu,tomato,1250.0
+tamil nadu,bottle gourd,1250.0
+tamil nadu,banana,2750.0
+tamil nadu,carrot,3500.0
+tamil nadu,snakeguard,1750.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,papaya,2750.0
+tamil nadu,water melon,1750.0
+tamil nadu,pumpkin,2250.0
+tamil nadu,carrot,5250.0
+tamil nadu,beetroot,3750.0
+tamil nadu,onion,3650.0
+tamil nadu,tomato,1650.0
+tamil nadu,green chilli,4250.0
+tamil nadu,cabbage,2200.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,onion,2750.0
+tamil nadu,mint,1900.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,pumpkin,1750.0
+tamil nadu,coconut,5750.0
+tamil nadu,snakeguard,3750.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,bitter gourd,3500.0
+tamil nadu,cabbage,2900.0
+tamil nadu,cucumber,2500.0
+tamil nadu,ridge gourd,2500.0
+tamil nadu,raddish,1750.0
+tamil nadu,sapota,2500.0
+tamil nadu,papaya,4000.0
+tamil nadu,green chilli,5000.0
+tamil nadu,sweet potato,3000.0
+tamil nadu,carrot,3000.0
+tamil nadu,onion,4000.0
+tamil nadu,cauliflower,4000.0
+tamil nadu,water melon,1500.0
+tamil nadu,tomato,1500.0
+tamil nadu,groundnut,8000.0
+tamil nadu,ginger,8000.0
+tamil nadu,raddish,2500.0
+tamil nadu,guava,6000.0
+tamil nadu,banana,5000.0
+tamil nadu,pumpkin,1500.0
+tamil nadu,coconut,5750.0
+tamil nadu,mint,4500.0
+tamil nadu,onion,3500.0
+tamil nadu,sapota,4000.0
+tamil nadu,bitter gourd,5000.0
+tamil nadu,coconut,6000.0
+tamil nadu,cucumber,4000.0
+tamil nadu,raddish,3000.0
+tamil nadu,drumstick,4000.0
+tamil nadu,onion,2500.0
+tamil nadu,groundnut,8000.0
+tamil nadu,bitter gourd,5500.0
+tamil nadu,sweet potato,3000.0
+tamil nadu,drumstick,3000.0
+tamil nadu,cauliflower,3750.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,bitter gourd,4750.0
+tamil nadu,pumpkin,1250.0
+tamil nadu,cabbage,2750.0
+tamil nadu,beetroot,2750.0
+tamil nadu,mint,3750.0
+madhya pradesh,wheat,2130.0
+madhya pradesh,wheat,2150.0
+madhya pradesh,wheat,2200.0
+tamil nadu,carrot,5250.0
+tamil nadu,coriander leaves,5500.0
+tamil nadu,papaya,2750.0
+tamil nadu,bitter gourd,3750.0
+tamil nadu,coconut,5500.0
+madhya pradesh,wheat,2160.0
+tamil nadu,brinjal,1750.0
+tamil nadu,coriander leaves,3000.0
+tamil nadu,beans,4250.0
+tamil nadu,carrot,1600.0
+tamil nadu,ridge gourd,3250.0
+tamil nadu,capsicum,3750.0
+tamil nadu,potato,3250.0
+tamil nadu,cauliflower,2750.0
+tamil nadu,tomato,1400.0
+tamil nadu,bitter gourd,3800.0
+tamil nadu,groundnut,6750.0
+tamil nadu,coconut,4500.0
+tamil nadu,carrot,5750.0
+tamil nadu,capsicum,6750.0
+tamil nadu,drumstick,3500.0
+tamil nadu,mint,2750.0
+tamil nadu,sweet potato,2750.0
+tamil nadu,mango,6500.0
+tamil nadu,lemon,6250.0
+tamil nadu,onion,2900.0
+tamil nadu,cauliflower,2250.0
+tamil nadu,brinjal,1700.0
+tamil nadu,banana,2750.0
+tamil nadu,beetroot,2000.0
+tamil nadu,raddish,1550.0
+maharashtra,grapes,5000.0
+maharashtra,papaya,1000.0
+maharashtra,beetroot,1100.0
+maharashtra,carrot,1500.0
+maharashtra,mango,4500.0
+maharashtra,bitter gourd,2300.0
+madhya pradesh,wheat,2205.0
+madhya pradesh,mustard,5805.0
+tamil nadu,onion,2700.0
+tamil nadu,tur,6000.0
+tamil nadu,tomato,1500.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,banana,2500.0
+tamil nadu,ginger,8000.0
+tamil nadu,sweet potato,4000.0
+tamil nadu,beetroot,3500.0
+tamil nadu,drumstick,5000.0
+tamil nadu,onion,4000.0
+madhya pradesh,wheat,2225.0
+tamil nadu,coriander leaves,3750.0
+tamil nadu,papaya,2250.0
+tamil nadu,carrot,3250.0
+tamil nadu,beetroot,2750.0
+tamil nadu,capsicum,6500.0
+tamil nadu,mint,3250.0
+tamil nadu,onion,2500.0
+tamil nadu,coriander leaves,4500.0
+tamil nadu,bottle gourd,2000.0
+tamil nadu,pumpkin,2000.0
+tamil nadu,green chilli,4000.0
+tamil nadu,ginger,7000.0
+tamil nadu,potato,3750.0
+tamil nadu,bitter gourd,3900.0
+tamil nadu,carrot,3350.0
+tamil nadu,capsicum,6250.0
+tamil nadu,mint,4250.0
+tamil nadu,cauliflower,3250.0
+tamil nadu,coriander leaves,6750.0
+tamil nadu,bitter gourd,3250.0
+tamil nadu,green chilli,4100.0
+tamil nadu,ridge gourd,4250.0
+tamil nadu,raddish,2750.0
+tamil nadu,capsicum,6500.0
+tamil nadu,onion,2300.0
+tamil nadu,potato,2300.0
+tamil nadu,papaya,3250.0
+tamil nadu,tomato,1600.0
+tamil nadu,bottle gourd,900.0
+tamil nadu,ginger,6200.0
+tamil nadu,drumstick,2900.0
+tamil nadu,mint,2500.0
+tamil nadu,brinjal,2750.0
+tamil nadu,coriander leaves,4750.0
+tamil nadu,carrot,3250.0
+tamil nadu,snakeguard,2250.0
+tamil nadu,beetroot,2250.0
+kerala,banana,3700.0
+kerala,banana,3400.0
+tripura,bitter gourd,5500.0
+himachal pradesh,spinach,2700.0
+himachal pradesh,cauliflower,2500.0
+himachal pradesh,cucumber,3000.0
+himachal pradesh,french beans,6800.0
+himachal pradesh,raddish,1500.0
+himachal pradesh,water melon,3100.0
+uttarakhand,cauliflower,600.0
+uttarakhand,bottle gourd,1200.0
+uttarakhand,french beans,2500.0
+haryana,apple,8000.0
+haryana,bitter gourd,5500.0
+haryana,pineapple,4000.0
+haryana,cucumber,1600.0
+haryana,cabbage,600.0
+haryana,tomato,1200.0
+kerala,banana,4500.0
+kerala,brinjal,2800.0
+kerala,banana,2100.0
+kerala,green chilli,6200.0
+kerala,potato,2300.0
+kerala,snakeguard,2800.0
+haryana,carrot,1500.0
