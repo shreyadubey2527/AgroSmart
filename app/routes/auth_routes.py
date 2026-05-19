@@ -65,11 +65,11 @@ def send_otp():
     if email:
         try:
             # We use Brevo (Sendinblue) API to bypass Render's SMTP block
-            brevo_api_key = os.environ.get("BREVO_API_KEY")
+            brevo_api_key = os.environ.get("agrosmart")
             
             if not brevo_api_key:
-                print("EMAIL ERROR: BREVO_API_KEY is not set in environment variables.")
-                return jsonify({"success": False, "message": "Email service is not configured. Please add BREVO_API_KEY."}), 500
+                print("EMAIL ERROR: agrosmart is not set in environment variables.")
+                return jsonify({"success": False, "message": "Email service is not configured. Please add the 'agrosmart' environment variable."}), 500
 
             subject = _("AgroSmart - OTP Verification")
 
