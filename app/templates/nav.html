@@ -10,31 +10,40 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link {{ 'active' if request.path == '/' else '' }}" aria-current="page" href="/">{{ _("Home") }}</a>
+                    <a class="nav-link {{ 'active' if request.path == '/' else '' }}" aria-current="page" href="/">{{
+                        _("Home") }}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ 'active' if request.path == url_for('main.about') else '' }}" aria-current="page" href="{{ url_for('main.about') }}">{{ _("About")
+                    <a class="nav-link {{ 'active' if request.path == url_for('main.about') else '' }}"
+                        aria-current="page" href="{{ url_for('main.about') }}">{{ _("About")
                         }}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ 'active' if request.path == url_for('main.contact') else '' }}" aria-current="page" href="{{ url_for('main.contact') }}">{{ _("Contact")
+                    <a class="nav-link {{ 'active' if request.path == url_for('main.contact') else '' }}"
+                        aria-current="page" href="{{ url_for('main.contact') }}">{{ _("Contact")
                         }}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ 'active' if request.path == url_for('main.support') else '' }}" aria-current="page" href="{{ url_for('main.support') }}">{{ _("Support")
+                    <a class="nav-link {{ 'active' if request.path == url_for('main.support') else '' }}"
+                        aria-current="page" href="{{ url_for('main.support') }}">{{ _("Support")
                         }}</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ 'active' if request.path == url_for('main.weather_page') else '' }}" aria-current="page" href="{{ url_for('main.weather_page') }}">{{
+                    <a class="nav-link {{ 'active' if request.path == url_for('main.weather_page') else '' }}"
+                        aria-current="page" href="{{ url_for('main.weather_page') }}">{{
                         _("Weather") }}</a>
                 </li>
+
                 <li class="nav-item">
-                    <a class="nav-link {{ 'active' if request.path == url_for('main.settings') else '' }}" aria-current="page" href="{{ url_for('main.settings') }}">{{
-                        _("Settings") }}</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link {{ 'active' if request.path == url_for('main.schemes') else '' }}" aria-current="page" href="{{ url_for('main.schemes') }}">{{ _("Government
+                    <a class="nav-link {{ 'active' if request.path == url_for('main.schemes') else '' }}"
+                        aria-current="page" href="{{ url_for('main.schemes') }}">{{ _("Government
                         Schemes") }}</a>
+                </li>
+                {% if 'user_id' in session %}
+                <li class="nav-item">
+                    <a class="nav-link {{ 'active' if request.path == url_for('main.settings') else '' }}"
+                        aria-current="page" href="{{ url_for('main.settings') }}">{{
+                        _("Settings") }}</a>
                 </li>
 
 
