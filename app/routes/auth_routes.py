@@ -5,7 +5,8 @@ import random
 from email.mime.text import MIMEText
 from werkzeug.security import generate_password_hash, check_password_hash
 from functools import wraps
-import smtplib
+import os
+import requests
 from ..models.db import get_db
 
 auth = Blueprint("auth", __name__)
@@ -63,10 +64,12 @@ def send_otp():
     # Send Email
     if email:
         try:
-            sender_email = "agrosmart.support@gmail.com"
-            sender_password = "vwlxwehaqkcgzfpp"
-           
-      # 🔒 Replace with env variable (recommended)
+            # We use Brevo (Sendinblue) API to bypass Render's SMTP block
+            brevo_api_key = os.environ.get("BREVO_API_KEY")
+            
+            if not brevo_api_key:
+                print("EMAIL ERROR: BREVO_API_KEY is not set in environment variables.")
+                return jsonify({"success": False, "message": "Email service is not configured. Please add BREVO_API_KEY."}), 500
 
             subject = _("AgroSmart - OTP Verification")
 
@@ -92,19 +95,26 @@ Best regards,
 AgroSmart Support Team  
 Email: agrosmart.support@gmail.com""", otp=otp)
 
-            msg = MIMEText(body, "plain", "utf-8")
-            msg["Subject"] = subject
-            msg["From"] = sender_email
-            msg["To"] = email
+            headers = {
+                "accept": "application/json",
+                "api-key": brevo_api_key,
+                "content-type": "application/json"
+            }
+            
+            payload = {
+                "sender": {"name": "AgroSmart Support", "email": "agrosmart.support@gmail.com"},
+                "to": [{"email": email}],
+                "subject": subject,
+                "textContent": body
+            }
 
-            # SMTP Setup
-            server = smtplib.SMTP("smtp.gmail.com", 587, timeout=10)
-            server.starttls()
-            server.login(sender_email, sender_password)
-            server.sendmail(sender_email, email, msg.as_string())
-            server.quit()
+            response = requests.post("https://api.brevo.com/v3/smtp/email", headers=headers, json=payload, timeout=10)
+            
+            if response.status_code >= 400:
+                print(f"Brevo API Error: {response.status_code} - {response.text}")
+                return jsonify({"success": False, "message": "Failed to send OTP via email service."}), 500
 
-            print("Email sent successfully")
+            print("Email sent successfully via Brevo API")
 
         except Exception as e:
             print("EMAIL ERROR:", repr(e))
